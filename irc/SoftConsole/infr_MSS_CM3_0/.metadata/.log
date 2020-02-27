@@ -1,0 +1,1789 @@
+!SESSION 2020-02-26 18:38:24.327 -----------------------------------------------
+eclipse.buildId=M20101209-1200
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  ; LIBERO IDE VERSION 11.9.0.4 Release:v11.9 ; DO NOT MODIFY THIS FILE ; MANUAL MODIFICATION OF THIS FILE MAY HAVE ADVERSE IMPACT ; ON PROFILES RESTORE [PROFILE1] NAME="Softconsole33" FUNCTION="SoftwareIDE" TOOL="SoftConsole" LOCATION="C:\Microsemi\SoftConsole v3.3\Eclipse\eclipse.exe" PARAM="" BATCH=0 LICENSE="" IS32BIT="1" [ACTIVEPROFILES] SoftwareIDE="Softconsole33" Synthesis="Synplify Pro ME" Simulation="ModelSim ME" Program="FPExpress" IdentifyDebugger="Identify Debugger" -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\projects\infr_MSS_CM3_0_hw_platform
+Command-line arguments:  -os win32 -ws win32 -arch x86 ; LIBERO IDE VERSION 11.9.0.4 Release:v11.9 ; DO NOT MODIFY THIS FILE ; MANUAL MODIFICATION OF THIS FILE MAY HAVE ADVERSE IMPACT ; ON PROFILES RESTORE [PROFILE1] NAME="Softconsole33" FUNCTION="SoftwareIDE" TOOL="SoftConsole" LOCATION="C:\Microsemi\SoftConsole v3.3\Eclipse\eclipse.exe" PARAM="" BATCH=0 LICENSE="" IS32BIT="1" [ACTIVEPROFILES] SoftwareIDE="Softconsole33" Synthesis="Synplify Pro ME" Simulation="ModelSim ME" Program="FPExpress" IdentifyDebugger="Identify Debugger" -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0 -import C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\projects\infr_MSS_CM3_0_hw_platform
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.033
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.starting in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.033
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.rebuild.makefiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.048
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.update.makefiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.048
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.incremental in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.048
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.updating in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.048
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.make in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.048
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.internal.builder in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.064
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.regen.deps in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.064
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.updating.deps in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.064
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.creating.markers in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.064
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.console.header in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.064
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.internal.builder.header.note in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.080
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.no.build in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.080
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.080
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.error.refresh in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.080
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.finished in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.080
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.cancelled in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.095
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.finished.with.errs in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.095
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.internal.builder.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.095
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.stopped.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.095
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.clean.deleting.output in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.111
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.clean.build.clean in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.111
+!MESSAGE NLS unused message: ManagedMakeBuilder.type.clean in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.111
+!MESSAGE NLS unused message: ManagedMakeBuider.type.incremental in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.111
+!MESSAGE NLS unused message: ManagedMakeBuider.type.rebuild in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.111
+!MESSAGE NLS unused message: ManagedMakeBuilder.warning.unsupported.configuration in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.127
+!MESSAGE NLS unused message: Option.error.bad_value_type in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.127
+!MESSAGE NLS unused message: ManagedBuildManager.error.owner_not_null in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.127
+!MESSAGE NLS unused message: ManagedBuildManager.error.null_owner in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.127
+!MESSAGE NLS unused message: ManagedBuildManager.error.owner_not_project in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.127
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest_load_failed_title in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.127
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.version.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.142
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.header in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.142
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.resolving in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.142
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.duplicate in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.142
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.icon in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.142
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.option.category in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.158
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.option.filter in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.158
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.option.valuehandler in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.158
+!MESSAGE NLS unused message: ManagedBuildManager.error.open_failed_title in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.158
+!MESSAGE NLS unused message: ManagedBuildManager.error.open_failed in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.158
+!MESSAGE NLS unused message: ManagedBuildManager.error.write_failed_title in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.173
+!MESSAGE NLS unused message: ManagedBuildManager.error.write_failed in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.173
+!MESSAGE NLS unused message: ManagedBuildManager.error.read_only in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.173
+!MESSAGE NLS unused message: ManagedBuildManager.error.project.version.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.173
+!MESSAGE NLS unused message: ManagedBuildManager.error.id.nomatch in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.173
+!MESSAGE NLS unused message: ManagedBuildManager.error.project.file.missing in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.189
+!MESSAGE NLS unused message: MakefileGenerator.message.start.file in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.189
+!MESSAGE NLS unused message: MakefileGenerator.message.finish.file in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.189
+!MESSAGE NLS unused message: MakefileGenerator.message.start.build in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.189
+!MESSAGE NLS unused message: MakefileGenerator.message.finish.build in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.189
+!MESSAGE NLS unused message: MakefileGenerator.message.start.dependency in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.189
+!MESSAGE NLS unused message: MakefileGenerator.message.no.target in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.205
+!MESSAGE NLS unused message: MakefileGenerator.message.adding.source.folder in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.205
+!MESSAGE NLS unused message: MakefileGenerator.message.gen.source.makefile in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.205
+!MESSAGE NLS unused message: MakefileGenerator.message.calc.delta in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.205
+!MESSAGE NLS unused message: MakefileGenerator.message.finding.sources in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.205
+!MESSAGE NLS unused message: MakefileGenerator.comment.module.list in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.220
+!MESSAGE NLS unused message: MakefileGenerator.comment.module.variables in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.220
+!MESSAGE NLS unused message: MakefileGenerator.comment.source.list in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.220
+!MESSAGE NLS unused message: MakefileGenerator.comment.build.rule in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.220
+!MESSAGE NLS unused message: MakefileGenerator.comment.build.toprules in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.220
+!MESSAGE NLS unused message: MakefileGenerator.comment.build.alltarget in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.236
+!MESSAGE NLS unused message: MakefileGenerator.comment.build.mainbuildtarget in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.237
+!MESSAGE NLS unused message: MakefileGenerator.comment.build.toptargets in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.237
+!MESSAGE NLS unused message: MakefileGenerator.comment.module.make.includes in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.237
+!MESSAGE NLS unused message: MakefileGenerator.comment.module.dep.includes in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.237
+!MESSAGE NLS unused message: MakefileGenerator.comment.autodeps in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.237
+!MESSAGE NLS unused message: MakefileGenerator.comment.header in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.253
+!MESSAGE NLS unused message: MakefileGenerator.error.spaces in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.253
+!MESSAGE NLS unused message: MakeBuilder.Invoking_Make_Builder in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.253
+!MESSAGE NLS unused message: MakeBuilder.Invoking_Command in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.253
+!MESSAGE NLS unused message: MakeBuilder.Updating_project in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.253
+!MESSAGE NLS unused message: MakeBuilder.Creating_Markers in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.268
+!MESSAGE NLS unused message: MakefileGenerator.warning.no.source in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.268
+!MESSAGE NLS unused message: MakefileGenerator.error.no.nameprovider in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.268
+!MESSAGE NLS unused message: ManagedBuildInfo.message.job.init in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.268
+!MESSAGE NLS unused message: ManagedBuildInfo.message.init.ok in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.268
+!MESSAGE NLS unused message: GnuMakefileGenerator.message.postproc.dep.file in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.268
+!MESSAGE NLS unused message: Tool.default.announcement in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.284
+!MESSAGE NLS unused message: StorableEnvironmentLoader.storeOutputStream.wrong.arguments in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.284
+!MESSAGE NLS unused message: UserDefinedMacroSupplier.storeOutputStream.wrong.arguments in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.284
+!MESSAGE NLS unused message: BuildMacroStatus.status.macro.undefined in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.284
+!MESSAGE NLS unused message: BuildFilesAction.buildingSelectedFiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.284
+!MESSAGE NLS unused message: BuildDescriptionGnuMakefileGenerator.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.300
+!MESSAGE NLS unused message: BuildDescriptionGnuMakefileGenerator.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.300
+!MESSAGE NLS unused message: BuildFilesAction.buildSelectedFile in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.300
+!MESSAGE NLS unused message: BuildMacroStatus.status.reference.eachother in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.300
+!MESSAGE NLS unused message: BuildMacroStatus.status.reference.incorrect in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.300
+!MESSAGE NLS unused message: BuildMacroStatus.status.macro.not.string in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.315
+!MESSAGE NLS unused message: BuildMacroStatus.status.macro.not.stringlist in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.315
+!MESSAGE NLS unused message: BuildMacroStatus.status.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.315
+!MESSAGE NLS unused message: BuildMacroStatus.value.undefined in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.315
+!MESSAGE NLS unused message: BuildInfoFactory.Missing_Builder in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.315
+!MESSAGE NLS unused message: ResourceChangeHandler.buildInfoSerializationJob in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.331
+!MESSAGE NLS unused message: GeneratedMakefileBuilder.buildResourcesFinished in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.331
+!MESSAGE NLS unused message: GeneratedMakefileBuilder.buildSelectedIncremental in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.331
+!MESSAGE NLS unused message: GeneratedMakefileBuilder.buildSelectedRebuild in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.331
+!MESSAGE NLS unused message: GeneratedMakefileBuilder.buildingFile in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.331
+!MESSAGE NLS unused message: GenerateMakefileWithBuildDescription.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.331
+!MESSAGE NLS unused message: GenerateMakefileWithBuildDescription.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.347
+!MESSAGE NLS unused message: GeneratedMakefileBuilder.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.347
+!MESSAGE NLS unused message: BuildFilesAction.building in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.347
+!MESSAGE NLS unused message: BuildFilesAction.buildFiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.347
+!MESSAGE NLS unused message: ManagedBuilderCorePlugin.resourceChangeHandlingInitializationJob in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.347
+!MESSAGE NLS unused message: InternalBuilder.msg.header in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.362
+!MESSAGE NLS unused message: InternalBuilder.nothing.todo in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.362
+!MESSAGE NLS unused message: CleanFilesAction.cleanFiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.362
+!MESSAGE NLS unused message: CleanFilesAction.cleanSelectedFiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.362
+!MESSAGE NLS unused message: CleanFilesAction.cleaningFiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.362
+!MESSAGE NLS unused message: BuilderFactory.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.378
+!MESSAGE NLS unused message: FolderInfo.4 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.378
+!MESSAGE NLS unused message: MbsMacroSupplier.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.378
+!MESSAGE NLS unused message: MbsMacroSupplier.2 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.378
+!MESSAGE NLS unused message: GnuLinkOutputNameProvider.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.378
+!MESSAGE NLS unused message: CommonBuilder.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.378
+!MESSAGE NLS unused message: CommonBuilder.2 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.393
+!MESSAGE NLS unused message: CommonBuilder.6 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.393
+!MESSAGE NLS unused message: CommonBuilder.7 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.393
+!MESSAGE NLS unused message: CommonBuilder.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.404
+!MESSAGE NLS unused message: CommonBuilder.16 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.408
+!MESSAGE NLS unused message: CommonBuilder.12 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.410
+!MESSAGE NLS unused message: CommonBuilder.13 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.410
+!MESSAGE NLS unused message: CommonBuilder.22 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.410
+!MESSAGE NLS unused message: CommonBuilder.23 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.410
+!MESSAGE NLS unused message: CommonBuilder.24 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.410
+!MESSAGE NLS unused message: MakeBuilder.buildError in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.425
+!MESSAGE NLS unused message: MultiResourceInfo.MultiResourceInfo.UnhandledIHoldsOptionsType in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.425
+!MESSAGE NLS unused message: ResourceChangeHandler2.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.425
+!MESSAGE NLS unused message: ToolInfo.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:25.425
+!MESSAGE NLS unused message: ToolInfo.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-26 18:38:26.738
+!MESSAGE Indexed 'infr_MSS_CM3_0_hw_platform' (12 sources, 51 headers) in 0.59 sec: 3,216 declarations; 6,955 references; 3 unresolved inclusions; 0 syntax errors; 1 unresolved names (0.01%)
+!SESSION 2020-02-26 18:38:27.522 -----------------------------------------------
+eclipse.buildId=M20101209-1200
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  ; LIBERO IDE VERSION 11.9.0.4 Release:v11.9 ; DO NOT MODIFY THIS FILE ; MANUAL MODIFICATION OF THIS FILE MAY HAVE ADVERSE IMPACT ; ON PROFILES RESTORE [PROFILE1] NAME="Softconsole33" FUNCTION="SoftwareIDE" TOOL="SoftConsole" LOCATION="C:\Microsemi\SoftConsole v3.3\Eclipse\eclipse.exe" PARAM="" BATCH=0 LICENSE="" IS32BIT="1" [ACTIVEPROFILES] SoftwareIDE="Softconsole33" Synthesis="Synplify Pro ME" Simulation="ModelSim ME" Program="FPExpress" IdentifyDebugger="Identify Debugger" -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\projects\infr_MSS_CM3_0_app
+Command-line arguments:  -os win32 -ws win32 -arch x86 ; LIBERO IDE VERSION 11.9.0.4 Release:v11.9 ; DO NOT MODIFY THIS FILE ; MANUAL MODIFICATION OF THIS FILE MAY HAVE ADVERSE IMPACT ; ON PROFILES RESTORE [PROFILE1] NAME="Softconsole33" FUNCTION="SoftwareIDE" TOOL="SoftConsole" LOCATION="C:\Microsemi\SoftConsole v3.3\Eclipse\eclipse.exe" PARAM="" BATCH=0 LICENSE="" IS32BIT="1" [ACTIVEPROFILES] SoftwareIDE="Softconsole33" Synthesis="Synplify Pro ME" Simulation="ModelSim ME" Program="FPExpress" IdentifyDebugger="Identify Debugger" -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0 -import C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\projects\infr_MSS_CM3_0_app
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-26 18:38:28.123
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.255
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.starting in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.259
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.rebuild.makefiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.264
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.update.makefiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.266
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.incremental in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.271
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.updating in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.274
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.make in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.278
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.internal.builder in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.281
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.regen.deps in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.285
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.updating.deps in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.288
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.creating.markers in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.291
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.console.header in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.295
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.internal.builder.header.note in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.298
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.no.build in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.303
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.307
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.error.refresh in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.310
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.finished in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.313
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.cancelled in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.316
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.finished.with.errs in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.320
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.internal.builder.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.323
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.stopped.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.326
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.clean.deleting.output in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.330
+!MESSAGE NLS unused message: ManagedMakeBuilder.message.clean.build.clean in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.333
+!MESSAGE NLS unused message: ManagedMakeBuilder.type.clean in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.337
+!MESSAGE NLS unused message: ManagedMakeBuider.type.incremental in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.340
+!MESSAGE NLS unused message: ManagedMakeBuider.type.rebuild in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.344
+!MESSAGE NLS unused message: ManagedMakeBuilder.warning.unsupported.configuration in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.347
+!MESSAGE NLS unused message: Option.error.bad_value_type in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.350
+!MESSAGE NLS unused message: ManagedBuildManager.error.owner_not_null in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.353
+!MESSAGE NLS unused message: ManagedBuildManager.error.null_owner in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.356
+!MESSAGE NLS unused message: ManagedBuildManager.error.owner_not_project in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.360
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest_load_failed_title in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.365
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.version.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.368
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.header in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.371
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.resolving in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.375
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.duplicate in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.378
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.icon in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.381
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.option.category in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.384
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.option.filter in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.387
+!MESSAGE NLS unused message: ManagedBuildManager.error.manifest.option.valuehandler in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.391
+!MESSAGE NLS unused message: ManagedBuildManager.error.open_failed_title in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.394
+!MESSAGE NLS unused message: ManagedBuildManager.error.open_failed in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.397
+!MESSAGE NLS unused message: ManagedBuildManager.error.write_failed_title in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.400
+!MESSAGE NLS unused message: ManagedBuildManager.error.write_failed in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.404
+!MESSAGE NLS unused message: ManagedBuildManager.error.read_only in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.407
+!MESSAGE NLS unused message: ManagedBuildManager.error.project.version.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.411
+!MESSAGE NLS unused message: ManagedBuildManager.error.id.nomatch in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.414
+!MESSAGE NLS unused message: ManagedBuildManager.error.project.file.missing in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.417
+!MESSAGE NLS unused message: MakefileGenerator.message.start.file in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.420
+!MESSAGE NLS unused message: MakefileGenerator.message.finish.file in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.423
+!MESSAGE NLS unused message: MakefileGenerator.message.start.build in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.426
+!MESSAGE NLS unused message: MakefileGenerator.message.finish.build in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.447
+!MESSAGE NLS unused message: MakefileGenerator.message.start.dependency in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.447
+!MESSAGE NLS unused message: MakefileGenerator.message.no.target in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.463
+!MESSAGE NLS unused message: MakefileGenerator.message.adding.source.folder in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.463
+!MESSAGE NLS unused message: MakefileGenerator.message.gen.source.makefile in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.476
+!MESSAGE NLS unused message: MakefileGenerator.message.calc.delta in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.476
+!MESSAGE NLS unused message: MakefileGenerator.message.finding.sources in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.476
+!MESSAGE NLS unused message: MakefileGenerator.comment.module.list in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.476
+!MESSAGE NLS unused message: MakefileGenerator.comment.module.variables in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.492
+!MESSAGE NLS unused message: MakefileGenerator.comment.source.list in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.492
+!MESSAGE NLS unused message: MakefileGenerator.comment.build.rule in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.492
+!MESSAGE NLS unused message: MakefileGenerator.comment.build.toprules in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.492
+!MESSAGE NLS unused message: MakefileGenerator.comment.build.alltarget in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.492
+!MESSAGE NLS unused message: MakefileGenerator.comment.build.mainbuildtarget in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.507
+!MESSAGE NLS unused message: MakefileGenerator.comment.build.toptargets in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.507
+!MESSAGE NLS unused message: MakefileGenerator.comment.module.make.includes in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.507
+!MESSAGE NLS unused message: MakefileGenerator.comment.module.dep.includes in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.507
+!MESSAGE NLS unused message: MakefileGenerator.comment.autodeps in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.523
+!MESSAGE NLS unused message: MakefileGenerator.comment.header in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.523
+!MESSAGE NLS unused message: MakefileGenerator.error.spaces in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.523
+!MESSAGE NLS unused message: MakeBuilder.Invoking_Make_Builder in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.523
+!MESSAGE NLS unused message: MakeBuilder.Invoking_Command in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.523
+!MESSAGE NLS unused message: MakeBuilder.Updating_project in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.539
+!MESSAGE NLS unused message: MakeBuilder.Creating_Markers in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.539
+!MESSAGE NLS unused message: MakefileGenerator.warning.no.source in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.539
+!MESSAGE NLS unused message: MakefileGenerator.error.no.nameprovider in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.539
+!MESSAGE NLS unused message: ManagedBuildInfo.message.job.init in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.554
+!MESSAGE NLS unused message: ManagedBuildInfo.message.init.ok in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.554
+!MESSAGE NLS unused message: GnuMakefileGenerator.message.postproc.dep.file in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.554
+!MESSAGE NLS unused message: Tool.default.announcement in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.554
+!MESSAGE NLS unused message: StorableEnvironmentLoader.storeOutputStream.wrong.arguments in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.570
+!MESSAGE NLS unused message: UserDefinedMacroSupplier.storeOutputStream.wrong.arguments in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.570
+!MESSAGE NLS unused message: BuildMacroStatus.status.macro.undefined in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.570
+!MESSAGE NLS unused message: BuildFilesAction.buildingSelectedFiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.570
+!MESSAGE NLS unused message: BuildDescriptionGnuMakefileGenerator.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.570
+!MESSAGE NLS unused message: BuildDescriptionGnuMakefileGenerator.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.586
+!MESSAGE NLS unused message: BuildFilesAction.buildSelectedFile in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.586
+!MESSAGE NLS unused message: BuildMacroStatus.status.reference.eachother in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.586
+!MESSAGE NLS unused message: BuildMacroStatus.status.reference.incorrect in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.586
+!MESSAGE NLS unused message: BuildMacroStatus.status.macro.not.string in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.586
+!MESSAGE NLS unused message: BuildMacroStatus.status.macro.not.stringlist in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.601
+!MESSAGE NLS unused message: BuildMacroStatus.status.error in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.601
+!MESSAGE NLS unused message: BuildMacroStatus.value.undefined in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.601
+!MESSAGE NLS unused message: BuildInfoFactory.Missing_Builder in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.601
+!MESSAGE NLS unused message: ResourceChangeHandler.buildInfoSerializationJob in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.601
+!MESSAGE NLS unused message: GeneratedMakefileBuilder.buildResourcesFinished in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.601
+!MESSAGE NLS unused message: GeneratedMakefileBuilder.buildSelectedIncremental in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.617
+!MESSAGE NLS unused message: GeneratedMakefileBuilder.buildSelectedRebuild in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.617
+!MESSAGE NLS unused message: GeneratedMakefileBuilder.buildingFile in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.617
+!MESSAGE NLS unused message: GenerateMakefileWithBuildDescription.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.617
+!MESSAGE NLS unused message: GenerateMakefileWithBuildDescription.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.617
+!MESSAGE NLS unused message: GeneratedMakefileBuilder.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.632
+!MESSAGE NLS unused message: BuildFilesAction.building in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.632
+!MESSAGE NLS unused message: BuildFilesAction.buildFiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.632
+!MESSAGE NLS unused message: ManagedBuilderCorePlugin.resourceChangeHandlingInitializationJob in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.632
+!MESSAGE NLS unused message: InternalBuilder.msg.header in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.632
+!MESSAGE NLS unused message: InternalBuilder.nothing.todo in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.648
+!MESSAGE NLS unused message: CleanFilesAction.cleanFiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.648
+!MESSAGE NLS unused message: CleanFilesAction.cleanSelectedFiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.648
+!MESSAGE NLS unused message: CleanFilesAction.cleaningFiles in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.648
+!MESSAGE NLS unused message: BuilderFactory.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.648
+!MESSAGE NLS unused message: FolderInfo.4 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.664
+!MESSAGE NLS unused message: MbsMacroSupplier.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.664
+!MESSAGE NLS unused message: MbsMacroSupplier.2 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.664
+!MESSAGE NLS unused message: GnuLinkOutputNameProvider.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.664
+!MESSAGE NLS unused message: CommonBuilder.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.664
+!MESSAGE NLS unused message: CommonBuilder.2 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.679
+!MESSAGE NLS unused message: CommonBuilder.6 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.679
+!MESSAGE NLS unused message: CommonBuilder.7 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.679
+!MESSAGE NLS unused message: CommonBuilder.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.679
+!MESSAGE NLS unused message: CommonBuilder.16 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.679
+!MESSAGE NLS unused message: CommonBuilder.12 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.695
+!MESSAGE NLS unused message: CommonBuilder.13 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.695
+!MESSAGE NLS unused message: CommonBuilder.22 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.695
+!MESSAGE NLS unused message: CommonBuilder.23 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.695
+!MESSAGE NLS unused message: CommonBuilder.24 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.695
+!MESSAGE NLS unused message: MakeBuilder.buildError in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.695
+!MESSAGE NLS unused message: MultiResourceInfo.MultiResourceInfo.UnhandledIHoldsOptionsType in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.711
+!MESSAGE NLS unused message: ResourceChangeHandler2.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.711
+!MESSAGE NLS unused message: ToolInfo.0 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2020-02-26 18:38:28.711
+!MESSAGE NLS unused message: ToolInfo.1 in: org.eclipse.cdt.managedbuilder.internal.core.PluginResources
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-26 18:38:29.128
+!MESSAGE Indexed 'infr_MSS_CM3_0_app' (1 sources, 8 headers) in 0.09 sec: 1 declarations; 0 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+!SESSION 2020-02-26 18:40:19.435 -----------------------------------------------
+eclipse.buildId=M20101209-1200
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  ; LIBERO IDE VERSION 11.9.0.4 Release:v11.9 ; DO NOT MODIFY THIS FILE ; MANUAL MODIFICATION OF THIS FILE MAY HAVE ADVERSE IMPACT ; ON PROFILES RESTORE [PROFILE1] NAME="Softconsole33" FUNCTION="SoftwareIDE" TOOL="SoftConsole" LOCATION="C:\Microsemi\SoftConsole v3.3\Eclipse\eclipse.exe" PARAM="" BATCH=0 LICENSE="" IS32BIT="1" [ACTIVEPROFILES] SoftwareIDE="Softconsole33" Synthesis="Synplify Pro ME" Simulation="ModelSim ME" Program="FPExpress" IdentifyDebugger="Identify Debugger"
+Command-line arguments:  -os win32 -ws win32 -arch x86 ; LIBERO IDE VERSION 11.9.0.4 Release:v11.9 ; DO NOT MODIFY THIS FILE ; MANUAL MODIFICATION OF THIS FILE MAY HAVE ADVERSE IMPACT ; ON PROFILES RESTORE [PROFILE1] NAME="Softconsole33" FUNCTION="SoftwareIDE" TOOL="SoftConsole" LOCATION="C:\Microsemi\SoftConsole v3.3\Eclipse\eclipse.exe" PARAM="" BATCH=0 LICENSE="" IS32BIT="1" [ACTIVEPROFILES] SoftwareIDE="Softconsole33" Synthesis="Synplify Pro ME" Simulation="ModelSim ME" Program="FPExpress" IdentifyDebugger="Identify Debugger" -data C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-26 18:40:20.136
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:35.456
+!MESSAGE Failed command: target remote | "C:/Microsemi/SoftConsole v3.3/Eclipse//../Sourcery-G++/bin/arm-none-eabi-sprite" flashpro:?cpu=Cortex-M3 "C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_app/Debug"
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Remote communication error: No error.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:35.456
+!MESSAGE Remote communication error: No error.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Remote communication error: No error.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:35.676
+!MESSAGE Failed command: set *0x40006010 = 0x4C6E55FA
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0x40006010
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:35.676
+!MESSAGE Cannot access memory at address 0x40006010
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0x40006010
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:35.786
+!MESSAGE Failed command: set *0xE0042040 = 0x00207FFD
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042040
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:35.786
+!MESSAGE Cannot access memory at address 0xe0042040
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042040
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:35.895
+!MESSAGE Failed command: set *0xE004203C = 0x00000001
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe004203c
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:35.895
+!MESSAGE Cannot access memory at address 0xe004203c
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe004203c
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.004
+!MESSAGE Failed command: set *0xE0042030 = *0xE0042030 & 0xFFFFFFF7
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042030
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.004
+!MESSAGE Cannot access memory at address 0xe0042030
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042030
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.225
+!MESSAGE Failed command: set *0xE000ED08 = 0x20000000
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe000ed08
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.225
+!MESSAGE Cannot access memory at address 0xe000ed08
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe000ed08
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.350
+!MESSAGE Failed command: load
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: You can't do that when your target is `exec'
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.350
+!MESSAGE You can't do that when your target is `exec'
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: You can't do that when your target is `exec'
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.459
+!MESSAGE Failed command: set $sp = *0x60080000
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.459
+!MESSAGE No registers.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.575
+!MESSAGE Failed command: set $pc = *0x60080004 - 1
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.575
+!MESSAGE No registers.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.cdt.debug.core 4 1000 2020-02-26 19:02:36.606
+!MESSAGE Internal error logged from CDI Debug: 
+!STACK 0
+org.eclipse.cdt.debug.mi.core.cdi.MI2CDIException: No registers.[No registers.]
+	at org.eclipse.cdt.debug.mi.core.cdi.RegisterManager.getRegisterDescriptors(RegisterManager.java:195)
+	at org.eclipse.cdt.debug.mi.core.cdi.RegisterManager.getRegisterDescriptors(RegisterManager.java:173)
+	at org.eclipse.cdt.debug.mi.core.cdi.model.RegisterGroup.getRegisterDescriptors(RegisterGroup.java:42)
+	at org.eclipse.cdt.debug.internal.core.CRegisterManager.initialize(CRegisterManager.java:127)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.initializeRegisters(CDebugTarget.java:356)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.initialize(CDebugTarget.java:287)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.<init>(CDebugTarget.java:275)
+	at org.eclipse.cdt.debug.core.CDIDebugModel$1.run(CDIDebugModel.java:100)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.eclipse.cdt.debug.core.CDIDebugModel.newDebugTarget(CDIDebugModel.java:105)
+	at org.eclipse.cdt.debug.core.CDIDebugModel.newDebugTarget(CDIDebugModel.java:172)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.createLaunchTarget(Launch.java:361)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:283)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.731
+!MESSAGE Failed command: cont
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: The program is not being run.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:292)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:02:36.731
+!MESSAGE The program is not being run.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: The program is not being run.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:292)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:52.436
+!MESSAGE Failed command: target remote | "C:/Microsemi/SoftConsole v3.3/Eclipse//../Sourcery-G++/bin/arm-none-eabi-sprite" flashpro:?cpu=Cortex-M3 "C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_app/Debug"
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Remote communication error: No error.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:52.436
+!MESSAGE Remote communication error: No error.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Remote communication error: No error.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:52.654
+!MESSAGE Failed command: set *0x40006010 = 0x4C6E55FA
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0x40006010
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:52.654
+!MESSAGE Cannot access memory at address 0x40006010
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0x40006010
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:52.765
+!MESSAGE Failed command: set *0xE0042040 = 0x00207FFD
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042040
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:52.765
+!MESSAGE Cannot access memory at address 0xe0042040
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042040
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:52.874
+!MESSAGE Failed command: set *0xE004203C = 0x00000001
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe004203c
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:52.874
+!MESSAGE Cannot access memory at address 0xe004203c
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe004203c
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:52.984
+!MESSAGE Failed command: set *0xE0042030 = *0xE0042030 & 0xFFFFFFF7
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042030
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:52.984
+!MESSAGE Cannot access memory at address 0xe0042030
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042030
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:53.205
+!MESSAGE Failed command: set *0xE000ED08 = 0x20000000
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe000ed08
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:53.205
+!MESSAGE Cannot access memory at address 0xe000ed08
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe000ed08
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:53.314
+!MESSAGE Failed command: load
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: You can't do that when your target is `exec'
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:53.314
+!MESSAGE You can't do that when your target is `exec'
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: You can't do that when your target is `exec'
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:53.439
+!MESSAGE Failed command: set $sp = *0x60080000
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:53.439
+!MESSAGE No registers.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:53.564
+!MESSAGE Failed command: set $pc = *0x60080004 - 1
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:53.564
+!MESSAGE No registers.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.cdt.debug.core 4 1000 2020-02-26 19:29:53.596
+!MESSAGE Internal error logged from CDI Debug: 
+!STACK 0
+org.eclipse.cdt.debug.mi.core.cdi.MI2CDIException: No registers.[No registers.]
+	at org.eclipse.cdt.debug.mi.core.cdi.RegisterManager.getRegisterDescriptors(RegisterManager.java:195)
+	at org.eclipse.cdt.debug.mi.core.cdi.RegisterManager.getRegisterDescriptors(RegisterManager.java:173)
+	at org.eclipse.cdt.debug.mi.core.cdi.model.RegisterGroup.getRegisterDescriptors(RegisterGroup.java:42)
+	at org.eclipse.cdt.debug.internal.core.CRegisterManager.initialize(CRegisterManager.java:127)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.initializeRegisters(CDebugTarget.java:356)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.initialize(CDebugTarget.java:287)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.<init>(CDebugTarget.java:275)
+	at org.eclipse.cdt.debug.core.CDIDebugModel$1.run(CDIDebugModel.java:100)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.eclipse.cdt.debug.core.CDIDebugModel.newDebugTarget(CDIDebugModel.java:105)
+	at org.eclipse.cdt.debug.core.CDIDebugModel.newDebugTarget(CDIDebugModel.java:172)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.createLaunchTarget(Launch.java:361)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:283)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:53.752
+!MESSAGE Failed command: cont
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: The program is not being run.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:292)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 19:29:53.752
+!MESSAGE The program is not being run.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: The program is not being run.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:292)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.debug.core 4 125 2020-02-26 19:30:00.042
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Write end dead
+	at java.io.PipedInputStream.read(Unknown Source)
+	at java.io.PipedInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:39.808
+!MESSAGE Failed command: target remote | "C:/Microsemi/SoftConsole v3.3/Eclipse//../Sourcery-G++/bin/arm-none-eabi-sprite" flashpro:?cpu=Cortex-M3 "C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_app/Debug"
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Remote communication error: No error.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:39.808
+!MESSAGE Remote communication error: No error.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Remote communication error: No error.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.026
+!MESSAGE Failed command: set *0x40006010 = 0x4C6E55FA
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0x40006010
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.026
+!MESSAGE Cannot access memory at address 0x40006010
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0x40006010
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.136
+!MESSAGE Failed command: set *0xE0042040 = 0x00207FFD
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042040
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.136
+!MESSAGE Cannot access memory at address 0xe0042040
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042040
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.245
+!MESSAGE Failed command: set *0xE004203C = 0x00000001
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe004203c
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.245
+!MESSAGE Cannot access memory at address 0xe004203c
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe004203c
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.362
+!MESSAGE Failed command: set *0xE0042030 = *0xE0042030 & 0xFFFFFFF7
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042030
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.362
+!MESSAGE Cannot access memory at address 0xe0042030
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe0042030
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.581
+!MESSAGE Failed command: set *0xE000ED08 = 0x20000000
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe000ed08
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.581
+!MESSAGE Cannot access memory at address 0xe000ed08
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Cannot access memory at address 0xe000ed08
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.690
+!MESSAGE Failed command: load
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No executable file specified.\nUse the "file" or "exec-file" command.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.690
+!MESSAGE No executable file specified.\nUse the "file" or "exec-file" command.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No executable file specified.\nUse the "file" or "exec-file" command.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.802
+!MESSAGE Failed command: set $sp = *0x60080000
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.802
+!MESSAGE No registers.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.911
+!MESSAGE Failed command: set $pc = *0x60080004 - 1
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:40.911
+!MESSAGE No registers.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: No registers.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.cdt.debug.core 4 1000 2020-02-26 20:18:40.943
+!MESSAGE Internal error logged from CDI Debug: 
+!STACK 0
+org.eclipse.cdt.debug.mi.core.cdi.MI2CDIException: No registers.[No registers.]
+	at org.eclipse.cdt.debug.mi.core.cdi.RegisterManager.getRegisterDescriptors(RegisterManager.java:195)
+	at org.eclipse.cdt.debug.mi.core.cdi.RegisterManager.getRegisterDescriptors(RegisterManager.java:173)
+	at org.eclipse.cdt.debug.mi.core.cdi.model.RegisterGroup.getRegisterDescriptors(RegisterGroup.java:42)
+	at org.eclipse.cdt.debug.internal.core.CRegisterManager.initialize(CRegisterManager.java:127)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.initializeRegisters(CDebugTarget.java:356)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.initialize(CDebugTarget.java:287)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.<init>(CDebugTarget.java:275)
+	at org.eclipse.cdt.debug.core.CDIDebugModel$1.run(CDIDebugModel.java:100)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.eclipse.cdt.debug.core.CDIDebugModel.newDebugTarget(CDIDebugModel.java:105)
+	at org.eclipse.cdt.debug.core.CDIDebugModel.newDebugTarget(CDIDebugModel.java:172)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.createLaunchTarget(Launch.java:361)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:283)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:41.069
+!MESSAGE Failed command: cont
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: The program is not being run.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:292)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:41.069
+!MESSAGE The program is not being run.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: The program is not being run.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:292)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:52.029
+!MESSAGE Failed command: target remote | "C:/Microsemi/SoftConsole v3.3/Eclipse//../Sourcery-G++/bin/arm-none-eabi-sprite" flashpro:?cpu=Cortex-M3 "C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_app/Debug"
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Remote communication error: No error.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 com.actel.softconsole.embeddedcdt.cortexm3 4 150 2020-02-26 20:18:52.029
+!MESSAGE Remote communication error: No error.
+!STACK 0
+org.eclipse.cdt.debug.mi.core.MIException: Remote communication error: No error.
+	at org.eclipse.cdt.debug.mi.core.command.Command.throwMIException(Command.java:105)
+	at org.eclipse.cdt.debug.mi.core.command.Command.getMIInfo(Command.java:79)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.executeGDBScript(Launch.java:562)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:271)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.cdt.debug.core 4 1000 2020-02-26 20:18:52.031
+!MESSAGE Internal error logged from CDI Debug: 
+!STACK 0
+org.eclipse.cdt.debug.mi.core.cdi.MI2CDIException: {R,T}xThread terminated[]
+	at org.eclipse.cdt.debug.mi.core.cdi.SourceManager.setSourcePaths(SourceManager.java:82)
+	at org.eclipse.cdt.debug.mi.core.cdi.model.Target.setSourcePaths(Target.java:1112)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.setSourceLookupPath(CDebugTarget.java:1819)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.initializeSourceLookupPath(CDebugTarget.java:383)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.initialize(CDebugTarget.java:282)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.<init>(CDebugTarget.java:275)
+	at org.eclipse.cdt.debug.core.CDIDebugModel$1.run(CDIDebugModel.java:100)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.eclipse.cdt.debug.core.CDIDebugModel.newDebugTarget(CDIDebugModel.java:105)
+	at org.eclipse.cdt.debug.core.CDIDebugModel.newDebugTarget(CDIDebugModel.java:172)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.createLaunchTarget(Launch.java:361)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:283)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.cdt.debug.core 4 1000 2020-02-26 20:18:52.031
+!MESSAGE Internal error logged from CDI Debug: 
+!STACK 0
+org.eclipse.cdt.debug.mi.core.cdi.MI2CDIException: {R,T}xThread terminated[]
+	at org.eclipse.cdt.debug.mi.core.cdi.RegisterManager.getRegisterDescriptors(RegisterManager.java:195)
+	at org.eclipse.cdt.debug.mi.core.cdi.RegisterManager.getRegisterDescriptors(RegisterManager.java:173)
+	at org.eclipse.cdt.debug.mi.core.cdi.model.RegisterGroup.getRegisterDescriptors(RegisterGroup.java:42)
+	at org.eclipse.cdt.debug.internal.core.CRegisterManager.initialize(CRegisterManager.java:127)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.initializeRegisters(CDebugTarget.java:356)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.initialize(CDebugTarget.java:287)
+	at org.eclipse.cdt.debug.internal.core.model.CDebugTarget.<init>(CDebugTarget.java:275)
+	at org.eclipse.cdt.debug.core.CDIDebugModel$1.run(CDIDebugModel.java:100)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.eclipse.cdt.debug.core.CDIDebugModel.newDebugTarget(CDIDebugModel.java:105)
+	at org.eclipse.cdt.debug.core.CDIDebugModel.newDebugTarget(CDIDebugModel.java:172)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.createLaunchTarget(Launch.java:361)
+	at com.actel.softconsole.embeddedcdt.cortexm3.launch.Launch.launch(Launch.java:283)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:952)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
