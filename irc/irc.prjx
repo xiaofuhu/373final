@@ -13,10 +13,15 @@ KEY VendorTechnology_Package "fg484"
 KEY VendorTechnology_Speed "STD"
 KEY VendorTechnology_DieVoltage "1.5"
 KEY VendorTechnology_PART_RANGE "COM"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE ""
 KEY VendorTechnology_IO_DEFT_STD "LVTTL"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY ""
+KEY VendorTechnology_RAD_EXPOSURE ""
 KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
 KEY VendorTechnology_RESTRICTPROBEPINS "1"
 KEY VendorTechnology_RESTRICTSPIPINS "0"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE ""
 KEY VendorTechnology_TARGETDEVICESFORMIGRATION "IP4X3M1"
 KEY VendorTechnology_TEMPR "COM"
 KEY VendorTechnology_UNUSED_MSS_IO_RESISTOR_PULL "None"
@@ -25,7 +30,7 @@ KEY VendorTechnology_VCCI_1.8_VOLTR "COM"
 KEY VendorTechnology_VCCI_2.5_VOLTR "COM"
 KEY VendorTechnology_VCCI_3.3_VOLTR "COM"
 KEY VendorTechnology_VOLTR "COM"
-KEY ProjectLocation "C:\Users\phammel\Desktop\starter\irc"
+KEY ProjectLocation "C:\Users\fuhu\Desktop\373final\irc"
 KEY ProjectDescription ""
 KEY Pa4PeripheralNewSeq "GOOD"
 KEY SimulationType "VERILOG"
@@ -46,14 +51,14 @@ ENDLIST
 LIST FileManager
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS\2.5.200\MSS.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="945"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS\2.5.200\mss_comps.v,hdl"
 STATE="utd"
-TIME="1536348874"
-SIZE="11243"
+TIME="1582831651"
+SIZE="11942"
 PARENT="<project>\component\Actel\SmartFusionMSS\MSS\2.5.200\MSS.cxf"
 BEGIN_USE_CONSTRAINT
 TOOL_CONSTRAINT_TYPE="ideSYNTHESIS"
@@ -64,123 +69,133 @@ IS_READONLY="TRUE"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_CCC\2.0.106\MSS_CCC.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762772"
+TIME="1582831651"
 SIZE="252"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_CM3\1.0.200\MSS_CM3.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762772"
+TIME="1582831651"
 SIZE="252"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_COM\1.0.200\MSS_COM.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762772"
+TIME="1582831651"
 SIZE="252"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_DMA\1.0.101\MSS_DMA.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762772"
+TIME="1582831651"
 SIZE="252"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_ENVM\2.3.200\MSS_ENVM.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="253"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_FIO\1.0.203\MSS_FIO.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="252"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_GPIO\1.0.101\MSS_GPIO.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="253"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_I2C\1.0.101\MSS_I2C.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="252"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_INTR\1.0.101\MSS_INTR.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="253"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_RESET\1.0.101\MSS_RESET.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="254"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_RTC\1.0.100\MSS_RTC.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="252"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_TIMER\1.0.100\MSS_TIMER.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="254"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_UART\1.0.101\MSS_UART.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="253"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\Actel\SmartFusionMSS\MSS_UFROM\1.0.100\MSS_UFROM.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="254"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
+VALUE "<project>\component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf,actgen_cxf"
+STATE="utd"
+TIME="1582831651"
+SIZE="2203"
+ENDFILE
+VALUE "<project>\component\work\DESIGN_IO\DESIGN_IO.cxf,actgen_cxf"
+STATE="utd"
+TIME="1582831651"
+SIZE="413"
+ENDFILE
 VALUE "<project>\component\work\infr\infr.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762776"
+TIME="1582831651"
 SIZE="9721"
 ENDFILE
 VALUE "<project>\component\work\infr\infr.v,hdl"
 STATE="utd"
-TIME="1582762775"
+TIME="1582831651"
 SIZE="17790"
 PARENT="<project>\component\work\infr\infr.cxf"
 IS_READONLY="TRUE"
 ENDFILE
 VALUE "<project>\component\work\infr\MSS_CCC_0\infr_tmp_MSS_CCC_0_MSS_CCC.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762772"
+TIME="1582831651"
 SIZE="475"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\component\work\infr\MSS_CCC_0\infr_tmp_MSS_CCC_0_MSS_CCC.v,hdl"
 STATE="utd"
-TIME="1582762772"
+TIME="1582831651"
 SIZE="2899"
 PARENT="<project>\component\work\infr\MSS_CCC_0\infr_tmp_MSS_CCC_0_MSS_CCC.cxf"
 IS_READONLY="TRUE"
 ENDFILE
 VALUE "<project>\component\work\infr\MSS_ENVM_0\MSS_ENVM_0.efc,efc"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="15874"
 PARENT="<project>\component\work\infr\infr.cxf"
 IS_READONLY="TRUE"
 ENDFILE
 VALUE "<project>\component\work\infr\mss_tshell.v,hdl"
 STATE="utd"
-TIME="1582762774"
+TIME="1582831651"
 SIZE="12226"
 PARENT="<project>\component\work\infr\infr.cxf"
 BEGIN_USE_CONSTRAINT
@@ -192,12 +207,12 @@ IS_READONLY="TRUE"
 ENDFILE
 VALUE "<project>\component\work\ir\ir.cxf,actgen_cxf"
 STATE="utd"
-TIME="1582762781"
+TIME="1582831651"
 SIZE="3810"
 ENDFILE
 VALUE "<project>\component\work\ir\ir.pdc,pdc"
 STATE="utd"
-TIME="1582762778"
+TIME="1582831651"
 SIZE="1089"
 PARENT="<project>\component\work\ir\ir.cxf"
 BEGIN_USE_CONSTRAINT
@@ -208,103 +223,103 @@ IS_READONLY="TRUE"
 ENDFILE
 VALUE "<project>\component\work\ir\ir.v,hdl"
 STATE="utd"
-TIME="1582762778"
+TIME="1582831651"
 SIZE="2002"
 PARENT="<project>\component\work\ir\ir.cxf"
 IS_READONLY="TRUE"
 ENDFILE
 VALUE "<project>\designer\impl1\ir.adb,adb"
 STATE="utd"
-TIME="1582760333"
-SIZE="247808"
+TIME="1582831651"
+SIZE="264192"
 ENDFILE
 VALUE "<project>\designer\impl1\ir.fdb,fdb"
 STATE="utd"
-TIME="1582762818"
+TIME="1582831651"
 SIZE="32510"
 ENDFILE
 VALUE "<project>\designer\impl1\ir.ide_des,ide_des"
 STATE="utd"
-TIME="1582760247"
-SIZE="190"
+TIME="1582831651"
+SIZE="1024"
 ENDFILE
 VALUE "<project>\designer\impl1\ir_compile_log.rpt,log"
 STATE="utd"
-TIME="1582760333"
-SIZE="29291"
+TIME="1582831651"
+SIZE="29087"
 ENDFILE
 VALUE "<project>\designer\impl1\ir_fp\ir.pdb,pdb"
 STATE="utd"
-TIME="1582760372"
-SIZE="37997"
+TIME="1582831651"
+SIZE="37992"
 ENDFILE
 VALUE "<project>\designer\impl1\ir_fp\ir.pro,pro"
 STATE="utd"
-TIME="1582760411"
+TIME="1582831651"
 SIZE="2347"
 ENDFILE
 VALUE "<project>\designer\impl1\ir_fp\projectData\ir.pdb,pdb"
 STATE="utd"
-TIME="1582760411"
-SIZE="37997"
+TIME="1582831651"
+SIZE="37992"
 ENDFILE
 VALUE "<project>\designer\impl1\ir_placeroute_log.rpt,log"
 STATE="utd"
-TIME="1582762807"
+TIME="1582831651"
 SIZE="2548"
 ENDFILE
 VALUE "<project>\designer\impl1\ir_prgdata_log.rpt,log"
 STATE="utd"
-TIME="1582762818"
+TIME="1582831651"
 SIZE="632"
 ENDFILE
 VALUE "<project>\designer\impl1\ir_verifytiming_log.rpt,log"
 STATE="utd"
-TIME="1582762811"
+TIME="1582831651"
 SIZE="1098"
 ENDFILE
 VALUE "<project>\simulation\CompileDssBfm.tcl,sim"
 STATE="utd"
-TIME="1536348874"
-SIZE="41"
+TIME="1582831651"
+SIZE="42"
 PARENT="<project>\component\Actel\SmartFusionMSS\MSS\2.5.200\MSS.cxf"
 ENDFILE
 VALUE "<project>\simulation\subsystem.bfm,sim"
 STATE="utd"
-TIME="1582762778"
+TIME="1582831651"
 SIZE="602"
 PARENT="<project>\component\work\ir\ir.cxf"
 ENDFILE
 VALUE "<project>\simulation\test.bfm,sim"
 STATE="utd"
-TIME="1582762773"
+TIME="1582831651"
 SIZE="5460"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\simulation\user.bfm,sim"
 STATE="utd"
-TIME="1582760282"
+TIME="1582831651"
 SIZE="670"
 PARENT="<project>\component\work\infr\infr.cxf"
 ENDFILE
 VALUE "<project>\synthesis\ir.edn,syn_edn"
 STATE="utd"
-TIME="1582760323"
+TIME="1582831651"
 SIZE="98824"
 ENDFILE
 VALUE "<project>\synthesis\ir.so,so"
 STATE="utd"
-TIME="1582760323"
+TIME="1582831651"
 SIZE="210"
 ENDFILE
 VALUE "<project>\synthesis\ir_sdc.sdc,syn_sdc"
 STATE="utd"
-TIME="1582760323"
+TIME="1582831651"
 SIZE="310"
 ENDFILE
 VALUE "<project>\synthesis\ir_syn.prj,prj"
 STATE="utd"
-TIME="1582760323"
+TIME="1582831651"
 SIZE="2109"
 ENDFILE
 ENDLIST
@@ -413,10 +428,10 @@ ENDLIST
 LIST PhySynthesisOptions
 ENDLIST
 LIST Profiles
-NAME="SoftConsole33"
+NAME="SoftConsole"
 FUNCTION="SoftwareIDE"
 TOOL="SoftConsole"
-LOCATION="C:\Microsemi\SoftConsole v3.3\Eclipse\eclipse.exe"
+LOCATION="eclipse.exe"
 PARAM=""
 BATCH=0
 LICENSE=""
@@ -426,8 +441,8 @@ NAME="Synplify Pro ME"
 FUNCTION="Synthesis"
 TOOL="Synplify Pro ME"
 LOCATION="C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\synplify_pro.exe"
-PARAM="-licensetype synplifypro_actel -batch -log synplify.log"
-BATCH=1
+PARAM=""
+BATCH=0
 LICENSE=""
 IS32BIT="1"
 EndProfile
@@ -487,17 +502,29 @@ LIST UserCustomizedFileList
 ENDLIST
 LIST OpenedFileList
 ORIENTATION;HORIZONTAL
-Reports;Reports;0
-ReportsCurrentItem;Program Device:ir_program.log
 StartPage;StartPage;0
-SmartDesign;infr;0
-SmartDesign;ir;0
-ACTIVEVIEW;Reports
+ACTIVEVIEW;StartPage
 ENDLIST
 LIST ModuleSubBlockList
 LIST "BIBUF_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.200\mss_comps.v","FALSE","FALSE"
 ENDLIST
 LIST "BIBUF_OPEND_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.200\mss_comps.v","FALSE","FALSE"
+ENDLIST
+LIST "DESIGN_FIRMWARE::work","component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf","TRUE","FALSE"
+SUBBLOCK "HAL::work","","FALSE","FALSE"
+SUBBLOCK "MSS_GPIO_Driver::work","","FALSE","FALSE"
+SUBBLOCK "MSS_I2C_Driver::work","","FALSE","FALSE"
+SUBBLOCK "MSS_IAP_Driver::work","","FALSE","FALSE"
+SUBBLOCK "MSS_NVM_Driver::work","","FALSE","FALSE"
+SUBBLOCK "MSS_PDMA_Driver::work","","FALSE","FALSE"
+SUBBLOCK "MSS_RTC_Driver::work","","FALSE","FALSE"
+SUBBLOCK "MSS_Timer_Driver::work","","FALSE","FALSE"
+SUBBLOCK "MSS_UART_Driver::work","","FALSE","FALSE"
+SUBBLOCK "SmartFusion_CMSIS_PAL::work","","FALSE","FALSE"
+ENDLIST
+LIST "DESIGN_IO::work","component\work\DESIGN_IO\DESIGN_IO.cxf","TRUE","FALSE"
+ENDLIST
+LIST "HAL::work","","FALSE","FALSE"
 ENDLIST
 LIST "INBUF_LVDS_MCCC::work","component\Actel\SmartFusionMSS\MSS\2.5.200\mss_comps.v","FALSE","FALSE"
 ENDLIST
@@ -526,13 +553,31 @@ LIST "MSS_APB::work","component\work\infr\mss_tshell.v","FALSE","FALSE"
 ENDLIST
 LIST "MSS_CCC::work","component\Actel\SmartFusionMSS\MSS\2.5.200\mss_comps.v","FALSE","FALSE"
 ENDLIST
+LIST "MSS_GPIO_Driver::work","","FALSE","FALSE"
+ENDLIST
+LIST "MSS_I2C_Driver::work","","FALSE","FALSE"
+ENDLIST
+LIST "MSS_IAP_Driver::work","","FALSE","FALSE"
+ENDLIST
 LIST "MSS_LPXTLOSC::work","component\Actel\SmartFusionMSS\MSS\2.5.200\mss_comps.v","FALSE","FALSE"
+ENDLIST
+LIST "MSS_NVM_Driver::work","","FALSE","FALSE"
+ENDLIST
+LIST "MSS_PDMA_Driver::work","","FALSE","FALSE"
+ENDLIST
+LIST "MSS_RTC_Driver::work","","FALSE","FALSE"
+ENDLIST
+LIST "MSS_Timer_Driver::work","","FALSE","FALSE"
+ENDLIST
+LIST "MSS_UART_Driver::work","","FALSE","FALSE"
 ENDLIST
 LIST "MSS_XTLOSC::work","component\Actel\SmartFusionMSS\MSS\2.5.200\mss_comps.v","FALSE","FALSE"
 ENDLIST
 LIST "MSSINT::work","component\Actel\SmartFusionMSS\MSS\2.5.200\mss_comps.v","FALSE","FALSE"
 ENDLIST
 LIST "OUTBUF_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.200\mss_comps.v","FALSE","FALSE"
+ENDLIST
+LIST "SmartFusion_CMSIS_PAL::work","","FALSE","FALSE"
 ENDLIST
 LIST "TRIBUFF_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.200\mss_comps.v","FALSE","FALSE"
 ENDLIST

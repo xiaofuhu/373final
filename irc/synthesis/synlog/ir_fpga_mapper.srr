@@ -1,4 +1,4 @@
-# Wed Feb 26 19:19:48 2020
+# Thu Feb 27 17:24:02 2020
 
 Synopsys Microsemi Technology Mapper, Version mapact, Build 2172R, Built Oct 30 2017 10:54:39
 Copyright (C) 1994-2017 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
@@ -16,50 +16,52 @@ Mapper Initialization Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0
 
 
 
-Starting Optimization and Mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 108MB peak: 110MB)
+Starting Optimization and Mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 110MB peak: 110MB)
 
-@N: MO111 :"c:\users\phammel\desktop\starter\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":64:7:64:18|Tristate driver LPXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net LPXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
-@N: MO111 :"c:\users\phammel\desktop\starter\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":63:7:63:20|Tristate driver MAINXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net MAINXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
-@N: MO111 :"c:\users\phammel\desktop\starter\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":62:7:62:18|Tristate driver RCOSC_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net RCOSC_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
+@N: MO111 :"c:\users\fuhu\desktop\373final\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":64:7:64:18|Tristate driver LPXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net LPXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
+@N: MO111 :"c:\users\fuhu\desktop\373final\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":63:7:63:20|Tristate driver MAINXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net MAINXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
+@N: MO111 :"c:\users\fuhu\desktop\373final\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":62:7:62:18|Tristate driver RCOSC_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net RCOSC_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
 
 Available hyper_sources - for debug and ip models
 	None Found
 
 
-Finished RTL optimizations (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Finished RTL optimizations (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 110MB peak: 111MB)
+
+@N: MF179 :"c:\users\fuhu\desktop\373final\irc\hdl\servo_ctrl.v":48:24:48:38|Found 32 by 32 bit less-than operator ('<') un1_count_1 (in view: work.servo_ctrl(verilog))
+@N: MF238 :"c:\users\fuhu\desktop\373final\irc\hdl\servo_ctrl.v":47:17:47:26|Found 32-bit incrementor, 'un3_count_1[31:0]'
+
+Starting factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 111MB peak: 111MB)
 
 
-Starting factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Finished factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 111MB peak: 112MB)
 
 
-Finished factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Starting gated-clock and generated-clock conversion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 112MB peak: 112MB)
 
 
-Starting gated-clock and generated-clock conversion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Finished gated-clock and generated-clock conversion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 112MB peak: 112MB)
 
 
-Finished gated-clock and generated-clock conversion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Finished generic timing optimizations - Pass 1 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 112MB peak: 113MB)
 
 
-Finished generic timing optimizations - Pass 1 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Starting Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 112MB peak: 113MB)
 
 
-Starting Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Finished Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 112MB peak: 113MB)
 
 
-Finished Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Finished generic timing optimizations - Pass 2 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 112MB peak: 113MB)
 
 
-Finished generic timing optimizations - Pass 2 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Finished preparing to map (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 112MB peak: 113MB)
 
 
-Finished preparing to map (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Finished technology mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 112MB peak: 113MB)
 
 
-Finished technology mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
-
-
-Finished technology timing optimizations and critical path resynthesis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Finished technology timing optimizations and critical path resynthesis (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 119MB peak: 164MB)
 
 
 Added 0 Buffers
@@ -67,7 +69,7 @@ Added 0 Cells via replication
 	Added 0 Sequential Cells via replication
 	Added 0 Combinational Cells via replication
 
-Finished restoring hierarchy (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Finished restoring hierarchy (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 119MB peak: 164MB)
 
 
 
@@ -77,33 +79,40 @@ Finished restoring hierarchy (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:
 #### START OF CLOCK OPTIMIZATION REPORT #####[
 
 Clock optimization not enabled
-0 non-gated/non-generated clock tree(s) driving 0 clock pin(s) of sequential element(s)
+1 non-gated/non-generated clock tree(s) driving 66 clock pin(s) of sequential element(s)
 0 gated/generated clock tree(s) driving 0 clock pin(s) of sequential element(s)
 0 instances converted, 0 sequential instances remain driven by gated/generated clocks
 
+==================================== Non-Gated/Non-Generated Clocks =====================================
+Clock Tree ID     Driving Element     Drive Element Type                Fanout     Sample Instance       
+---------------------------------------------------------------------------------------------------------
+@K:CKID0001       infr_0              clock definition on hierarchy     66         servo_ctrl_1.count[31]
+=========================================================================================================
 
 
 ##### END OF CLOCK OPTIMIZATION REPORT ######]
 
 
-Start Writing Netlists (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Start Writing Netlists (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 118MB peak: 164MB)
 
-Writing Analyst data base C:\Users\phammel\Desktop\starter\irc\synthesis\synwork\ir_m.srm
+Writing Analyst data base C:\Users\fuhu\Desktop\373final\irc\synthesis\synwork\ir_m.srm
 
-Finished Writing Netlist Databases (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 110MB)
+Finished Writing Netlist Databases (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 118MB peak: 164MB)
 
 Writing EDIF Netlist and constraint files
 L-2016.09M-SP1-5
 
-Finished Writing EDIF Netlist and constraint files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 111MB)
+Finished Writing EDIF Netlist and constraint files (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 118MB peak: 164MB)
 
 
-Start final timing analysis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 111MB)
+Start final timing analysis (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 118MB peak: 164MB)
 
+@N: MT615 |Found clock FCLK with period 10.00ns 
+@N: MT615 |Found clock FAB_CLK with period 10.00ns 
 
 
 ##### START OF TIMING REPORT #####[
-# Timing Report written on Wed Feb 26 19:19:48 2020
+# Timing Report written on Thu Feb 27 17:24:03 2020
 #
 
 
@@ -114,7 +123,8 @@ Requested Frequency:    100.0 MHz
 Wire load mode:         top
 Wire load model:        smartfusion
 Paths requested:        5
-Constraint File(s):    
+Constraint File(s):    C:\Users\fuhu\Desktop\373final\irc\component\work\infr\mss_tshell_syn.sdc
+                       
 @N: MT320 |This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.
 
 @N: MT322 |Clock constraints include only register-to-register paths associated with each individual clock.
@@ -125,13 +135,16 @@ Performance Summary
 *******************
 
 
-Worst slack in design: 4.491
+Worst slack in design: -1.105
 
-                   Requested     Estimated     Requested     Estimated               Clock      Clock          
-Starting Clock     Frequency     Frequency     Period        Period        Slack     Type       Group          
----------------------------------------------------------------------------------------------------------------
-System             100.0 MHz     181.5 MHz     10.000        5.509         4.491     system     system_clkgroup
-===============================================================================================================
+                   Requested     Estimated      Requested     Estimated                Clock        Clock          
+Starting Clock     Frequency     Frequency      Period        Period        Slack      Type         Group          
+-------------------------------------------------------------------------------------------------------------------
+FAB_CLK            100.0 MHz     90.0 MHz       10.000        11.105        -1.105     declared     clk_group_0    
+FCLK               100.0 MHz     NA             10.000        NA            NA         declared     clk_group_0    
+System             100.0 MHz     3110.4 MHz     10.000        0.322         9.678      system       system_clkgroup
+===================================================================================================================
+@N: MT582 |Estimated period and frequency not reported for given clock unless the clock has at least one timing path which is not a false or a max delay path and that does not have excessive slack
 
 
 
@@ -140,12 +153,14 @@ System             100.0 MHz     181.5 MHz     10.000        5.509         4.491
 Clock Relationships
 *******************
 
-Clocks            |    rise  to  rise   |    fall  to  fall   |    rise  to  fall   |    fall  to  rise 
---------------------------------------------------------------------------------------------------------
-Starting  Ending  |  constraint  slack  |  constraint  slack  |  constraint  slack  |  constraint  slack
---------------------------------------------------------------------------------------------------------
-System    System  |  10.000      4.491  |  No paths    -      |  No paths    -      |  No paths    -    
-========================================================================================================
+Clocks             |    rise  to  rise    |    fall  to  fall   |    rise  to  fall   |    fall  to  rise 
+----------------------------------------------------------------------------------------------------------
+Starting  Ending   |  constraint  slack   |  constraint  slack  |  constraint  slack  |  constraint  slack
+----------------------------------------------------------------------------------------------------------
+System    System   |  10.000      9.678   |  No paths    -      |  No paths    -      |  No paths    -    
+System    FAB_CLK  |  10.000      -0.043  |  No paths    -      |  No paths    -      |  No paths    -    
+FAB_CLK   FAB_CLK  |  10.000      -1.105  |  No paths    -      |  No paths    -      |  No paths    -    
+==========================================================================================================
  Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
        'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
 
@@ -159,7 +174,7 @@ No IO constraint found
 
 
 ====================================
-Detailed Report for Clock: System
+Detailed Report for Clock: FAB_CLK
 ====================================
 
 
@@ -167,25 +182,41 @@ Detailed Report for Clock: System
 Starting Points with Worst Slack
 ********************************
 
-                             Starting                                                       Arrival          
-Instance                     Reference     Type        Pin        Net                       Time        Slack
-                             Clock                                                                           
--------------------------------------------------------------------------------------------------------------
-infr_0.MSS_CCC_0.I_RCOSC     System        RCOSC       CLKOUT     N_CLKA_RCOSC              0.000       4.491
-infr_0.MSS_ADLIB_INST        System        MSS_APB     EMCCLK     MSS_ADLIB_INST_EMCCLK     0.000       9.678
-=============================================================================================================
+                           Starting                                     Arrival           
+Instance                   Reference     Type     Pin     Net           Time        Slack 
+                           Clock                                                          
+------------------------------------------------------------------------------------------
+servo_ctrl_0.count[6]      FAB_CLK       DFN1     Q       count[6]      0.737       -1.105
+servo_ctrl_1.count[6]      FAB_CLK       DFN1     Q       count[6]      0.737       -1.105
+servo_ctrl_1.count[1]      FAB_CLK       DFN1     Q       count[1]      0.737       -1.016
+servo_ctrl_0.count[1]      FAB_CLK       DFN1     Q       count[1]      0.737       -1.016
+servo_ctrl_0.count[11]     FAB_CLK       DFN1     Q       count[11]     0.737       -0.890
+servo_ctrl_1.count[11]     FAB_CLK       DFN1     Q       count[11]     0.737       -0.890
+servo_ctrl_0.count[20]     FAB_CLK       DFN1     Q       count[20]     0.737       -0.890
+servo_ctrl_1.count[20]     FAB_CLK       DFN1     Q       count[20]     0.737       -0.890
+servo_ctrl_1.count[0]      FAB_CLK       DFN1     Q       count[0]      0.737       -0.830
+servo_ctrl_0.count[0]      FAB_CLK       DFN1     Q       count[0]      0.737       -0.830
+==========================================================================================
 
 
 Ending Points with Worst Slack
 ******************************
 
-                          Starting                                                          Required          
-Instance                  Reference     Type        Pin           Net                       Time         Slack
-                          Clock                                                                               
---------------------------------------------------------------------------------------------------------------
-infr_0.MSS_ADLIB_INST     System        MSS_APB     FCLK          MSS_ADLIB_INST_FCLK       10.000       4.491
-infr_0.MSS_ADLIB_INST     System        MSS_APB     EMCCLKRTN     MSS_ADLIB_INST_EMCCLK     10.000       9.678
-==============================================================================================================
+                           Starting                                  Required           
+Instance                   Reference     Type     Pin     Net        Time         Slack 
+                           Clock                                                        
+----------------------------------------------------------------------------------------
+servo_ctrl_1.pwm           FAB_CLK       DFN1     D       pwm4       9.461        -1.105
+servo_ctrl_0.pwm           FAB_CLK       DFN1     D       pwm4       9.461        -1.105
+servo_ctrl_0.count[28]     FAB_CLK       DFN1     D       I_89       9.461        -0.155
+servo_ctrl_1.count[28]     FAB_CLK       DFN1     D       I_89_0     9.461        -0.155
+servo_ctrl_1.count[29]     FAB_CLK       DFN1     D       I_92_0     9.461        -0.155
+servo_ctrl_0.count[29]     FAB_CLK       DFN1     D       I_92       9.461        -0.155
+servo_ctrl_1.count[30]     FAB_CLK       DFN1     D       I_95_0     9.461        -0.155
+servo_ctrl_0.count[30]     FAB_CLK       DFN1     D       I_95       9.461        -0.155
+servo_ctrl_0.count[31]     FAB_CLK       DFN1     D       I_98       9.461        -0.155
+servo_ctrl_1.count[31]     FAB_CLK       DFN1     D       I_98_0     9.461        -0.155
+========================================================================================
 
 
 
@@ -195,33 +226,562 @@ Worst Path Information
 
 Path information for path number 1: 
       Requested Period:                      10.000
-    - Setup time:                            0.000
+    - Setup time:                            0.539
     + Clock delay at ending point:           0.000 (ideal)
-    + Estimated clock delay at ending point: 0.000
-    = Required time:                         10.000
+    = Required time:                         9.461
 
-    - Propagation time:                      5.509
+    - Propagation time:                      10.566
+    - Clock delay at starting point:         0.000 (ideal)
+    = Slack (critical) :                     -1.105
+
+    Number of logic level(s):                8
+    Starting point:                          servo_ctrl_0.count[6] / Q
+    Ending point:                            servo_ctrl_0.pwm / D
+    The start point is clocked by            FAB_CLK [rising] on pin CLK
+    The end   point is clocked by            FAB_CLK [rising] on pin CLK
+
+Instance / Net                                   Pin      Pin               Arrival     No. of    
+Name                                   Type      Name     Dir     Delay     Time        Fan Out(s)
+--------------------------------------------------------------------------------------------------
+servo_ctrl_0.count[6]                  DFN1      Q        Out     0.737     0.737       -         
+count[6]                               Net       -        -       1.639     -           8         
+servo_ctrl_0.un1_count_1_0.I_116       OR2A      B        In      -         2.376       -         
+servo_ctrl_0.un1_count_1_0.I_116       OR2A      Y        Out     0.646     3.022       -         
+N_12                                   Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_122       AO1C      C        In      -         3.344       -         
+servo_ctrl_0.un1_count_1_0.I_122       AO1C      Y        Out     0.633     3.976       -         
+N_18                                   Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_125       OA1A      B        In      -         4.298       -         
+servo_ctrl_0.un1_count_1_0.I_125       OA1A      Y        Out     0.902     5.200       -         
+N_21                                   Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_126       OA1       A        In      -         5.521       -         
+servo_ctrl_0.un1_count_1_0.I_126       OA1       Y        Out     0.984     6.505       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E_0[0]     Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_138       AO1       C        In      -         6.827       -         
+servo_ctrl_0.un1_count_1_0.I_138       AO1       Y        Out     0.655     7.482       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E[2]       Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_139       AO1       B        In      -         7.803       -         
+servo_ctrl_0.un1_count_1_0.I_139       AO1       Y        Out     0.567     8.370       -         
+DWACT_COMP0_E[2]                       Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_140       AO1       B        In      -         8.691       -         
+servo_ctrl_0.un1_count_1_0.I_140       AO1       Y        Out     0.567     9.258       -         
+un1_count_1                            Net       -        -       0.322     -           1         
+servo_ctrl_0.pwm_RNO                   NOR3C     C        In      -         9.579       -         
+servo_ctrl_0.pwm_RNO                   NOR3C     Y        Out     0.666     10.245      -         
+pwm4                                   Net       -        -       0.322     -           1         
+servo_ctrl_0.pwm                       DFN1      D        In      -         10.566      -         
+==================================================================================================
+Total path delay (propagation time + setup) of 11.105 is 6.894(62.1%) logic and 4.211(37.9%) route.
+Path delay compensated for clock skew. Clock skew is added to clock-to-out value, and is subtracted from setup time value
+
+
+Path information for path number 2: 
+      Requested Period:                      10.000
+    - Setup time:                            0.539
+    + Clock delay at ending point:           0.000 (ideal)
+    = Required time:                         9.461
+
+    - Propagation time:                      10.566
+    - Clock delay at starting point:         0.000 (ideal)
+    = Slack (critical) :                     -1.105
+
+    Number of logic level(s):                8
+    Starting point:                          servo_ctrl_1.count[6] / Q
+    Ending point:                            servo_ctrl_1.pwm / D
+    The start point is clocked by            FAB_CLK [rising] on pin CLK
+    The end   point is clocked by            FAB_CLK [rising] on pin CLK
+
+Instance / Net                                   Pin      Pin               Arrival     No. of    
+Name                                   Type      Name     Dir     Delay     Time        Fan Out(s)
+--------------------------------------------------------------------------------------------------
+servo_ctrl_1.count[6]                  DFN1      Q        Out     0.737     0.737       -         
+count[6]                               Net       -        -       1.639     -           8         
+servo_ctrl_1.un1_count_1_0.I_116       OR2A      B        In      -         2.376       -         
+servo_ctrl_1.un1_count_1_0.I_116       OR2A      Y        Out     0.646     3.022       -         
+N_12                                   Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_122       AO1C      C        In      -         3.344       -         
+servo_ctrl_1.un1_count_1_0.I_122       AO1C      Y        Out     0.633     3.976       -         
+N_18                                   Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_125       OA1A      B        In      -         4.298       -         
+servo_ctrl_1.un1_count_1_0.I_125       OA1A      Y        Out     0.902     5.200       -         
+N_21                                   Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_126       OA1       A        In      -         5.521       -         
+servo_ctrl_1.un1_count_1_0.I_126       OA1       Y        Out     0.984     6.505       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E_0[0]     Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_138       AO1       C        In      -         6.827       -         
+servo_ctrl_1.un1_count_1_0.I_138       AO1       Y        Out     0.655     7.482       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E[2]       Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_139       AO1       B        In      -         7.803       -         
+servo_ctrl_1.un1_count_1_0.I_139       AO1       Y        Out     0.567     8.370       -         
+DWACT_COMP0_E[2]                       Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_140       AO1       B        In      -         8.691       -         
+servo_ctrl_1.un1_count_1_0.I_140       AO1       Y        Out     0.567     9.258       -         
+un1_count_1                            Net       -        -       0.322     -           1         
+servo_ctrl_1.pwm_RNO                   NOR3C     C        In      -         9.579       -         
+servo_ctrl_1.pwm_RNO                   NOR3C     Y        Out     0.666     10.245      -         
+pwm4                                   Net       -        -       0.322     -           1         
+servo_ctrl_1.pwm                       DFN1      D        In      -         10.566      -         
+==================================================================================================
+Total path delay (propagation time + setup) of 11.105 is 6.894(62.1%) logic and 4.211(37.9%) route.
+Path delay compensated for clock skew. Clock skew is added to clock-to-out value, and is subtracted from setup time value
+
+
+Path information for path number 3: 
+      Requested Period:                      10.000
+    - Setup time:                            0.539
+    + Clock delay at ending point:           0.000 (ideal)
+    = Required time:                         9.461
+
+    - Propagation time:                      10.478
+    - Clock delay at starting point:         0.000 (ideal)
+    = Slack (non-critical) :                 -1.016
+
+    Number of logic level(s):                8
+    Starting point:                          servo_ctrl_1.count[1] / Q
+    Ending point:                            servo_ctrl_1.pwm / D
+    The start point is clocked by            FAB_CLK [rising] on pin CLK
+    The end   point is clocked by            FAB_CLK [rising] on pin CLK
+
+Instance / Net                                   Pin      Pin               Arrival     No. of    
+Name                                   Type      Name     Dir     Delay     Time        Fan Out(s)
+--------------------------------------------------------------------------------------------------
+servo_ctrl_1.count[1]                  DFN1      Q        Out     0.737     0.737       -         
+count[1]                               Net       -        -       1.639     -           8         
+servo_ctrl_1.un1_count_1_0.I_127       OR2A      B        In      -         2.376       -         
+servo_ctrl_1.un1_count_1_0.I_127       OR2A      Y        Out     0.646     3.022       -         
+N_2                                    Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_133       AO1C      C        In      -         3.344       -         
+servo_ctrl_1.un1_count_1_0.I_133       AO1C      Y        Out     0.633     3.976       -         
+N_8                                    Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_136       OA1A      B        In      -         4.298       -         
+servo_ctrl_1.un1_count_1_0.I_136       OA1A      Y        Out     0.902     5.200       -         
+N_11                                   Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_137       OA1       A        In      -         5.521       -         
+servo_ctrl_1.un1_count_1_0.I_137       OA1       Y        Out     0.984     6.505       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E_0[2]     Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_138       AO1       B        In      -         6.827       -         
+servo_ctrl_1.un1_count_1_0.I_138       AO1       Y        Out     0.567     7.393       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E[2]       Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_139       AO1       B        In      -         7.715       -         
+servo_ctrl_1.un1_count_1_0.I_139       AO1       Y        Out     0.567     8.281       -         
+DWACT_COMP0_E[2]                       Net       -        -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_140       AO1       B        In      -         8.603       -         
+servo_ctrl_1.un1_count_1_0.I_140       AO1       Y        Out     0.567     9.169       -         
+un1_count_1                            Net       -        -       0.322     -           1         
+servo_ctrl_1.pwm_RNO                   NOR3C     C        In      -         9.491       -         
+servo_ctrl_1.pwm_RNO                   NOR3C     Y        Out     0.666     10.156      -         
+pwm4                                   Net       -        -       0.322     -           1         
+servo_ctrl_1.pwm                       DFN1      D        In      -         10.478      -         
+==================================================================================================
+Total path delay (propagation time + setup) of 11.016 is 6.805(61.8%) logic and 4.211(38.2%) route.
+Path delay compensated for clock skew. Clock skew is added to clock-to-out value, and is subtracted from setup time value
+
+
+Path information for path number 4: 
+      Requested Period:                      10.000
+    - Setup time:                            0.539
+    + Clock delay at ending point:           0.000 (ideal)
+    = Required time:                         9.461
+
+    - Propagation time:                      10.478
+    - Clock delay at starting point:         0.000 (ideal)
+    = Slack (non-critical) :                 -1.016
+
+    Number of logic level(s):                8
+    Starting point:                          servo_ctrl_0.count[1] / Q
+    Ending point:                            servo_ctrl_0.pwm / D
+    The start point is clocked by            FAB_CLK [rising] on pin CLK
+    The end   point is clocked by            FAB_CLK [rising] on pin CLK
+
+Instance / Net                                   Pin      Pin               Arrival     No. of    
+Name                                   Type      Name     Dir     Delay     Time        Fan Out(s)
+--------------------------------------------------------------------------------------------------
+servo_ctrl_0.count[1]                  DFN1      Q        Out     0.737     0.737       -         
+count[1]                               Net       -        -       1.639     -           8         
+servo_ctrl_0.un1_count_1_0.I_127       OR2A      B        In      -         2.376       -         
+servo_ctrl_0.un1_count_1_0.I_127       OR2A      Y        Out     0.646     3.022       -         
+N_2                                    Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_133       AO1C      C        In      -         3.344       -         
+servo_ctrl_0.un1_count_1_0.I_133       AO1C      Y        Out     0.633     3.976       -         
+N_8                                    Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_136       OA1A      B        In      -         4.298       -         
+servo_ctrl_0.un1_count_1_0.I_136       OA1A      Y        Out     0.902     5.200       -         
+N_11                                   Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_137       OA1       A        In      -         5.521       -         
+servo_ctrl_0.un1_count_1_0.I_137       OA1       Y        Out     0.984     6.505       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E_0[2]     Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_138       AO1       B        In      -         6.827       -         
+servo_ctrl_0.un1_count_1_0.I_138       AO1       Y        Out     0.567     7.393       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E[2]       Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_139       AO1       B        In      -         7.715       -         
+servo_ctrl_0.un1_count_1_0.I_139       AO1       Y        Out     0.567     8.281       -         
+DWACT_COMP0_E[2]                       Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_140       AO1       B        In      -         8.603       -         
+servo_ctrl_0.un1_count_1_0.I_140       AO1       Y        Out     0.567     9.169       -         
+un1_count_1                            Net       -        -       0.322     -           1         
+servo_ctrl_0.pwm_RNO                   NOR3C     C        In      -         9.491       -         
+servo_ctrl_0.pwm_RNO                   NOR3C     Y        Out     0.666     10.156      -         
+pwm4                                   Net       -        -       0.322     -           1         
+servo_ctrl_0.pwm                       DFN1      D        In      -         10.478      -         
+==================================================================================================
+Total path delay (propagation time + setup) of 11.016 is 6.805(61.8%) logic and 4.211(38.2%) route.
+Path delay compensated for clock skew. Clock skew is added to clock-to-out value, and is subtracted from setup time value
+
+
+Path information for path number 5: 
+      Requested Period:                      10.000
+    - Setup time:                            0.539
+    + Clock delay at ending point:           0.000 (ideal)
+    = Required time:                         9.461
+
+    - Propagation time:                      10.351
+    - Clock delay at starting point:         0.000 (ideal)
+    = Slack (non-critical) :                 -0.890
+
+    Number of logic level(s):                8
+    Starting point:                          servo_ctrl_0.count[11] / Q
+    Ending point:                            servo_ctrl_0.pwm / D
+    The start point is clocked by            FAB_CLK [rising] on pin CLK
+    The end   point is clocked by            FAB_CLK [rising] on pin CLK
+
+Instance / Net                                 Pin      Pin               Arrival     No. of    
+Name                                 Type      Name     Dir     Delay     Time        Fan Out(s)
+------------------------------------------------------------------------------------------------
+servo_ctrl_0.count[11]               DFN1      Q        Out     0.737     0.737       -         
+count[11]                            Net       -        -       1.423     -           6         
+servo_ctrl_0.un1_count_1_0.I_96      OR2A      B        In      -         2.160       -         
+servo_ctrl_0.un1_count_1_0.I_96      OR2A      Y        Out     0.646     2.807       -         
+N_22                                 Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_102     AO1C      C        In      -         3.128       -         
+servo_ctrl_0.un1_count_1_0.I_102     AO1C      Y        Out     0.633     3.761       -         
+N_28                                 Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_105     OA1A      B        In      -         4.082       -         
+servo_ctrl_0.un1_count_1_0.I_105     OA1A      Y        Out     0.902     4.984       -         
+N_31                                 Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_106     OA1       A        In      -         5.306       -         
+servo_ctrl_0.un1_count_1_0.I_106     OA1       Y        Out     0.984     6.290       -         
+DWACT_CMPLE_PO0_DWACT_COMP0_E[2]     Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_107     AO1       B        In      -         6.611       -         
+servo_ctrl_0.un1_count_1_0.I_107     AO1       Y        Out     0.567     7.178       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E[0]     Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_139     AO1       C        In      -         7.499       -         
+servo_ctrl_0.un1_count_1_0.I_139     AO1       Y        Out     0.655     8.154       -         
+DWACT_COMP0_E[2]                     Net       -        -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_140     AO1       B        In      -         8.476       -         
+servo_ctrl_0.un1_count_1_0.I_140     AO1       Y        Out     0.567     9.042       -         
+un1_count_1                          Net       -        -       0.322     -           1         
+servo_ctrl_0.pwm_RNO                 NOR3C     C        In      -         9.364       -         
+servo_ctrl_0.pwm_RNO                 NOR3C     Y        Out     0.666     10.029      -         
+pwm4                                 Net       -        -       0.322     -           1         
+servo_ctrl_0.pwm                     DFN1      D        In      -         10.351      -         
+================================================================================================
+Total path delay (propagation time + setup) of 10.890 is 6.894(63.3%) logic and 3.995(36.7%) route.
+Path delay compensated for clock skew. Clock skew is added to clock-to-out value, and is subtracted from setup time value
+
+
+
+
+====================================
+Detailed Report for Clock: System
+====================================
+
+
+
+Starting Points with Worst Slack
+********************************
+
+                          Starting                                                                         Arrival           
+Instance                  Reference     Type        Pin               Net                                  Time        Slack 
+                          Clock                                                                                              
+-----------------------------------------------------------------------------------------------------------------------------
+infr_0.MSS_ADLIB_INST     System        MSS_APB     MSSPWDATA[6]      CoreAPB3_0_APBmslave0_PWDATA[6]      0.000       -0.043
+infr_0.MSS_ADLIB_INST     System        MSS_APB     MSSPWDATA[11]     CoreAPB3_0_APBmslave0_PWDATA[11]     0.000       -0.043
+infr_0.MSS_ADLIB_INST     System        MSS_APB     MSSPWDATA[20]     CoreAPB3_0_APBmslave0_PWDATA[20]     0.000       -0.043
+infr_0.MSS_ADLIB_INST     System        MSS_APB     MSSPWDATA[5]      CoreAPB3_0_APBmslave0_PWDATA[5]      0.000       0.164 
+infr_0.MSS_ADLIB_INST     System        MSS_APB     MSSPWDATA[10]     CoreAPB3_0_APBmslave0_PWDATA[10]     0.000       0.164 
+infr_0.MSS_ADLIB_INST     System        MSS_APB     MSSPWDATA[19]     CoreAPB3_0_APBmslave0_PWDATA[19]     0.000       0.164 
+infr_0.MSS_ADLIB_INST     System        MSS_APB     MSSPWDATA[1]      CoreAPB3_0_APBmslave0_PWDATA[1]      0.000       0.285 
+infr_0.MSS_ADLIB_INST     System        MSS_APB     MSSPWDATA[28]     CoreAPB3_0_APBmslave0_PWDATA[28]     0.000       0.541 
+infr_0.MSS_ADLIB_INST     System        MSS_APB     MSSPWDATA[16]     CoreAPB3_0_APBmslave0_PWDATA[16]     0.000       0.661 
+infr_0.MSS_ADLIB_INST     System        MSS_APB     MSSPWDATA[25]     CoreAPB3_0_APBmslave0_PWDATA[25]     0.000       0.661 
+=============================================================================================================================
+
+
+Ending Points with Worst Slack
+******************************
+
+                          Starting                                                          Required           
+Instance                  Reference     Type        Pin           Net                       Time         Slack 
+                          Clock                                                                                
+---------------------------------------------------------------------------------------------------------------
+servo_ctrl_1.pwm          System        DFN1        D             pwm4                      9.461        -0.043
+servo_ctrl_0.pwm          System        DFN1        D             pwm4                      9.461        -0.043
+infr_0.MSS_ADLIB_INST     System        MSS_APB     EMCCLKRTN     MSS_ADLIB_INST_EMCCLK     10.000       9.678 
+===============================================================================================================
+
+
+
+Worst Path Information
+***********************
+
+
+Path information for path number 1: 
+      Requested Period:                      10.000
+    - Setup time:                            0.539
+    + Clock delay at ending point:           0.000 (ideal)
+    = Required time:                         9.461
+
+    - Propagation time:                      9.505
     - Clock delay at starting point:         0.000 (ideal)
     - Estimated clock delay at start point:  -0.000
-    = Slack (critical) :                     4.491
+    = Slack (non-critical) :                 -0.043
 
-    Number of logic level(s):                1
-    Starting point:                          infr_0.MSS_CCC_0.I_RCOSC / CLKOUT
-    Ending point:                            infr_0.MSS_ADLIB_INST / FCLK
+    Number of logic level(s):                8
+    Starting point:                          infr_0.MSS_ADLIB_INST / MSSPWDATA[6]
+    Ending point:                            servo_ctrl_1.pwm / D
     The start point is clocked by            System [rising]
-    The end   point is clocked by            System [rising]
+    The end   point is clocked by            FAB_CLK [rising] on pin CLK
 
-Instance / Net                            Pin        Pin               Arrival     No. of    
-Name                          Type        Name       Dir     Delay     Time        Fan Out(s)
----------------------------------------------------------------------------------------------
-infr_0.MSS_CCC_0.I_RCOSC      RCOSC       CLKOUT     Out     0.000     0.000       -         
-N_CLKA_RCOSC                  Net         -          -       0.322     -           1         
-infr_0.MSS_CCC_0.I_MSSCCC     MSS_CCC     CLKA       In      -         0.322       -         
-infr_0.MSS_CCC_0.I_MSSCCC     MSS_CCC     GLAMSS     Out     4.866     5.188       -         
-MSS_ADLIB_INST_FCLK           Net         -          -       0.322     -           1         
-infr_0.MSS_ADLIB_INST         MSS_APB     FCLK       In      -         5.509       -         
-=============================================================================================
-Total path delay (propagation time + setup) of 5.509 is 4.866(88.3%) logic and 0.643(11.7%) route.
+Instance / Net                                     Pin              Pin               Arrival     No. of    
+Name                                   Type        Name             Dir     Delay     Time        Fan Out(s)
+------------------------------------------------------------------------------------------------------------
+infr_0.MSS_ADLIB_INST                  MSS_APB     MSSPWDATA[6]     Out     0.000     0.000       -         
+CoreAPB3_0_APBmslave0_PWDATA[6]        Net         -                -       1.423     -           6         
+servo_ctrl_1.un1_count_1_0.I_116       OR2A        A                In      -         1.423       -         
+servo_ctrl_1.un1_count_1_0.I_116       OR2A        Y                Out     0.537     1.960       -         
+N_12                                   Net         -                -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_122       AO1C        C                In      -         2.282       -         
+servo_ctrl_1.un1_count_1_0.I_122       AO1C        Y                Out     0.633     2.914       -         
+N_18                                   Net         -                -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_125       OA1A        B                In      -         3.236       -         
+servo_ctrl_1.un1_count_1_0.I_125       OA1A        Y                Out     0.902     4.138       -         
+N_21                                   Net         -                -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_126       OA1         A                In      -         4.460       -         
+servo_ctrl_1.un1_count_1_0.I_126       OA1         Y                Out     0.984     5.443       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E_0[0]     Net         -                -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_138       AO1         C                In      -         5.765       -         
+servo_ctrl_1.un1_count_1_0.I_138       AO1         Y                Out     0.655     6.420       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E[2]       Net         -                -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_139       AO1         B                In      -         6.741       -         
+servo_ctrl_1.un1_count_1_0.I_139       AO1         Y                Out     0.567     7.308       -         
+DWACT_COMP0_E[2]                       Net         -                -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_140       AO1         B                In      -         7.629       -         
+servo_ctrl_1.un1_count_1_0.I_140       AO1         Y                Out     0.567     8.196       -         
+un1_count_1                            Net         -                -       0.322     -           1         
+servo_ctrl_1.pwm_RNO                   NOR3C       C                In      -         8.517       -         
+servo_ctrl_1.pwm_RNO                   NOR3C       Y                Out     0.666     9.183       -         
+pwm4                                   Net         -                -       0.322     -           1         
+servo_ctrl_1.pwm                       DFN1        D                In      -         9.505       -         
+============================================================================================================
+Total path delay (propagation time + setup) of 10.043 is 6.048(60.2%) logic and 3.995(39.8%) route.
+Path delay compensated for clock skew. Clock skew is added to clock-to-out value, and is subtracted from setup time value
+
+
+Path information for path number 2: 
+      Requested Period:                      10.000
+    - Setup time:                            0.539
+    + Clock delay at ending point:           0.000 (ideal)
+    = Required time:                         9.461
+
+    - Propagation time:                      9.505
+    - Clock delay at starting point:         0.000 (ideal)
+    - Estimated clock delay at start point:  -0.000
+    = Slack (non-critical) :                 -0.043
+
+    Number of logic level(s):                8
+    Starting point:                          infr_0.MSS_ADLIB_INST / MSSPWDATA[11]
+    Ending point:                            servo_ctrl_1.pwm / D
+    The start point is clocked by            System [rising]
+    The end   point is clocked by            FAB_CLK [rising] on pin CLK
+
+Instance / Net                                   Pin               Pin               Arrival     No. of    
+Name                                 Type        Name              Dir     Delay     Time        Fan Out(s)
+-----------------------------------------------------------------------------------------------------------
+infr_0.MSS_ADLIB_INST                MSS_APB     MSSPWDATA[11]     Out     0.000     0.000       -         
+CoreAPB3_0_APBmslave0_PWDATA[11]     Net         -                 -       1.423     -           6         
+servo_ctrl_1.un1_count_1_0.I_96      OR2A        A                 In      -         1.423       -         
+servo_ctrl_1.un1_count_1_0.I_96      OR2A        Y                 Out     0.537     1.960       -         
+N_22                                 Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_102     AO1C        C                 In      -         2.282       -         
+servo_ctrl_1.un1_count_1_0.I_102     AO1C        Y                 Out     0.633     2.914       -         
+N_28                                 Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_105     OA1A        B                 In      -         3.236       -         
+servo_ctrl_1.un1_count_1_0.I_105     OA1A        Y                 Out     0.902     4.138       -         
+N_31                                 Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_106     OA1         A                 In      -         4.460       -         
+servo_ctrl_1.un1_count_1_0.I_106     OA1         Y                 Out     0.984     5.443       -         
+DWACT_CMPLE_PO0_DWACT_COMP0_E[2]     Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_107     AO1         B                 In      -         5.765       -         
+servo_ctrl_1.un1_count_1_0.I_107     AO1         Y                 Out     0.567     6.331       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E[0]     Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_139     AO1         C                 In      -         6.653       -         
+servo_ctrl_1.un1_count_1_0.I_139     AO1         Y                 Out     0.655     7.308       -         
+DWACT_COMP0_E[2]                     Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_140     AO1         B                 In      -         7.629       -         
+servo_ctrl_1.un1_count_1_0.I_140     AO1         Y                 Out     0.567     8.196       -         
+un1_count_1                          Net         -                 -       0.322     -           1         
+servo_ctrl_1.pwm_RNO                 NOR3C       C                 In      -         8.517       -         
+servo_ctrl_1.pwm_RNO                 NOR3C       Y                 Out     0.666     9.183       -         
+pwm4                                 Net         -                 -       0.322     -           1         
+servo_ctrl_1.pwm                     DFN1        D                 In      -         9.505       -         
+===========================================================================================================
+Total path delay (propagation time + setup) of 10.043 is 6.048(60.2%) logic and 3.995(39.8%) route.
+Path delay compensated for clock skew. Clock skew is added to clock-to-out value, and is subtracted from setup time value
+
+
+Path information for path number 3: 
+      Requested Period:                      10.000
+    - Setup time:                            0.539
+    + Clock delay at ending point:           0.000 (ideal)
+    = Required time:                         9.461
+
+    - Propagation time:                      9.505
+    - Clock delay at starting point:         0.000 (ideal)
+    - Estimated clock delay at start point:  -0.000
+    = Slack (non-critical) :                 -0.043
+
+    Number of logic level(s):                8
+    Starting point:                          infr_0.MSS_ADLIB_INST / MSSPWDATA[20]
+    Ending point:                            servo_ctrl_1.pwm / D
+    The start point is clocked by            System [rising]
+    The end   point is clocked by            FAB_CLK [rising] on pin CLK
+
+Instance / Net                                     Pin               Pin               Arrival     No. of    
+Name                                   Type        Name              Dir     Delay     Time        Fan Out(s)
+-------------------------------------------------------------------------------------------------------------
+infr_0.MSS_ADLIB_INST                  MSS_APB     MSSPWDATA[20]     Out     0.000     0.000       -         
+CoreAPB3_0_APBmslave0_PWDATA[20]       Net         -                 -       1.423     -           6         
+servo_ctrl_1.un1_count_1_0.I_53        OR2A        A                 In      -         1.423       -         
+servo_ctrl_1.un1_count_1_0.I_53        OR2A        Y                 Out     0.537     1.960       -         
+N_32                                   Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_59        AO1C        C                 In      -         2.282       -         
+servo_ctrl_1.un1_count_1_0.I_59        AO1C        Y                 Out     0.633     2.914       -         
+N_38                                   Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_62        OA1A        B                 In      -         3.236       -         
+servo_ctrl_1.un1_count_1_0.I_62        OA1A        Y                 Out     0.902     4.138       -         
+N_41                                   Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_63        OA1         A                 In      -         4.460       -         
+servo_ctrl_1.un1_count_1_0.I_63        OA1         Y                 Out     0.984     5.443       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E_1[2]     Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_64        AO1         B                 In      -         5.765       -         
+servo_ctrl_1.un1_count_1_0.I_64        AO1         Y                 Out     0.567     6.331       -         
+DWACT_CMPLE_PO0_DWACT_COMP0_E_0[2]     Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_65        AO1         B                 In      -         6.653       -         
+servo_ctrl_1.un1_count_1_0.I_65        AO1         Y                 Out     0.567     7.219       -         
+DWACT_COMP0_E[0]                       Net         -                 -       0.322     -           1         
+servo_ctrl_1.un1_count_1_0.I_140       AO1         C                 In      -         7.541       -         
+servo_ctrl_1.un1_count_1_0.I_140       AO1         Y                 Out     0.655     8.196       -         
+un1_count_1                            Net         -                 -       0.322     -           1         
+servo_ctrl_1.pwm_RNO                   NOR3C       C                 In      -         8.517       -         
+servo_ctrl_1.pwm_RNO                   NOR3C       Y                 Out     0.666     9.183       -         
+pwm4                                   Net         -                 -       0.322     -           1         
+servo_ctrl_1.pwm                       DFN1        D                 In      -         9.505       -         
+=============================================================================================================
+Total path delay (propagation time + setup) of 10.043 is 6.048(60.2%) logic and 3.995(39.8%) route.
+Path delay compensated for clock skew. Clock skew is added to clock-to-out value, and is subtracted from setup time value
+
+
+Path information for path number 4: 
+      Requested Period:                      10.000
+    - Setup time:                            0.539
+    + Clock delay at ending point:           0.000 (ideal)
+    = Required time:                         9.461
+
+    - Propagation time:                      9.505
+    - Clock delay at starting point:         0.000 (ideal)
+    - Estimated clock delay at start point:  -0.000
+    = Slack (non-critical) :                 -0.043
+
+    Number of logic level(s):                8
+    Starting point:                          infr_0.MSS_ADLIB_INST / MSSPWDATA[6]
+    Ending point:                            servo_ctrl_0.pwm / D
+    The start point is clocked by            System [rising]
+    The end   point is clocked by            FAB_CLK [rising] on pin CLK
+
+Instance / Net                                     Pin              Pin               Arrival     No. of    
+Name                                   Type        Name             Dir     Delay     Time        Fan Out(s)
+------------------------------------------------------------------------------------------------------------
+infr_0.MSS_ADLIB_INST                  MSS_APB     MSSPWDATA[6]     Out     0.000     0.000       -         
+CoreAPB3_0_APBmslave0_PWDATA[6]        Net         -                -       1.423     -           6         
+servo_ctrl_0.un1_count_1_0.I_116       OR2A        A                In      -         1.423       -         
+servo_ctrl_0.un1_count_1_0.I_116       OR2A        Y                Out     0.537     1.960       -         
+N_12                                   Net         -                -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_122       AO1C        C                In      -         2.282       -         
+servo_ctrl_0.un1_count_1_0.I_122       AO1C        Y                Out     0.633     2.914       -         
+N_18                                   Net         -                -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_125       OA1A        B                In      -         3.236       -         
+servo_ctrl_0.un1_count_1_0.I_125       OA1A        Y                Out     0.902     4.138       -         
+N_21                                   Net         -                -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_126       OA1         A                In      -         4.460       -         
+servo_ctrl_0.un1_count_1_0.I_126       OA1         Y                Out     0.984     5.443       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E_0[0]     Net         -                -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_138       AO1         C                In      -         5.765       -         
+servo_ctrl_0.un1_count_1_0.I_138       AO1         Y                Out     0.655     6.420       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E[2]       Net         -                -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_139       AO1         B                In      -         6.741       -         
+servo_ctrl_0.un1_count_1_0.I_139       AO1         Y                Out     0.567     7.308       -         
+DWACT_COMP0_E[2]                       Net         -                -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_140       AO1         B                In      -         7.629       -         
+servo_ctrl_0.un1_count_1_0.I_140       AO1         Y                Out     0.567     8.196       -         
+un1_count_1                            Net         -                -       0.322     -           1         
+servo_ctrl_0.pwm_RNO                   NOR3C       C                In      -         8.517       -         
+servo_ctrl_0.pwm_RNO                   NOR3C       Y                Out     0.666     9.183       -         
+pwm4                                   Net         -                -       0.322     -           1         
+servo_ctrl_0.pwm                       DFN1        D                In      -         9.505       -         
+============================================================================================================
+Total path delay (propagation time + setup) of 10.043 is 6.048(60.2%) logic and 3.995(39.8%) route.
+Path delay compensated for clock skew. Clock skew is added to clock-to-out value, and is subtracted from setup time value
+
+
+Path information for path number 5: 
+      Requested Period:                      10.000
+    - Setup time:                            0.539
+    + Clock delay at ending point:           0.000 (ideal)
+    = Required time:                         9.461
+
+    - Propagation time:                      9.505
+    - Clock delay at starting point:         0.000 (ideal)
+    - Estimated clock delay at start point:  -0.000
+    = Slack (non-critical) :                 -0.043
+
+    Number of logic level(s):                8
+    Starting point:                          infr_0.MSS_ADLIB_INST / MSSPWDATA[11]
+    Ending point:                            servo_ctrl_0.pwm / D
+    The start point is clocked by            System [rising]
+    The end   point is clocked by            FAB_CLK [rising] on pin CLK
+
+Instance / Net                                   Pin               Pin               Arrival     No. of    
+Name                                 Type        Name              Dir     Delay     Time        Fan Out(s)
+-----------------------------------------------------------------------------------------------------------
+infr_0.MSS_ADLIB_INST                MSS_APB     MSSPWDATA[11]     Out     0.000     0.000       -         
+CoreAPB3_0_APBmslave0_PWDATA[11]     Net         -                 -       1.423     -           6         
+servo_ctrl_0.un1_count_1_0.I_96      OR2A        A                 In      -         1.423       -         
+servo_ctrl_0.un1_count_1_0.I_96      OR2A        Y                 Out     0.537     1.960       -         
+N_22                                 Net         -                 -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_102     AO1C        C                 In      -         2.282       -         
+servo_ctrl_0.un1_count_1_0.I_102     AO1C        Y                 Out     0.633     2.914       -         
+N_28                                 Net         -                 -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_105     OA1A        B                 In      -         3.236       -         
+servo_ctrl_0.un1_count_1_0.I_105     OA1A        Y                 Out     0.902     4.138       -         
+N_31                                 Net         -                 -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_106     OA1         A                 In      -         4.460       -         
+servo_ctrl_0.un1_count_1_0.I_106     OA1         Y                 Out     0.984     5.443       -         
+DWACT_CMPLE_PO0_DWACT_COMP0_E[2]     Net         -                 -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_107     AO1         B                 In      -         5.765       -         
+servo_ctrl_0.un1_count_1_0.I_107     AO1         Y                 Out     0.567     6.331       -         
+DWACT_CMPLE_PO2_DWACT_COMP0_E[0]     Net         -                 -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_139     AO1         C                 In      -         6.653       -         
+servo_ctrl_0.un1_count_1_0.I_139     AO1         Y                 Out     0.655     7.308       -         
+DWACT_COMP0_E[2]                     Net         -                 -       0.322     -           1         
+servo_ctrl_0.un1_count_1_0.I_140     AO1         B                 In      -         7.629       -         
+servo_ctrl_0.un1_count_1_0.I_140     AO1         Y                 Out     0.567     8.196       -         
+un1_count_1                          Net         -                 -       0.322     -           1         
+servo_ctrl_0.pwm_RNO                 NOR3C       C                 In      -         8.517       -         
+servo_ctrl_0.pwm_RNO                 NOR3C       Y                 Out     0.666     9.183       -         
+pwm4                                 Net         -                 -       0.322     -           1         
+servo_ctrl_0.pwm                     DFN1        D                 In      -         9.505       -         
+===========================================================================================================
+Total path delay (propagation time + setup) of 10.043 is 6.048(60.2%) logic and 3.995(39.8%) route.
 Path delay compensated for clock skew. Clock skew is added to clock-to-out value, and is subtracted from setup time value
 
 
@@ -231,47 +791,69 @@ Path delay compensated for clock skew. Clock skew is added to clock-to-out value
 Timing exceptions that could not be applied
 None
 
-Finished final timing analysis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 111MB)
+Finished final timing analysis (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 118MB peak: 164MB)
 
 
-Finished timing report (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 109MB peak: 111MB)
+Finished timing report (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 118MB peak: 164MB)
 
 --------------------------------------------------------------------------------
 Target Part: A2F200M3F_FBGA484_STD
 Report for cell ir.verilog
   Core Cell usage:
               cell count     area count*area
-               GND     3      0.0        0.0
+              AND2    38      1.0       38.0
+             AND2A     6      1.0        6.0
+              AND3   120      1.0      120.0
+               AO1    12      1.0       12.0
+              AO1C    30      1.0       30.0
+              AOI1     2      1.0        2.0
+             AOI1A    10      1.0       10.0
+             AOI1B    14      1.0       14.0
+               GND     5      0.0        0.0
            MSS_APB     1      0.0        0.0
            MSS_CCC     1      0.0        0.0
+              NOR2    14      1.0       14.0
+             NOR2A    20      1.0       20.0
+             NOR2B    15      1.0       15.0
+              NOR3     1      1.0        1.0
+             NOR3A    10      1.0       10.0
+             NOR3B     3      1.0        3.0
+             NOR3C    11      1.0       11.0
+               OA1    10      1.0       10.0
+              OA1A    20      1.0       20.0
+              OR2A    50      1.0       50.0
              RCOSC     1      0.0        0.0
-               VCC     3      0.0        0.0
+               VCC     5      0.0        0.0
+             XNOR2    78      1.0       78.0
+              XOR2    62      1.0       62.0
 
 
+              DFN1    66      1.0       66.0
                    -----          ----------
-             TOTAL     9                 0.0
+             TOTAL   605               592.0
 
 
   IO Cell usage:
               cell count
    BIBUF_OPEND_MSS     2
          INBUF_MSS     2
+            OUTBUF     2
         OUTBUF_MSS     1
                    -----
-             TOTAL     5
+             TOTAL     7
 
 
-Core Cells         : 0 of 4608 (0%)
-IO Cells           : 5
+Core Cells         : 592 of 4608 (13%)
+IO Cells           : 7
 
   RAM/ROM Usage Summary
 Block Rams : 0 of 8 (0%)
 
 Mapper successful!
 
-At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 25MB peak: 111MB)
+At Mapper Exit (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 28MB peak: 164MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
-# Wed Feb 26 19:19:48 2020
+# Thu Feb 27 17:24:03 2020
 
 ###########################################################]

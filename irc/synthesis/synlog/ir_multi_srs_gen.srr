@@ -1,12 +1,12 @@
 Synopsys Netlist Linker, version comp2016q4p1, Build 512R, built Oct 26 2017
 @N|Running in 64-bit mode
-File C:\Users\phammel\Desktop\starter\irc\synthesis\synwork\ir_comp.srs changed - recompiling
+File C:\Users\fuhu\Desktop\373final\irc\synthesis\synwork\ir_comp.srs changed - recompiling
 
-At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 68MB peak: 69MB)
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 70MB peak: 71MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Wed Feb 26 19:19:47 2020
+# Thu Feb 27 17:24:01 2020
 
 ###########################################################]

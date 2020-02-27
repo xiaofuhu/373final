@@ -2,7 +2,7 @@
 <device>
   <name>ir</name>
   <version>1.0</version>
-  <description>CMSIS description for ir.  Created by Microsemi SmartDesign on Wed Feb 26 19:19:40 2020</description>
+  <description>CMSIS description for ir.  Created by Microsemi SmartDesign on Thu Feb 27 17:23:40 2020</description>
   <addressUnitBits>8</addressUnitBits>
   <width>32</width>
   <peripherals>
@@ -1849,6 +1849,14 @@
     <peripheral>
       <name>ENVM_ARRAY</name>
       <baseAddress>0x60000000</baseAddress>
+    </peripheral>
+    <peripheral>
+      <name>servo_ctrl_0</name>
+      <baseAddress>0x40050000</baseAddress>
+    </peripheral>
+    <peripheral>
+      <name>servo_ctrl_1</name>
+      <baseAddress>0x40050100</baseAddress>
     </peripheral>
     <peripheral>
       <name>FPGA_FABRIC_BACKDOOR</name>

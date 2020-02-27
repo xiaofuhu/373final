@@ -3,10 +3,74 @@ Report for cell ir.verilog
                                           Cell usage:
                                cell       count     area    count*area
                                 GND         1       0.0        0.0
+                             OUTBUF         2       0.0        0.0
                                 VCC         1       0.0        0.0
                                infr         1       0.0        0.0
+                       servo_ctrl_1         1     297.0      297.0
+                     servo_ctrl_1_0         1     295.0      295.0
                             
-                         TOTAL              3                  0.0
+                         TOTAL              7                592.0
+----------------------------------------------------------------------
+Report for cell servo_ctrl_1_0.netlist
+  Original Cell name servo_ctrl_1
+     Instance path:  servo_ctrl_1
+                                          Cell usage:
+                               cell       count     area    count*area
+                               AND2        19       1.0       19.0
+                              AND2A         3       1.0        3.0
+                               AND3        60       1.0       60.0
+                                AO1         6       1.0        6.0
+                               AO1C        15       1.0       15.0
+                               AOI1         1       1.0        1.0
+                              AOI1A         5       1.0        5.0
+                              AOI1B         7       1.0        7.0
+                               DFN1        33       1.0       33.0
+                                GND         1       0.0        0.0
+                               NOR2         7       1.0        7.0
+                              NOR2A        10       1.0       10.0
+                              NOR2B         7       1.0        7.0
+                              NOR3A         5       1.0        5.0
+                              NOR3B         1       1.0        1.0
+                              NOR3C         6       1.0        6.0
+                                OA1         5       1.0        5.0
+                               OA1A        10       1.0       10.0
+                               OR2A        25       1.0       25.0
+                                VCC         1       0.0        0.0
+                              XNOR2        39       1.0       39.0
+                               XOR2        31       1.0       31.0
+                            
+                         TOTAL            297                295.0
+----------------------------------------------------------------------
+Report for cell servo_ctrl_1.netlist
+  Original Cell name servo_ctrl
+     Instance path:  servo_ctrl_0
+                                          Cell usage:
+                               cell       count     area    count*area
+                               AND2        19       1.0       19.0
+                              AND2A         3       1.0        3.0
+                               AND3        60       1.0       60.0
+                                AO1         6       1.0        6.0
+                               AO1C        15       1.0       15.0
+                               AOI1         1       1.0        1.0
+                              AOI1A         5       1.0        5.0
+                              AOI1B         7       1.0        7.0
+                               DFN1        33       1.0       33.0
+                                GND         1       0.0        0.0
+                               NOR2         7       1.0        7.0
+                              NOR2A        10       1.0       10.0
+                              NOR2B         8       1.0        8.0
+                               NOR3         1       1.0        1.0
+                              NOR3A         5       1.0        5.0
+                              NOR3B         2       1.0        2.0
+                              NOR3C         5       1.0        5.0
+                                OA1         5       1.0        5.0
+                               OA1A        10       1.0       10.0
+                               OR2A        25       1.0       25.0
+                                VCC         1       0.0        0.0
+                              XNOR2        39       1.0       39.0
+                               XOR2        31       1.0       31.0
+                            
+                         TOTAL            299                297.0
 ----------------------------------------------------------------------
 Report for cell infr.netlist
      Instance path:  infr_0

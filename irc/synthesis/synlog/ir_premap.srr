@@ -1,4 +1,4 @@
-# Wed Feb 26 19:19:47 2020
+# Thu Feb 27 17:24:01 2020
 
 Synopsys Microsemi Technology Pre-mapping, Version mapact, Build 2172R, Built Oct 30 2017 10:54:39
 Copyright (C) 1994-2017 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
@@ -6,48 +6,51 @@ Product Version L-2016.09M-SP1-5
 
 Mapper Startup Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 99MB peak: 99MB)
 
-@A: MF827 |No constraint file specified.
-@L: C:\Users\phammel\Desktop\starter\irc\synthesis\ir_scck.rpt 
-Printing clock  summary report in "C:\Users\phammel\Desktop\starter\irc\synthesis\ir_scck.rpt" file 
+Reading constraint file: C:\Users\fuhu\Desktop\373final\irc\component\work\infr\mss_tshell_syn.sdc
+@L: C:\Users\fuhu\Desktop\373final\irc\synthesis\ir_scck.rpt 
+Printing clock  summary report in "C:\Users\fuhu\Desktop\373final\irc\synthesis\ir_scck.rpt" file 
 @N: MF248 |Running in 64-bit mode.
 @N: MF667 |Clock conversion disabled. (Command "set_option -fix_gated_and_generated_clocks 0" in the project file.)
 
-Design Input Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 100MB peak: 103MB)
+Design Input Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 103MB peak: 105MB)
 
 
-Mapper Initialization Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 100MB peak: 103MB)
+Mapper Initialization Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 103MB peak: 105MB)
 
-@N: MO111 :"c:\users\phammel\desktop\starter\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":64:7:64:18|Tristate driver LPXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net LPXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
-@N: MO111 :"c:\users\phammel\desktop\starter\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":63:7:63:20|Tristate driver MAINXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net MAINXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
-@N: MO111 :"c:\users\phammel\desktop\starter\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":62:7:62:18|Tristate driver RCOSC_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net RCOSC_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
+@N: MO111 :"c:\users\fuhu\desktop\373final\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":64:7:64:18|Tristate driver LPXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net LPXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
+@N: MO111 :"c:\users\fuhu\desktop\373final\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":63:7:63:20|Tristate driver MAINXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net MAINXIN_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
+@N: MO111 :"c:\users\fuhu\desktop\373final\irc\component\work\infr\mss_ccc_0\infr_tmp_mss_ccc_0_mss_ccc.v":62:7:62:18|Tristate driver RCOSC_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) on net RCOSC_CLKOUT (in view: work.infr_tmp_MSS_CCC_0_MSS_CCC(verilog)) has its enable tied to GND.
+@N: BN115 :"c:\users\fuhu\desktop\373final\irc\component\actel\directcore\coreapb3\4.1.100\rtl\vlog\core\coreapb3.v":443:18:443:30|Removing instance u_mux_p_to_b3 (in view: COREAPB3_LIB.CoreAPB3_Z1(verilog)) of type view:COREAPB3_LIB.COREAPB3_MUXPTOB3(verilog) because it does not drive other instances.
 
-Finished netlist restructuring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 110MB peak: 111MB)
+Finished netlist restructuring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 111MB peak: 113MB)
 
 
 
 Clock Summary
 *****************
 
-Start     Requested     Requested     Clock     Clock     Clock
-Clock     Frequency     Period        Type      Group     Load 
----------------------------------------------------------------
-===============================================================
+Start       Requested     Requested     Clock        Clock           Clock
+Clock       Frequency     Period        Type         Group           Load 
+--------------------------------------------------------------------------
+FAB_CLK     100.0 MHz     10.000        declared     clk_group_0     66   
+FCLK        100.0 MHz     10.000        declared     clk_group_0     0    
+==========================================================================
 
 Finished Pre Mapping Phase.
-@N: BN225 |Writing default property annotation file C:\Users\phammel\Desktop\starter\irc\synthesis\ir.sap.
+@N: BN225 |Writing default property annotation file C:\Users\fuhu\Desktop\373final\irc\synthesis\ir.sap.
 
-Starting constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 110MB peak: 111MB)
+Starting constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 111MB peak: 113MB)
 
 None
 None
 
-Finished constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 110MB peak: 111MB)
+Finished constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 111MB peak: 113MB)
 
 Pre-mapping successful!
 
-At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 25MB peak: 111MB)
+At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 26MB peak: 113MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
-# Wed Feb 26 19:19:48 2020
+# Thu Feb 27 17:24:01 2020
 
 ###########################################################]

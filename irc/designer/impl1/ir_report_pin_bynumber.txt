@@ -1,5 +1,5 @@
 *****************************************************************
-Pin Report - Date: Wed Feb 26 19:20:07 2020 Pinchecksum: NOT-AVAILABLE
+Pin Report - Date: Thu Feb 27 17:24:29 2020 Pinchecksum: NOT-AVAILABLE
 Product: Designer
 Release: v11.9
 Version: 11.9.0.4
@@ -144,7 +144,7 @@ D21                  IO21NDB1V0                    Unassigned
 D22                  GND                           Reserved
 E1                   GFC2/IO67PPB5V0               Special
 E2                   VCCFPGAIOB5                   Reserved
-E3                   GFA2/IO68PDB5V0               Special
+E3      pwm0         GFA2/IO68PDB5V0               Special      LVTTL    12                 High  None           ---              No    35                No           No
 E4                   GND                           Reserved
 E5                   Not Bonded                    Unconnected
 E6                   GNDQ                          Reserved
@@ -166,7 +166,7 @@ E21                  VCCFPGAIOB1                   Reserved
 E22                  IO22NDB1V0                    Unassigned
 F1                   GFB1/IO65PPB5V0               Special
 F2                   IO67NPB5V0                    Unassigned
-F3                   GFB2/IO68NDB5V0               Special
+F3      pwm1         GFB2/IO68NDB5V0               Special      LVTTL    12                 High  None           ---              No    35                No           No
 F4                   EMC_DB[10]/IO69NPB5V0         Unassigned
 F5                   VCCFPGAIOB5                   Reserved
 F6                   VCCPLL                        Reserved

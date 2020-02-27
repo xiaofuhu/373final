@@ -1,21 +1,22 @@
 Microsemi Corporation - Microsemi Libero Software Release v11.9 (Version 11.9.0.4)
 
-Date      :  Wed Feb 26 19:19:36 2020
-Project   :  C:\Users\phammel\Desktop\starter\irc
+Date      :  Thu Feb 27 16:17:05 2020
+Project   :  C:\Users\fuhu\Desktop\373final\irc
 Component :  infr
 Family    :  SmartFusion
 
 
 HDL source files for all Synthesis and Simulation tools:
-    C:/Users/phammel/Desktop/starter/irc/component/work/infr/MSS_CCC_0/infr_tmp_MSS_CCC_0_MSS_CCC.v
-    C:/Users/phammel/Desktop/starter/irc/component/work/infr/infr.v
+    C:/Users/fuhu/Desktop/373final/irc/component/work/infr/MSS_CCC_0/infr_tmp_MSS_CCC_0_MSS_CCC.v
+    C:/Users/fuhu/Desktop/373final/irc/component/work/infr/infr.v
 
 HDL source files for Synopsys SynplifyPro Synthesis tool:
-    C:/Users/phammel/Desktop/starter/irc/component/Actel/SmartFusionMSS/MSS/2.5.200/mss_comps.v
-    C:/Users/phammel/Desktop/starter/irc/component/work/infr/mss_tshell.v
+    C:/Users/fuhu/Desktop/373final/irc/component/Actel/SmartFusionMSS/MSS/2.5.200/mss_comps.v
+    C:/Users/fuhu/Desktop/373final/irc/component/work/infr/mss_tshell.v
+    C:/Users/fuhu/Desktop/373final/irc/component/work/infr/mss_tshell_syn.sdc
 
 Stimulus files for all Simulation tools:
-    C:/Users/phammel/Desktop/starter/irc/component/Actel/SmartFusionMSS/MSS/2.5.200/CompileDssBfm.tcl
-    C:/Users/phammel/Desktop/starter/irc/component/Actel/SmartFusionMSS/MSS/2.5.200/bfmtovec.exe
-    C:/Users/phammel/Desktop/starter/irc/component/work/infr/MSS_ENVM_0/test.bfm
+    C:/Users/fuhu/Desktop/373final/irc/component/Actel/SmartFusionMSS/MSS/2.5.200/CompileDssBfm.tcl
+    C:/Users/fuhu/Desktop/373final/irc/component/Actel/SmartFusionMSS/MSS/2.5.200/bfmtovec.exe
+    C:/Users/fuhu/Desktop/373final/irc/component/work/infr/MSS_ENVM_0/test.bfm
 

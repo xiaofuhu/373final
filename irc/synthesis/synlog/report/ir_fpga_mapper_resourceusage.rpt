@@ -2,28 +2,50 @@ Target Part: A2F200M3F_FBGA484_STD
 Report for cell ir.verilog
   Core Cell usage:
               cell count     area count*area
-               GND     3      0.0        0.0
+              AND2    38      1.0       38.0
+             AND2A     6      1.0        6.0
+              AND3   120      1.0      120.0
+               AO1    12      1.0       12.0
+              AO1C    30      1.0       30.0
+              AOI1     2      1.0        2.0
+             AOI1A    10      1.0       10.0
+             AOI1B    14      1.0       14.0
+               GND     5      0.0        0.0
            MSS_APB     1      0.0        0.0
            MSS_CCC     1      0.0        0.0
+              NOR2    14      1.0       14.0
+             NOR2A    20      1.0       20.0
+             NOR2B    15      1.0       15.0
+              NOR3     1      1.0        1.0
+             NOR3A    10      1.0       10.0
+             NOR3B     3      1.0        3.0
+             NOR3C    11      1.0       11.0
+               OA1    10      1.0       10.0
+              OA1A    20      1.0       20.0
+              OR2A    50      1.0       50.0
              RCOSC     1      0.0        0.0
-               VCC     3      0.0        0.0
+               VCC     5      0.0        0.0
+             XNOR2    78      1.0       78.0
+              XOR2    62      1.0       62.0
 
 
+              DFN1    66      1.0       66.0
                    -----          ----------
-             TOTAL     9                 0.0
+             TOTAL   605               592.0
 
 
   IO Cell usage:
               cell count
    BIBUF_OPEND_MSS     2
          INBUF_MSS     2
+            OUTBUF     2
         OUTBUF_MSS     1
                    -----
-             TOTAL     5
+             TOTAL     7
 
 
-Core Cells         : 0 of 4608 (0%)
-IO Cells           : 5
+Core Cells         : 592 of 4608 (13%)
+IO Cells           : 7
 
   RAM/ROM Usage Summary
 Block Rams : 0 of 8 (0%)

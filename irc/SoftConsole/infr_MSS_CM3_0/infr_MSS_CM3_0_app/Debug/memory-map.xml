@@ -1,4 +1,4 @@
-<!-- File generated from C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\CMSIS\startup_gcc\debug-in-actel-smartfusion-esram.ld -->
+<!-- File generated from C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\CMSIS\startup_gcc\debug-in-actel-smartfusion-esram.ld -->
 <board>
  <properties>
   <property name="system-v6-m"/>

@@ -1,8 +1,8 @@
 
 Starting:    C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\mbin\synbatch.exe
 Install:     C:\Microsemi\Libero_SoC_v11.9\SynplifyPro
-Hostname:    EECS373-04
-Date:        Wed Feb 26 19:19:46 2020
+Hostname:    EECS373-10
+Date:        Thu Feb 27 17:23:59 2020
 Version:     L-2016.09M-SP1-5
 
 Arguments:   -product synplify_pro -licensetype synplifypro_actel -batch -log synplify.log ir_syn.tcl
@@ -18,7 +18,7 @@ Running in Vendor Mode
 
 auto_infer_blackbox is not supported in current product.
 
-log file: "C:\Users\phammel\Desktop\starter\irc\synthesis\ir.srr"
+log file: "C:\Users\fuhu\Desktop\373final\irc\synthesis\ir.srr"
 
 Running: synthesis in foreground
 
@@ -28,71 +28,71 @@ Running ir_syn|synthesis
 
 
 Running: compile (Compile) on ir_syn|synthesis
-# Wed Feb 26 19:19:46 2020
+# Thu Feb 27 17:23:59 2020
 
 
 Running: compile_flow (Compile Process) on ir_syn|synthesis
-# Wed Feb 26 19:19:46 2020
+# Thu Feb 27 17:23:59 2020
 
 
 Running: compiler (Compile Input) on ir_syn|synthesis
-# Wed Feb 26 19:19:46 2020
+# Thu Feb 27 17:23:59 2020
 
-Copied C:\Users\phammel\Desktop\starter\irc\synthesis\synwork\ir_comp.srs to C:\Users\phammel\Desktop\starter\irc\synthesis\ir.srs
+Copied C:\Users\fuhu\Desktop\373final\irc\synthesis\synwork\ir_comp.srs to C:\Users\fuhu\Desktop\373final\irc\synthesis\ir.srs
 
 
 compiler completed
-# Wed Feb 26 19:19:47 2020
+# Thu Feb 27 17:24:01 2020
 
 Return Code: 0
-Run Time:00h:00m:01s
+Run Time:00h:00m:02s
 
 
 Running: multi_srs_gen (Multi-srs Generator) on ir_syn|synthesis
-# Wed Feb 26 19:19:47 2020
+# Thu Feb 27 17:24:01 2020
 
 
 multi_srs_gen completed
-# Wed Feb 26 19:19:47 2020
+# Thu Feb 27 17:24:01 2020
 
 Return Code: 0
 Run Time:00h:00m:00s
 
-Copied C:\Users\phammel\Desktop\starter\irc\synthesis\synwork\ir_mult.srs to C:\Users\phammel\Desktop\starter\irc\synthesis\ir.srs
+Copied C:\Users\fuhu\Desktop\373final\irc\synthesis\synwork\ir_mult.srs to C:\Users\fuhu\Desktop\373final\irc\synthesis\ir.srs
 
 Complete: Compile Process on ir_syn|synthesis
 
 
 Running: premap (Pre-mapping) on ir_syn|synthesis
-# Wed Feb 26 19:19:47 2020
+# Thu Feb 27 17:24:01 2020
 
 
 premap completed
-# Wed Feb 26 19:19:48 2020
+# Thu Feb 27 17:24:01 2020
 
 Return Code: 0
-Run Time:00h:00m:01s
+Run Time:00h:00m:00s
 
 Complete: Compile on ir_syn|synthesis
 
 
 Running: map (Map) on ir_syn|synthesis
-# Wed Feb 26 19:19:48 2020
+# Thu Feb 27 17:24:01 2020
 
 License granted for 4 parallel jobs
 
 
 Running: fpga_mapper (Map & Optimize) on ir_syn|synthesis
-# Wed Feb 26 19:19:48 2020
+# Thu Feb 27 17:24:01 2020
 
-Copied C:\Users\phammel\Desktop\starter\irc\synthesis\synwork\ir_m.srm to C:\Users\phammel\Desktop\starter\irc\synthesis\ir.srm
+Copied C:\Users\fuhu\Desktop\373final\irc\synthesis\synwork\ir_m.srm to C:\Users\fuhu\Desktop\373final\irc\synthesis\ir.srm
 
 
 fpga_mapper completed
-# Wed Feb 26 19:19:48 2020
+# Thu Feb 27 17:24:03 2020
 
 Return Code: 0
-Run Time:00h:00m:00s
+Run Time:00h:00m:02s
 
 Complete: Map on ir_syn|synthesis
 

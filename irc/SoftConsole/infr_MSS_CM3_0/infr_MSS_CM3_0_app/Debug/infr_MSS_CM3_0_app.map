@@ -1,21 +1,21 @@
 Archive member included because of file (symbol)
 
-C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
-                              C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o (MSS_UART_polled_tx)
-C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                              C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o (MSS_UART_polled_tx)
+C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
                               ./main.o (g_mss_i2c1)
-C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
-                              C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o) (__get_PRIMASK)
-C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
-                              C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o (SystemInit)
+C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                              C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o) (__get_PRIMASK)
+C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                              C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o (SystemInit)
 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-errno.o)
-                              C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o (__errno)
+                              C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o (__errno)
 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-impure.o)
                               c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-errno.o) (_impure_ptr)
 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-init.o)
-                              C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o (__libc_init_array)
+                              C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o (__libc_init_array)
 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memset.o)
-                              C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o) (memset)
+                              C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o) (memset)
 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-printf.o)
                               ./main.o (printf)
 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-vfprintf.o)
@@ -107,10 +107,10 @@ Allocating common symbols
 Common symbol       size              file
 
 errno               0x4               c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-reent.o)
-g_mss_uart1         0x28              C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
-g_mss_i2c0          0x74              C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
-g_mss_uart0         0x28              C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
-g_mss_i2c1          0x74              C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+g_mss_uart1         0x28              C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+g_mss_i2c0          0x74              C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+g_mss_uart0         0x28              C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+g_mss_i2c1          0x74              C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
 
 Discarded input sections
 
@@ -121,144 +121,150 @@ Discarded input sections
  .text          0x00000000        0x0 ./main.o
  .data          0x00000000        0x0 ./main.o
  .bss           0x00000000        0x0 ./main.o
- .text          0x00000000        0x0 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
- .data          0x00000000        0x0 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
- .bss           0x00000000        0x0 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
- .text          0x00000000        0x0 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .data          0x00000000        0x0 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .bss           0x00000000        0x0 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .text._getpid  0x00000000        0x8 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .text._open    0x00000000        0x8 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .text._stat    0x00000000        0xc C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .text._times   0x00000000        0x8 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .text._wait    0x00000000       0x14 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .text._unlink  0x00000000       0x14 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .text._link    0x00000000       0x14 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .text._kill    0x00000000       0x14 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .text._fork    0x00000000       0x14 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .text._execve  0x00000000       0x14 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .data.environ  0x00000000        0x4 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .bss.__env     0x00000000        0x4 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .text          0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
- .data          0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
- .bss           0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+ .data.servo_ver
+                0x00000000        0x4 ./main.o
+ .data.hor_pw   0x00000000        0x4 ./main.o
+ .data.ver_pw   0x00000000        0x4 ./main.o
+ .text          0x00000000        0x0 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
+ .data          0x00000000        0x0 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
+ .bss           0x00000000        0x0 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
+ .text          0x00000000        0x0 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .data          0x00000000        0x0 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .bss           0x00000000        0x0 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .text._getpid  0x00000000        0x8 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .text._open    0x00000000        0x8 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .text._stat    0x00000000        0xc C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .text._times   0x00000000        0x8 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .text._wait    0x00000000       0x14 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .text._unlink  0x00000000       0x14 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .text._link    0x00000000       0x14 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .text._kill    0x00000000       0x14 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .text._fork    0x00000000       0x14 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .text._execve  0x00000000       0x14 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .data.environ  0x00000000        0x4 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .bss.__env     0x00000000        0x4 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .text          0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+ .data          0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+ .bss           0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_polled_tx_string
-                0x00000000       0x90 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x90 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_irq_tx
-                0x00000000       0x98 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x98 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_tx_complete
-                0x00000000       0x3c C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x3c C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_get_rx
-                0x00000000       0x9c C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x9c C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_enable_irq
-                0x00000000       0x68 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x68 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_disable_irq
-                0x00000000       0x60 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x60 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_set_rx_handler
-                0x00000000       0xa4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0xa4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_set_loopback
-                0x00000000       0x38 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x38 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_set_rxstatus_handler
-                0x00000000       0x80 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x80 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_set_tx_handler
-                0x00000000       0x88 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x88 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_set_modemstatus_handler
-                0x00000000       0x80 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x80 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_fill_tx_fifo
-                0x00000000       0x94 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x94 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_get_rx_status
-                0x00000000       0x38 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x38 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_get_modem_status
-                0x00000000       0x28 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000000       0x28 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.MSS_UART_get_tx_status
-                0x00000000       0x34 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
- .text          0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
- .data          0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
- .bss           0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0x34 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+ .text          0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+ .data          0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+ .bss           0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_get_status
-                0x00000000       0x20 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0x20 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_system_tick
-                0x00000000       0x28 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0x28 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_set_slave_mem_offset_length
-                0x00000000       0x2c C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0x2c C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_register_write_handler
-                0x00000000       0x20 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0x20 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_smbus_init
-                0x00000000       0x10 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0x10 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_enable_smbus_irq
-                0x00000000       0xb4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0xb4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_disable_smbus_irq
-                0x00000000       0xa8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0xa8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_suspend_smbus_slave
-                0x00000000        0xc C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000        0xc C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_resume_smbus_slave
-                0x00000000        0xc C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000        0xc C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_reset_smbus
-                0x00000000        0xc C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000        0xc C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_set_smbus_alert
-                0x00000000        0xc C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000        0xc C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_clear_smbus_alert
-                0x00000000        0xc C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000        0xc C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_set_gca
-                0x00000000        0xc C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000        0xc C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_clear_gca
-                0x00000000        0xc C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000        0xc C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_set_user_data
-                0x00000000        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_get_user_data
-                0x00000000        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_disable_slave
-                0x00000000       0x34 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0x34 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_enable_slave
-                0x00000000       0x50 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0x50 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_set_slave_rx_buffer
-                0x00000000       0x38 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0x38 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_set_slave_tx_buffer
-                0x00000000       0x38 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000000       0x38 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_write_read
-                0x00000000      0x118 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
- .text          0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .data          0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .bss           0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000      0x118 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+ .text.MSS_I2C_read
+                0x00000000       0xe0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+ .text          0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .data          0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .bss           0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__get_PSP
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__set_PSP
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__get_MSP
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__set_MSP
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__get_BASEPRI
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__set_BASEPRI
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__get_FAULTMASK
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__set_FAULTMASK
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__get_CONTROL
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__set_CONTROL
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .text.__REV    0x00000000        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .text.__REV16  0x00000000        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .text.__REVSH  0x00000000        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .text.__RBIT   0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .text.__REV    0x00000000        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .text.__REV16  0x00000000        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .text.__REVSH  0x00000000        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .text.__RBIT   0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__LDREXB
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__LDREXH
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__LDREXW
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__STREXB
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__STREXH
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .text.__STREXW
-                0x00000000        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .text          0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
- .data          0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
- .bss           0x00000000        0x0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x00000000        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .text          0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+ .data          0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+ .bss           0x00000000        0x0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
  .text          0x00000000        0xc c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-errno.o)
  .data          0x00000000        0x0 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-errno.o)
  .bss           0x00000000        0x0 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-errno.o)
@@ -373,9 +379,9 @@ Linker script and memory map
 LOAD c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crti.o
 LOAD c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtbegin.o
 LOAD ./main.o
-LOAD C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
-LOAD C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
-LOAD C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a
+LOAD C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
+LOAD C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+LOAD C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a
 START GROUP
 LOAD c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a
 LOAD c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a
@@ -397,13 +403,13 @@ END GROUP
                 0x20010000                PROVIDE (_estack, __main_stack_start)
                 0x00000000                PROVIDE (__mirrored_nvm, 0x0)
 
-.text           0x20000000     0x7b28
+.text           0x20000000     0x79c8
  CREATE_OBJECT_SYMBOLS
                 0x20000000                __text_load = LOADADDR (.text)
                 0x20000000                __text_start = .
                 0x20000000                __vector_table_vma_base_address = .
  *(.isr_vector)
- .isr_vector    0x20000000      0x470 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
+ .isr_vector    0x20000000      0x470 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
                 0x20000000                g_pfnVectors
                 0x20000298                Reset_Handler
                 0x20000308                NMI_Handler
@@ -557,246 +563,243 @@ END GROUP
                 0x20000438                ACE_PPE_Flag31_IRQHandler
  *(.text .text.* .gnu.linkonce.t.*)
  .text          0x20000470       0x30 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtbegin.o
- .text.main     0x200004a0      0x198 ./main.o
+ .text.main     0x200004a0      0x130 ./main.o
                 0x200004a0                main
- .text._close   0x20000638        0x8 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
-                0x20000638                _close
- .text._exit    0x20000640        0x4 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
-                0x20000640                _exit
- .text._fstat   0x20000644        0xc C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
-                0x20000644                _fstat
- .text._isatty  0x20000650        0x8 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
-                0x20000650                _isatty
- .text._lseek   0x20000658        0x8 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
-                0x20000658                _lseek
- .text._read    0x20000660        0x8 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
-                0x20000660                _read
+ .text._close   0x200005d0        0x8 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x200005d0                _close
+ .text._exit    0x200005d8        0x4 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x200005d8                _exit
+ .text._fstat   0x200005dc        0xc C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x200005dc                _fstat
+ .text._isatty  0x200005e8        0x8 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x200005e8                _isatty
+ .text._lseek   0x200005f0        0x8 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x200005f0                _lseek
+ .text._read    0x200005f8        0x8 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x200005f8                _read
  .text._write_r
-                0x20000668       0x48 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
-                0x20000668                _write_r
- .text._sbrk    0x200006b0       0x64 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
-                0x200006b0                _sbrk
+                0x20000600       0x48 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x20000600                _write_r
+ .text._sbrk    0x20000648       0x64 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x20000648                _sbrk
  .text.MSS_UART_polled_tx
-                0x20000714       0xac C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
-                0x20000714                MSS_UART_polled_tx
+                0x200006ac       0xac C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x200006ac                MSS_UART_polled_tx
  .text.MSS_UART_isr
-                0x200007c0       0x70 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x20000758       0x70 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.default_tx_handler
-                0x20000830       0xa8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x200007c8       0xa8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .text.UART0_IRQHandler
-                0x200008d8       0x30 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
-                0x200008d8                UART0_IRQHandler
+                0x20000870       0x30 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x20000870                UART0_IRQHandler
  .text.UART1_IRQHandler
-                0x20000908       0x30 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
-                0x20000908                UART1_IRQHandler
+                0x200008a0       0x30 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x200008a0                UART1_IRQHandler
  .text.MSS_UART_init
-                0x20000938      0x150 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
-                0x20000938                MSS_UART_init
+                0x200008d0      0x150 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x200008d0                MSS_UART_init
  .text.MSS_I2C_wait_complete
-                0x20000a88       0x28 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
-                0x20000a88                MSS_I2C_wait_complete
+                0x20000a20       0x28 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x20000a20                MSS_I2C_wait_complete
  .text.enable_slave_if_required
-                0x20000ab0       0x10 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x20000a48       0x10 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.mss_i2c_isr
-                0x20000ac0      0x594 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x20000a58      0x594 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.I2C0_IRQHandler
-                0x20001054       0x30 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
-                0x20001054                I2C0_IRQHandler
+                0x20000fec       0x30 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x20000fec                I2C0_IRQHandler
  .text.I2C1_IRQHandler
-                0x20001084       0x30 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
-                0x20001084                I2C1_IRQHandler
+                0x2000101c       0x30 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x2000101c                I2C1_IRQHandler
  .text.disable_interrupts
-                0x200010b4       0x14 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x2000104c       0x14 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.restore_interrupts
-                0x200010c8        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
- .text.MSS_I2C_read
-                0x200010d0       0xe0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
-                0x200010d0                MSS_I2C_read
+                0x20001060        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .text.MSS_I2C_write
-                0x200011b0       0xdc C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
-                0x200011b0                MSS_I2C_write
+                0x20001068       0xdc C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x20001068                MSS_I2C_write
  .text.MSS_I2C_init
-                0x2000128c      0x11c C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
-                0x2000128c                MSS_I2C_init
+                0x20001144      0x11c C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x20001144                MSS_I2C_init
  .text.__get_PRIMASK
-                0x200013a8        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
-                0x200013a8                __get_PRIMASK
+                0x20001260        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x20001260                __get_PRIMASK
  .text.__set_PRIMASK
-                0x200013b0        0x8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
-                0x200013b0                __set_PRIMASK
+                0x20001268        0x8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x20001268                __set_PRIMASK
  .text.SystemInit
-                0x200013b8        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
-                0x200013b8                SystemInit
+                0x20001270        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x20001270                SystemInit
  .text.SystemCoreClockUpdate
-                0x200013bc      0x130 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
-                0x200013bc                SystemCoreClockUpdate
- .text          0x200014ec       0x50 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-init.o)
-                0x200014ec                __libc_init_array
- .text          0x2000153c       0xd4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memset.o)
-                0x2000153c                memset
- .text          0x20001610       0x64 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-printf.o)
-                0x20001610                printf
-                0x20001648                _printf_r
- .text          0x20001674     0x1940 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-vfprintf.o)
-                0x20001690                _vfprintf_r
-                0x20002f98                vfprintf
- .text          0x20002fb4      0x104 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-wsetup.o)
-                0x20002fb4                __swsetup_r
- .text          0x200030b8      0xfb8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-dtoa.o)
-                0x200031d8                _dtoa_r
- .text          0x20004070      0x178 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fflush.o)
-                0x20004070                _fflush_r
-                0x200041c0                fflush
- .text          0x200041e8      0x1c8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-findfp.o)
-                0x200041e8                __sfp_lock_acquire
-                0x200041ec                __sfp_lock_release
-                0x200041f0                __sinit_lock_acquire
-                0x200041f4                __sinit_lock_release
-                0x20004200                __fp_unlock_all
-                0x20004218                __fp_lock_all
-                0x20004230                _cleanup_r
-                0x2000423c                _cleanup
-                0x20004298                __sfmoreglue
-                0x200042c8                __sfp
-                0x20004350                __sinit
- .text          0x200043b0      0x268 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-freer.o)
-                0x200043b0                _malloc_trim_r
-                0x20004458                _free_r
- .text          0x20004618      0x334 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fvwrite.o)
-                0x20004618                __sfvwrite_r
- .text          0x2000494c       0xa0 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fwalk.o)
-                0x2000494c                _fwalk_reent
-                0x200049a0                _fwalk
- .text          0x200049ec       0x74 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-locale.o)
-                0x200049ec                __locale_charset
-                0x200049f8                _localeconv_r
-                0x20004a00                localeconv
-                0x20004a08                _setlocale_r
-                0x20004a50                setlocale
- .text          0x20004a60       0xdc c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-makebuf.o)
-                0x20004a60                __smakebuf_r
- .text          0x20004b3c       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-malloc.o)
-                0x20004b3c                free
-                0x20004b4c                malloc
- .text          0x20004b5c      0x5a4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mallocr.o)
-                0x20004b5c                _malloc_r
- .text          0x20005100       0x74 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memchr.o)
-                0x20005100                memchr
- .text          0x20005174      0x190 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memcpy.o)
-                0x20005174                memcpy
- .text          0x20005304       0xb8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memmove.o)
-                0x20005304                memmove
- .text          0x200053bc        0x8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mlock.o)
-                0x200053bc                __malloc_lock
-                0x200053c0                __malloc_unlock
- .text          0x200053c4      0x958 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mprec.o)
-                0x200053c4                __hi0bits
-                0x20005404                __lo0bits
-                0x20005468                __mcmp
-                0x200054a8                __ulp
-                0x200054f4                __b2d
-                0x2000559c                __ratio
-                0x200055fc                _mprec_log10
-                0x20005634                __copybits
-                0x20005684                __any_on
-                0x200056dc                _Bfree
-                0x20005714                _Balloc
-                0x20005780                __d2b
-                0x20005850                __mdiff
-                0x20005948                __lshift
-                0x20005a04                __multiply
-                0x20005b38                __i2b
-                0x20005b4c                __multadd
-                0x20005bd4                __pow5mult
-                0x20005c80                __s2b
- .text          0x20005d1c      0x3b4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-reallocr.o)
-                0x20005d1c                _realloc_r
- .text          0x200060d0       0x24 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-s_isinfd.o)
-                0x200060d0                __isinfd
- .text          0x200060f4       0x1c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-s_isnand.o)
-                0x200060f4                __isnand
- .text          0x20006110       0x28 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-sbrkr.o)
-                0x20006110                _sbrk_r
- .text          0x20006138       0x90 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-stdio.o)
-                0x20006138                __sclose
-                0x20006140                __sseek
-                0x20006168                __swrite
-                0x200061a4                __sread
- .text          0x200061c8      0x1dc c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strcmp.o)
-                0x200061c8                strcmp
- .text          0x200063a4       0x60 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strlen.o)
-                0x200063a4                strlen
- .text          0x20006404       0x5c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-callocr.o)
-                0x20006404                _calloc_r
- .text          0x20006460       0x28 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-closer.o)
-                0x20006460                _close_r
- .text          0x20006488       0xcc c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fclose.o)
-                0x20006488                _fclose_r
-                0x20006544                fclose
- .text          0x20006554       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fstatr.o)
-                0x20006554                _fstat_r
- .text          0x20006580       0x28 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-isattyr.o)
-                0x20006580                _isatty_r
- .text          0x200065a8       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-lseekr.o)
-                0x200065a8                _lseek_r
- .text          0x200065d4       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-readr.o)
-                0x200065d4                _read_r
- .text          0x20006600      0x278 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_udivsi3.o)
-                0x20006600                __aeabi_uidiv
-                0x20006600                __udivsi3
-                0x2000685c                __aeabi_uidivmod
- .text          0x20006878        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_dvmd_tls.o)
-                0x20006878                __aeabi_idiv0
-                0x20006878                __aeabi_ldiv0
- .text          0x2000687c      0x370 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_arm_addsubdf3.o)
-                0x2000687c                __aeabi_drsub
-                0x20006884                __aeabi_dsub
-                0x20006884                __subdf3
-                0x20006888                __aeabi_dadd
-                0x20006888                __adddf3
-                0x20006b00                __floatunsidf
-                0x20006b00                __aeabi_ui2d
-                0x20006b20                __floatsidf
-                0x20006b20                __aeabi_i2d
-                0x20006b44                __aeabi_f2d
-                0x20006b44                __extendsfdf2
-                0x20006b80                __floatundidf
-                0x20006b80                __aeabi_ul2d
-                0x20006b90                __floatdidf
-                0x20006b90                __aeabi_l2d
- .text          0x20006bec      0x424 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_arm_muldivdf3.o)
-                0x20006bec                __aeabi_dmul
-                0x20006bec                __muldf3
-                0x20006e40                __divdf3
-                0x20006e40                __aeabi_ddiv
- .text          0x20007010      0x110 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_arm_cmpdf2.o)
-                0x20007010                __gtdf2
-                0x20007010                __gedf2
-                0x20007018                __ltdf2
-                0x20007018                __ledf2
-                0x20007020                __nedf2
-                0x20007020                __eqdf2
-                0x20007020                __cmpdf2
-                0x2000709c                __aeabi_cdrcmple
-                0x200070ac                __aeabi_cdcmpeq
-                0x200070ac                __aeabi_cdcmple
-                0x200070bc                __aeabi_dcmpeq
-                0x200070d0                __aeabi_dcmplt
-                0x200070e4                __aeabi_dcmple
-                0x200070f8                __aeabi_dcmpge
-                0x2000710c                __aeabi_dcmpgt
- .text          0x20007120       0x50 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_arm_fixdfsi.o)
-                0x20007120                __aeabi_d2iz
-                0x20007120                __fixdfsi
- .text          0x20007170       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_aeabi_uldivmod.o)
-                0x20007170                __aeabi_uldivmod
- .text          0x2000719c       0x58 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(bpabi.o)
-                0x2000719c                __gnu_uldivmod_helper
-                0x200071c8                __gnu_ldivmod_helper
- .text          0x200071f4      0x364 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_divdi3.o)
-                0x200071f4                __divdi3
- .text          0x20007558      0x300 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_udivdi3.o)
-                0x20007558                __udivdi3
+                0x20001274      0x130 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x20001274                SystemCoreClockUpdate
+ .text          0x200013a4       0x50 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-init.o)
+                0x200013a4                __libc_init_array
+ .text          0x200013f4       0xd4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memset.o)
+                0x200013f4                memset
+ .text          0x200014c8       0x64 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-printf.o)
+                0x200014c8                printf
+                0x20001500                _printf_r
+ .text          0x2000152c     0x1940 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-vfprintf.o)
+                0x20001548                _vfprintf_r
+                0x20002e50                vfprintf
+ .text          0x20002e6c      0x104 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-wsetup.o)
+                0x20002e6c                __swsetup_r
+ .text          0x20002f70      0xfb8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-dtoa.o)
+                0x20003090                _dtoa_r
+ .text          0x20003f28      0x178 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fflush.o)
+                0x20003f28                _fflush_r
+                0x20004078                fflush
+ .text          0x200040a0      0x1c8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-findfp.o)
+                0x200040a0                __sfp_lock_acquire
+                0x200040a4                __sfp_lock_release
+                0x200040a8                __sinit_lock_acquire
+                0x200040ac                __sinit_lock_release
+                0x200040b8                __fp_unlock_all
+                0x200040d0                __fp_lock_all
+                0x200040e8                _cleanup_r
+                0x200040f4                _cleanup
+                0x20004150                __sfmoreglue
+                0x20004180                __sfp
+                0x20004208                __sinit
+ .text          0x20004268      0x268 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-freer.o)
+                0x20004268                _malloc_trim_r
+                0x20004310                _free_r
+ .text          0x200044d0      0x334 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fvwrite.o)
+                0x200044d0                __sfvwrite_r
+ .text          0x20004804       0xa0 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fwalk.o)
+                0x20004804                _fwalk_reent
+                0x20004858                _fwalk
+ .text          0x200048a4       0x74 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-locale.o)
+                0x200048a4                __locale_charset
+                0x200048b0                _localeconv_r
+                0x200048b8                localeconv
+                0x200048c0                _setlocale_r
+                0x20004908                setlocale
+ .text          0x20004918       0xdc c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-makebuf.o)
+                0x20004918                __smakebuf_r
+ .text          0x200049f4       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-malloc.o)
+                0x200049f4                free
+                0x20004a04                malloc
+ .text          0x20004a14      0x5a4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mallocr.o)
+                0x20004a14                _malloc_r
+ .text          0x20004fb8       0x74 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memchr.o)
+                0x20004fb8                memchr
+ .text          0x2000502c      0x190 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memcpy.o)
+                0x2000502c                memcpy
+ .text          0x200051bc       0xb8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memmove.o)
+                0x200051bc                memmove
+ .text          0x20005274        0x8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mlock.o)
+                0x20005274                __malloc_lock
+                0x20005278                __malloc_unlock
+ .text          0x2000527c      0x958 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mprec.o)
+                0x2000527c                __hi0bits
+                0x200052bc                __lo0bits
+                0x20005320                __mcmp
+                0x20005360                __ulp
+                0x200053ac                __b2d
+                0x20005454                __ratio
+                0x200054b4                _mprec_log10
+                0x200054ec                __copybits
+                0x2000553c                __any_on
+                0x20005594                _Bfree
+                0x200055cc                _Balloc
+                0x20005638                __d2b
+                0x20005708                __mdiff
+                0x20005800                __lshift
+                0x200058bc                __multiply
+                0x200059f0                __i2b
+                0x20005a04                __multadd
+                0x20005a8c                __pow5mult
+                0x20005b38                __s2b
+ .text          0x20005bd4      0x3b4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-reallocr.o)
+                0x20005bd4                _realloc_r
+ .text          0x20005f88       0x24 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-s_isinfd.o)
+                0x20005f88                __isinfd
+ .text          0x20005fac       0x1c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-s_isnand.o)
+                0x20005fac                __isnand
+ .text          0x20005fc8       0x28 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-sbrkr.o)
+                0x20005fc8                _sbrk_r
+ .text          0x20005ff0       0x90 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-stdio.o)
+                0x20005ff0                __sclose
+                0x20005ff8                __sseek
+                0x20006020                __swrite
+                0x2000605c                __sread
+ .text          0x20006080      0x1dc c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strcmp.o)
+                0x20006080                strcmp
+ .text          0x2000625c       0x60 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strlen.o)
+                0x2000625c                strlen
+ .text          0x200062bc       0x5c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-callocr.o)
+                0x200062bc                _calloc_r
+ .text          0x20006318       0x28 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-closer.o)
+                0x20006318                _close_r
+ .text          0x20006340       0xcc c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fclose.o)
+                0x20006340                _fclose_r
+                0x200063fc                fclose
+ .text          0x2000640c       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fstatr.o)
+                0x2000640c                _fstat_r
+ .text          0x20006438       0x28 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-isattyr.o)
+                0x20006438                _isatty_r
+ .text          0x20006460       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-lseekr.o)
+                0x20006460                _lseek_r
+ .text          0x2000648c       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-readr.o)
+                0x2000648c                _read_r
+ .text          0x200064b8      0x278 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_udivsi3.o)
+                0x200064b8                __aeabi_uidiv
+                0x200064b8                __udivsi3
+                0x20006714                __aeabi_uidivmod
+ .text          0x20006730        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_dvmd_tls.o)
+                0x20006730                __aeabi_idiv0
+                0x20006730                __aeabi_ldiv0
+ .text          0x20006734      0x370 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_arm_addsubdf3.o)
+                0x20006734                __aeabi_drsub
+                0x2000673c                __aeabi_dsub
+                0x2000673c                __subdf3
+                0x20006740                __aeabi_dadd
+                0x20006740                __adddf3
+                0x200069b8                __floatunsidf
+                0x200069b8                __aeabi_ui2d
+                0x200069d8                __floatsidf
+                0x200069d8                __aeabi_i2d
+                0x200069fc                __aeabi_f2d
+                0x200069fc                __extendsfdf2
+                0x20006a38                __floatundidf
+                0x20006a38                __aeabi_ul2d
+                0x20006a48                __floatdidf
+                0x20006a48                __aeabi_l2d
+ .text          0x20006aa4      0x424 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_arm_muldivdf3.o)
+                0x20006aa4                __aeabi_dmul
+                0x20006aa4                __muldf3
+                0x20006cf8                __divdf3
+                0x20006cf8                __aeabi_ddiv
+ .text          0x20006ec8      0x110 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_arm_cmpdf2.o)
+                0x20006ec8                __gtdf2
+                0x20006ec8                __gedf2
+                0x20006ed0                __ltdf2
+                0x20006ed0                __ledf2
+                0x20006ed8                __nedf2
+                0x20006ed8                __eqdf2
+                0x20006ed8                __cmpdf2
+                0x20006f54                __aeabi_cdrcmple
+                0x20006f64                __aeabi_cdcmpeq
+                0x20006f64                __aeabi_cdcmple
+                0x20006f74                __aeabi_dcmpeq
+                0x20006f88                __aeabi_dcmplt
+                0x20006f9c                __aeabi_dcmple
+                0x20006fb0                __aeabi_dcmpge
+                0x20006fc4                __aeabi_dcmpgt
+ .text          0x20006fd8       0x50 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_arm_fixdfsi.o)
+                0x20006fd8                __aeabi_d2iz
+                0x20006fd8                __fixdfsi
+ .text          0x20007028       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_aeabi_uldivmod.o)
+                0x20007028                __aeabi_uldivmod
+ .text          0x20007054       0x58 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(bpabi.o)
+                0x20007054                __gnu_uldivmod_helper
+                0x20007080                __gnu_ldivmod_helper
+ .text          0x200070ac      0x364 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_divdi3.o)
+                0x200070ac                __divdi3
+ .text          0x20007410      0x300 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_udivdi3.o)
+                0x20007410                __udivdi3
  *(.plt)
  *(.gnu.warning)
  *(.glue_7t)
@@ -805,7 +808,7 @@ END GROUP
  .glue_7        0x00000000        0x0 linker stubs
  *(.vfp11_veneer)
  .vfp11_veneer  0x00000000        0x0 linker stubs
-                0x20007858                . = ALIGN (0x4)
+                0x20007710                . = ALIGN (0x4)
  *crtbegin.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o) .ctors)
  *(SORT(.ctors.*))
@@ -815,173 +818,173 @@ END GROUP
  *(SORT(.dtors.*))
  *crtend.o(.dtors)
  *(.rodata .rodata.* .gnu.linkonce.r.*)
- .rodata.C.17.3625
-                0x20007858        0x4 ./main.o
- .rodata.C.20.3628
-                0x2000785c        0x4 ./main.o
- .rodata.C.16.3624
-                0x20007860        0x4 ./main.o
+ .rodata.C.21.3638
+                0x20007710        0x4 ./main.o
+ .rodata.C.17.3634
+                0x20007714        0x4 ./main.o
+ .rodata.C.20.3637
+                0x20007718        0x4 ./main.o
+ .rodata.C.16.3633
+                0x2000771c        0x4 ./main.o
  .rodata.str1.4
-                0x20007864       0x23 ./main.o
-                                 0x24 (size before relaxing)
- *fill*         0x20007887        0x1 00
- .rodata.C.19.3627
-                0x20007888        0x4 ./main.o
- .rodata.C.18.3626
-                0x2000788c        0x4 ./main.o
- .rodata.C.21.3629
-                0x20007890        0x4 ./main.o
+                0x20007720        0xc ./main.o
+ .rodata.C.19.3636
+                0x2000772c        0x4 ./main.o
+ .rodata.C.18.3635
+                0x20007730        0x4 ./main.o
  .rodata.str1.4
-                0x20007894       0x1a C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x20007734       0x1a C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
                                  0x1c (size before relaxing)
- *fill*         0x200078ae        0x2 00
+ *fill*         0x2000774e        0x2 00
  .rodata.C.16.2565
-                0x200078b0       0x10 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
- .rodata        0x200078c0        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-impure.o)
-                0x200078c0                _global_impure_ptr
+                0x20007750       0x10 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+ .rodata        0x20007760        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-impure.o)
+                0x20007760                _global_impure_ptr
  .rodata.str1.4
-                0x200078c4        0x2 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-impure.o)
+                0x20007764        0x2 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-impure.o)
                                   0x4 (size before relaxing)
- *fill*         0x200078c6        0x2 00
- .rodata        0x200078c8       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-vfprintf.o)
+ *fill*         0x20007766        0x2 00
+ .rodata        0x20007768       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-vfprintf.o)
  .rodata.str1.4
-                0x200078e8       0x42 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-vfprintf.o)
+                0x20007788       0x42 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-vfprintf.o)
                                  0x44 (size before relaxing)
- *fill*         0x2000792a        0x2 00
+ *fill*         0x200077ca        0x2 00
  .rodata.str1.4
-                0x2000792c       0x10 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-dtoa.o)
+                0x200077cc       0x10 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-dtoa.o)
                                  0x14 (size before relaxing)
- .rodata        0x2000793c       0x60 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-findfp.o)
-                0x2000793c                __sf_fake_stdin
-                0x2000795c                __sf_fake_stdout
-                0x2000797c                __sf_fake_stderr
- .rodata        0x2000799c       0x34 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-locale.o)
+ .rodata        0x200077dc       0x60 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-findfp.o)
+                0x200077dc                __sf_fake_stdin
+                0x200077fc                __sf_fake_stdout
+                0x2000781c                __sf_fake_stderr
+ .rodata        0x2000783c       0x34 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-locale.o)
  .rodata.str1.4
-                0x200079d0       0x10 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-locale.o)
+                0x20007870       0x10 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-locale.o)
                                  0x18 (size before relaxing)
- .rodata        0x200079e0      0x128 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mprec.o)
-                0x200079e0                __mprec_tens
-                0x20007ab8                __mprec_bigtens
-                0x20007ae0                __mprec_tinytens
+ .rodata        0x20007880      0x128 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mprec.o)
+                0x20007880                __mprec_tens
+                0x20007958                __mprec_bigtens
+                0x20007980                __mprec_tinytens
  *(.ARM.extab* .gnu.linkonce.armextab.*)
  *(.gcc_except_table)
  *(.eh_frame_hdr)
  *(.eh_frame)
  *(.init)
- .init          0x20007b08        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crti.o
-                0x20007b08                _init
- .init          0x20007b0c        0x8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtn.o
+ .init          0x200079a8        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crti.o
+                0x200079a8                _init
+ .init          0x200079ac        0x8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtn.o
  *(.fini)
- .fini          0x20007b14        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crti.o
-                0x20007b14                _fini
- .fini          0x20007b18        0x8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtn.o
-                0x20007b20                PROVIDE (__preinit_array_start, .)
+ .fini          0x200079b4        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crti.o
+                0x200079b4                _fini
+ .fini          0x200079b8        0x8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtn.o
+                0x200079c0                PROVIDE (__preinit_array_start, .)
  *(.preinit_array)
-                0x20007b20                PROVIDE (__preinit_array_end, .)
-                0x20007b20                PROVIDE (__init_array_start, .)
+                0x200079c0                PROVIDE (__preinit_array_end, .)
+                0x200079c0                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  *(.init_array)
- .init_array    0x20007b20        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtbegin.o
-                0x20007b24                PROVIDE (__init_array_end, .)
-                0x20007b24                PROVIDE (__fini_array_start, .)
+ .init_array    0x200079c0        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtbegin.o
+                0x200079c4                PROVIDE (__init_array_end, .)
+                0x200079c4                PROVIDE (__fini_array_start, .)
  *(.fini_array)
- .fini_array    0x20007b24        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtbegin.o
+ .fini_array    0x200079c4        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtbegin.o
  *(SORT(.fini_array.*))
-                0x20007b28                PROVIDE (__fini_array_end, .)
-                0x20007b28                __exidx_start = .
+                0x200079c8                PROVIDE (__fini_array_end, .)
+                0x200079c8                __exidx_start = .
 
-.v4_bx          0x20007b28        0x0
+.v4_bx          0x200079c8        0x0
  .v4_bx         0x00000000        0x0 linker stubs
 
-.ARM.exidx      0x20007b28        0x8
+.ARM.exidx      0x200079c8        0x8
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
- .ARM.exidx     0x20007b28        0x8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_divdi3.o)
- .ARM.exidx     0x20007b30        0x0 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_udivdi3.o)
+ .ARM.exidx     0x200079c8        0x8 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x200079d0        0x0 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_udivdi3.o)
                                   0x8 (size before relaxing)
-                0x20007b30                __exidx_end = .
-                0x20007b30                _etext = .
-                0x20007b30                PROVIDE (__text_end, .)
+                0x200079d0                __exidx_end = .
+                0x200079d0                _etext = .
+                0x200079d0                PROVIDE (__text_end, .)
 
-.data           0x20007b30      0x520
-                0x20007b30                __data_load = LOADADDR (.data)
-                0x20007b30                _sidata = LOADADDR (.data)
-                0x20007b30                __data_start = .
-                0x20007b30                _sdata = .
+.data           0x200079d0      0x524
+                0x200079d0                __data_load = LOADADDR (.data)
+                0x200079d0                _sidata = LOADADDR (.data)
+                0x200079d0                __data_start = .
+                0x200079d0                _sdata = .
  *(.jcr)
- .jcr           0x20007b30        0x0 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtbegin.o
- .jcr           0x20007b30        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtend.o
+ .jcr           0x200079d0        0x0 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtbegin.o
+ .jcr           0x200079d0        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtend.o
  *(.got.plt)
  *(.got)
  *(.shdata)
  *(.data .data.* .gnu.linkonce.d.*)
+ .data.servo_hor
+                0x200079d4        0x4 ./main.o
+                0x200079d4                servo_hor
  .data.g_FrequencyACE
-                0x20007b34        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
-                0x20007b34                g_FrequencyACE
+                0x200079d8        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x200079d8                g_FrequencyACE
  .data.g_FrequencyFPGA
-                0x20007b38        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
-                0x20007b38                g_FrequencyFPGA
+                0x200079dc        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x200079dc                g_FrequencyFPGA
  .data.g_FrequencyPCLK0
-                0x20007b3c        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
-                0x20007b3c                g_FrequencyPCLK0
+                0x200079e0        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x200079e0                g_FrequencyPCLK0
  .data.g_FrequencyPCLK1
-                0x20007b40        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
-                0x20007b40                g_FrequencyPCLK1
+                0x200079e4        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x200079e4                g_FrequencyPCLK1
  .data.SystemCoreClock
-                0x20007b44        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
-                0x20007b44                SystemCoreClock
+                0x200079e8        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x200079e8                SystemCoreClock
  .data.SystemFrequency
-                0x20007b48        0x4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
-                0x20007b48                SystemFrequency
- .data          0x20007b4c       0xf4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-impure.o)
-                0x20007b4c                _impure_ptr
- .data          0x20007c40      0x410 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mallocr.o)
-                0x20007c40                __malloc_av_
-                0x20008048                __malloc_sbrk_base
-                0x2000804c                __malloc_trim_threshold
-                0x20008050                . = ALIGN (0x4)
-                0x20008050                _edata = .
+                0x200079ec        0x4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x200079ec                SystemFrequency
+ .data          0x200079f0       0xf4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-impure.o)
+                0x200079f0                _impure_ptr
+ .data          0x20007ae4      0x410 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mallocr.o)
+                0x20007ae4                __malloc_av_
+                0x20007eec                __malloc_sbrk_base
+                0x20007ef0                __malloc_trim_threshold
+                0x20007ef4                . = ALIGN (0x4)
+                0x20007ef4                _edata = .
 
-.bss            0x20008050      0x180
-                0x20008050                __bss_start__ = .
-                0x20008050                _sbss = .
+.bss            0x20007ef4      0x17c
+                0x20007ef4                __bss_start__ = .
+                0x20007ef4                _sbss = .
  *(.shbss)
  *(.bss .bss.* .gnu.linkonce.b.*)
- .bss           0x20008050        0x1 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtbegin.o
- *fill*         0x20008051        0x3 00
+ .bss           0x20007ef4        0x1 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2/crtbegin.o
+ *fill*         0x20007ef5        0x3 00
  .bss.g_stdio_uart_init_done
-                0x20008054        0x4 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x20007ef8        0x4 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
  .bss.heap_end.3583
-                0x20008058        0x4 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .bss           0x2000805c       0x34 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mallocr.o)
-                0x2000805c                __malloc_top_pad
-                0x20008060                __malloc_current_mallinfo
-                0x20008088                __malloc_max_sbrked_mem
-                0x2000808c                __malloc_max_total_mem
+                0x20007efc        0x4 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .bss           0x20007f00       0x34 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mallocr.o)
+                0x20007f00                __malloc_top_pad
+                0x20007f04                __malloc_current_mallinfo
+                0x20007f2c                __malloc_max_sbrked_mem
+                0x20007f30                __malloc_max_total_mem
  *(COMMON)
- COMMON         0x20008090       0x50 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
-                0x20008090                g_mss_uart1
-                0x200080b8                g_mss_uart0
- COMMON         0x200080e0       0xe8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
-                0x200080e0                g_mss_i2c0
-                0x20008154                g_mss_i2c1
- COMMON         0x200081c8        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-reent.o)
-                0x200081c8                errno
-                0x200081d0                . = ALIGN (0x8)
- *fill*         0x200081cc        0x4 00
-                0x200081d0                __bss_end__ = .
-                0x200081d0                _end = .
-                0x200081d0                __end = _end
-                0x200081d0                _ebss = .
-                0x200081d0                PROVIDE (end, .)
+ COMMON         0x20007f34       0x50 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x20007f34                g_mss_uart1
+                0x20007f5c                g_mss_uart0
+ COMMON         0x20007f84       0xe8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x20007f84                g_mss_i2c0
+                0x20007ff8                g_mss_i2c1
+ COMMON         0x2000806c        0x4 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-reent.o)
+                0x2000806c                errno
+                0x20008070                . = ALIGN (0x8)
+                0x20008070                __bss_end__ = .
+                0x20008070                _end = .
+                0x20008070                __end = _end
+                0x20008070                _ebss = .
+                0x20008070                PROVIDE (end, .)
 
-.stack          0x200081d0     0x3000
-                0x200081d0                . = ALIGN (0x4)
-                0x200091d0                . = (. + PROCESS_STACK_SIZE)
- *fill*         0x200081d0     0x1000 00
-                0x200091d0                . = ALIGN (0x4)
-                0x2000b1d0                . = (. + MAIN_STACK_SIZE)
- *fill*         0x200091d0     0x2000 00
-                0x2000b1d0                . = ALIGN (0x4)
+.stack          0x20008070     0x3000
+                0x20008070                . = ALIGN (0x4)
+                0x20009070                . = (. + PROCESS_STACK_SIZE)
+ *fill*         0x20008070     0x1000 00
+                0x20009070                . = ALIGN (0x4)
+                0x2000b070                . = (. + MAIN_STACK_SIZE)
+ *fill*         0x20009070     0x2000 00
+                0x2000b070                . = ALIGN (0x4)
 
 .stab
  *(.stab)
@@ -1003,157 +1006,157 @@ END GROUP
 
 .comment        0x00000000      0x102
  .comment       0x00000000       0x2b ./main.o
- .comment       0x0000002b       0x2b C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .comment       0x00000056       0x2b C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
- .comment       0x00000081       0x2b C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
- .comment       0x000000ac       0x2b C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .comment       0x000000d7       0x2b C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+ .comment       0x0000002b       0x2b C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .comment       0x00000056       0x2b C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+ .comment       0x00000081       0x2b C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+ .comment       0x000000ac       0x2b C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .comment       0x000000d7       0x2b C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
 
 .debug_aranges  0x00000000      0x388
  *(.debug_aranges)
  .debug_aranges
                 0x00000000       0x20 ./main.o
  .debug_aranges
-                0x00000020       0xa8 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x00000020       0xa8 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
  .debug_aranges
-                0x000000c8       0xc0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x000000c8       0xc0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .debug_aranges
-                0x00000188      0x110 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000188      0x110 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .debug_aranges
-                0x00000298       0xc8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000298       0xc8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .debug_aranges
-                0x00000360       0x28 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x00000360       0x28 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
 
 .debug_pubnames
-                0x00000000      0x81a
+                0x00000000      0x84c
  *(.debug_pubnames)
  .debug_pubnames
-                0x00000000       0x1b ./main.o
+                0x00000000       0x4d ./main.o
  .debug_pubnames
-                0x0000001b       0xeb C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x0000004d       0xeb C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
  .debug_pubnames
-                0x00000106      0x21c C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x00000138      0x21c C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .debug_pubnames
-                0x00000322      0x2eb C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00000354      0x2eb C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .debug_pubnames
-                0x0000060d      0x159 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x0000063f      0x159 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .debug_pubnames
-                0x00000766       0xb4 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x00000798       0xb4 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
 
-.debug_info     0x00000000     0x5790
+.debug_info     0x00000000     0x57d3
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x00000000      0xbb0 ./main.o
- .debug_info    0x00000bb0     0x10eb C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .debug_info    0x00001c9b     0x1740 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
- .debug_info    0x000033db     0x190b C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
- .debug_info    0x00004ce6      0x535 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .debug_info    0x0000521b      0x575 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+ .debug_info    0x00000000      0xbf3 ./main.o
+ .debug_info    0x00000bf3     0x10eb C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .debug_info    0x00001cde     0x1740 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+ .debug_info    0x0000341e     0x190b C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+ .debug_info    0x00004d29      0x535 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .debug_info    0x0000525e      0x575 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
 
-.debug_abbrev   0x00000000      0xb9a
+.debug_abbrev   0x00000000      0xbb6
  *(.debug_abbrev)
- .debug_abbrev  0x00000000      0x150 ./main.o
- .debug_abbrev  0x00000150      0x251 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .debug_abbrev  0x000003a1      0x306 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
- .debug_abbrev  0x000006a7      0x2da C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
- .debug_abbrev  0x00000981       0xc5 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .debug_abbrev  0x00000a46      0x154 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+ .debug_abbrev  0x00000000      0x16c ./main.o
+ .debug_abbrev  0x0000016c      0x251 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .debug_abbrev  0x000003bd      0x306 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+ .debug_abbrev  0x000006c3      0x2da C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+ .debug_abbrev  0x0000099d       0xc5 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .debug_abbrev  0x00000a62      0x154 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
 
-.debug_line     0x00000000     0x1aee
+.debug_line     0x00000000     0x1ad9
  *(.debug_line)
- .debug_line    0x00000000      0x40d ./main.o
- .debug_line    0x0000040d      0x4f7 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .debug_line    0x00000904      0x5c9 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
- .debug_line    0x00000ecd      0x779 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
- .debug_line    0x00001646      0x244 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .debug_line    0x0000188a      0x264 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+ .debug_line    0x00000000      0x3f8 ./main.o
+ .debug_line    0x000003f8      0x4f7 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .debug_line    0x000008ef      0x5c9 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+ .debug_line    0x00000eb8      0x779 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+ .debug_line    0x00001631      0x244 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .debug_line    0x00001875      0x264 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
 
-.debug_frame    0x00000000     0x1410
+.debug_frame    0x00000000     0x1404
  *(.debug_frame)
- .debug_frame   0x00000000       0x3c ./main.o
- .debug_frame   0x0000003c      0x174 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .debug_frame   0x000001b0      0x1f0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
- .debug_frame   0x000003a0      0x2bc C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
- .debug_frame   0x0000065c      0x170 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .debug_frame   0x000007cc       0x3c C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
- .debug_frame   0x00000808       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-errno.o)
- .debug_frame   0x00000828       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-init.o)
- .debug_frame   0x00000854       0x28 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memset.o)
- .debug_frame   0x0000087c       0x5c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-printf.o)
- .debug_frame   0x000008d8       0x70 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-vfprintf.o)
- .debug_frame   0x00000948       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-wsetup.o)
- .debug_frame   0x00000974       0x64 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-dtoa.o)
- .debug_frame   0x000009d8       0x40 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fflush.o)
- .debug_frame   0x00000a18      0x11c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-findfp.o)
- .debug_frame   0x00000b34       0x50 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-freer.o)
- .debug_frame   0x00000b84       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fvwrite.o)
- .debug_frame   0x00000bc0       0x54 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fwalk.o)
- .debug_frame   0x00000c14       0x6c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-locale.o)
- .debug_frame   0x00000c80       0x34 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-makebuf.o)
- .debug_frame   0x00000cb4       0x30 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-malloc.o)
- .debug_frame   0x00000ce4       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mallocr.o)
- .debug_frame   0x00000d20       0x28 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memchr.o)
- .debug_frame   0x00000d48       0x34 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memcpy.o)
- .debug_frame   0x00000d7c       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memmove.o)
- .debug_frame   0x00000da8       0x30 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mlock.o)
- .debug_frame   0x00000dd8      0x240 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mprec.o)
- .debug_frame   0x00001018       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-reallocr.o)
- .debug_frame   0x00001054       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-s_isinfd.o)
- .debug_frame   0x00001074       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-s_isnand.o)
- .debug_frame   0x00001094       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-sbrkr.o)
- .debug_frame   0x000010c0       0x70 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-stdio.o)
- .debug_frame   0x00001130       0x30 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strcmp.o)
- .debug_frame   0x00001160       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strlen.o)
- .debug_frame   0x00001180       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-callocr.o)
- .debug_frame   0x000011ac       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-closer.o)
- .debug_frame   0x000011d8       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fclose.o)
- .debug_frame   0x00001214       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fstatr.o)
- .debug_frame   0x00001240       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-isattyr.o)
- .debug_frame   0x0000126c       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-lseekr.o)
- .debug_frame   0x00001298       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-readr.o)
- .debug_frame   0x000012c4       0x64 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-reent.o)
- .debug_frame   0x00001328       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_udivsi3.o)
- .debug_frame   0x00001348       0x50 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(bpabi.o)
- .debug_frame   0x00001398       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_divdi3.o)
- .debug_frame   0x000013d4       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_udivdi3.o)
+ .debug_frame   0x00000000       0x30 ./main.o
+ .debug_frame   0x00000030      0x174 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .debug_frame   0x000001a4      0x1f0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+ .debug_frame   0x00000394      0x2bc C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+ .debug_frame   0x00000650      0x170 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .debug_frame   0x000007c0       0x3c C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+ .debug_frame   0x000007fc       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-errno.o)
+ .debug_frame   0x0000081c       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-init.o)
+ .debug_frame   0x00000848       0x28 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000870       0x5c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-printf.o)
+ .debug_frame   0x000008cc       0x70 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-vfprintf.o)
+ .debug_frame   0x0000093c       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-wsetup.o)
+ .debug_frame   0x00000968       0x64 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-dtoa.o)
+ .debug_frame   0x000009cc       0x40 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fflush.o)
+ .debug_frame   0x00000a0c      0x11c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-findfp.o)
+ .debug_frame   0x00000b28       0x50 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-freer.o)
+ .debug_frame   0x00000b78       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x00000bb4       0x54 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fwalk.o)
+ .debug_frame   0x00000c08       0x6c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-locale.o)
+ .debug_frame   0x00000c74       0x34 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-makebuf.o)
+ .debug_frame   0x00000ca8       0x30 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-malloc.o)
+ .debug_frame   0x00000cd8       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000d14       0x28 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memchr.o)
+ .debug_frame   0x00000d3c       0x34 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000d70       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000d9c       0x30 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000dcc      0x240 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-mprec.o)
+ .debug_frame   0x0000100c       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00001048       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-s_isinfd.o)
+ .debug_frame   0x00001068       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-s_isnand.o)
+ .debug_frame   0x00001088       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x000010b4       0x70 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-stdio.o)
+ .debug_frame   0x00001124       0x30 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00001154       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00001174       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-callocr.o)
+ .debug_frame   0x000011a0       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-closer.o)
+ .debug_frame   0x000011cc       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fclose.o)
+ .debug_frame   0x00001208       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-fstatr.o)
+ .debug_frame   0x00001234       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-isattyr.o)
+ .debug_frame   0x00001260       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-lseekr.o)
+ .debug_frame   0x0000128c       0x2c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-readr.o)
+ .debug_frame   0x000012b8       0x64 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-reent.o)
+ .debug_frame   0x0000131c       0x20 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000133c       0x50 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(bpabi.o)
+ .debug_frame   0x0000138c       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_divdi3.o)
+ .debug_frame   0x000013c8       0x3c c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/thumb2\libgcc.a(_udivdi3.o)
 
-.debug_str      0x00000000     0x2121
+.debug_str      0x00000000     0x213f
  *(.debug_str)
- .debug_str     0x00000000     0x10c0 ./main.o
-                               0x115b (size before relaxing)
- .debug_str     0x000010c0      0x487 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
-                               0x10a1 (size before relaxing)
- .debug_str     0x00001547      0x60b C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
-                               0x14b2 (size before relaxing)
- .debug_str     0x00001b52      0x396 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
-                               0x1752 (size before relaxing)
- .debug_str     0x00001ee8      0x142 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
-                                0x268 (size before relaxing)
- .debug_str     0x0000202a       0xf7 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
-                                0x455 (size before relaxing)
+ .debug_str     0x00000000     0x10e0 ./main.o
+                               0x117b (size before relaxing)
+ .debug_str     0x000010e0      0x485 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                               0x109f (size before relaxing)
+ .debug_str     0x00001565      0x60b C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                               0x14b0 (size before relaxing)
+ .debug_str     0x00001b70      0x396 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                               0x1750 (size before relaxing)
+ .debug_str     0x00001f06      0x142 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                                0x266 (size before relaxing)
+ .debug_str     0x00002048       0xf7 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                                0x453 (size before relaxing)
 
-.debug_loc      0x00000000     0x15d6
+.debug_loc      0x00000000     0x159c
  *(.debug_loc)
- .debug_loc     0x00000000       0x65 ./main.o
- .debug_loc     0x00000065      0x30d C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .debug_loc     0x00000372      0x894 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
- .debug_loc     0x00000c06      0x755 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
- .debug_loc     0x0000135b      0x1c8 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .debug_loc     0x00001523       0xb3 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+ .debug_loc     0x00000000       0x2b ./main.o
+ .debug_loc     0x0000002b      0x30d C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .debug_loc     0x00000338      0x894 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+ .debug_loc     0x00000bcc      0x755 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+ .debug_loc     0x00001321      0x1c8 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .debug_loc     0x000014e9       0xb3 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
 
-.debug_macinfo  0x00000000    0x27036
+.debug_macinfo  0x00000000    0x27080
  *(.debug_macinfo)
  .debug_macinfo
-                0x00000000     0x8e14 ./main.o
+                0x00000000     0x8e5e ./main.o
  .debug_macinfo
-                0x00008e14     0x9964 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x00008e5e     0x9964 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
  .debug_macinfo
-                0x00012778     0x63e3 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x000127c2     0x63e3 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .debug_macinfo
-                0x00018b5b     0x7518 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x00018ba5     0x7518 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .debug_macinfo
-                0x00020073     0x152b C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x000200bd     0x152b C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .debug_macinfo
-                0x0002159e     0x5a98 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x000215e8     0x5a98 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
 
 .debug_weaknames
  *(.debug_weaknames)
@@ -1180,17 +1183,17 @@ END GROUP
  .ARM.attributes
                 0x00000042       0x31 ./main.o
  .ARM.attributes
-                0x00000073       0x21 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
+                0x00000073       0x21 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/startup_a2fxxxm3.o
  .ARM.attributes
-                0x00000094       0x31 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+                0x00000094       0x31 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
  .ARM.attributes
-                0x000000c5       0x31 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+                0x000000c5       0x31 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
  .ARM.attributes
-                0x000000f6       0x31 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+                0x000000f6       0x31 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
  .ARM.attributes
-                0x00000127       0x31 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+                0x00000127       0x31 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
  .ARM.attributes
-                0x00000158       0x31 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+                0x00000158       0x31 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
  .ARM.attributes
                 0x00000189       0x29 c:/microsemi/softconsole v3.3/sourcery-g++/bin/../lib/gcc/arm-none-eabi/4.4.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-errno.o)
  .ARM.attributes
@@ -1297,8 +1300,8 @@ OUTPUT(infr_MSS_CM3_0_app elf32-littlearm)
 
 .debug_ranges   0x00000000      0x370
  .debug_ranges  0x00000000       0x18 ./main.o
- .debug_ranges  0x00000018       0xa0 C:/Users/phammel/Desktop/starter/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
- .debug_ranges  0x000000b8       0xd0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
- .debug_ranges  0x00000188      0x108 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
- .debug_ranges  0x00000290       0xc0 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
- .debug_ranges  0x00000350       0x20 C:\Users\phammel\Desktop\starter\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)
+ .debug_ranges  0x00000018       0xa0 C:/Users/fuhu/Desktop/373final/irc/SoftConsole/infr_MSS_CM3_0/infr_MSS_CM3_0_hw_platform/Debug/CMSIS/startup_gcc/newlib_stubs.o
+ .debug_ranges  0x000000b8       0xd0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_uart.o)
+ .debug_ranges  0x00000188      0x108 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(mss_i2c.o)
+ .debug_ranges  0x00000290       0xc0 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(core_cm3.o)
+ .debug_ranges  0x00000350       0x20 C:\Users\fuhu\Desktop\373final\irc\SoftConsole\infr_MSS_CM3_0\infr_MSS_CM3_0_hw_platform\Debug\libinfr_MSS_CM3_0_hw_platform.a(system_a2fxxxm3.o)

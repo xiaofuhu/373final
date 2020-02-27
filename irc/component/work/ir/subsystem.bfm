@@ -1,5 +1,5 @@
 #===========================================================
-# Created by Microsemi SmartDesign Wed Feb 26 19:19:38 2020
+# Created by Microsemi SmartDesign Thu Feb 27 17:23:37 2020
 #
 # Syntax: 
 # ------- 
@@ -17,3 +17,5 @@
 # Define name and base address of each resource.
 #-----------------------------------------------------------
 
+memmap servo_ctrl_0 0x40050000;
+memmap servo_ctrl_1 0x40050100;

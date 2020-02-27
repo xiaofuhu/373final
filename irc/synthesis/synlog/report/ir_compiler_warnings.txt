@@ -1,4 +1,7 @@
-@W: CL157 :"C:\Users\phammel\Desktop\starter\irc\component\work\infr\MSS_CCC_0\infr_tmp_MSS_CCC_0_MSS_CCC.v":62:7:62:18|*Output RCOSC_CLKOUT has undriven bits; assigning undriven bits to 0.  Simulation mismatch possible. Assign all bits of the output.
-@W: CL157 :"C:\Users\phammel\Desktop\starter\irc\component\work\infr\MSS_CCC_0\infr_tmp_MSS_CCC_0_MSS_CCC.v":63:7:63:20|*Output MAINXIN_CLKOUT has undriven bits; assigning undriven bits to 0.  Simulation mismatch possible. Assign all bits of the output.
-@W: CL157 :"C:\Users\phammel\Desktop\starter\irc\component\work\infr\MSS_CCC_0\infr_tmp_MSS_CCC_0_MSS_CCC.v":64:7:64:18|*Output LPXIN_CLKOUT has undriven bits; assigning undriven bits to 0.  Simulation mismatch possible. Assign all bits of the output.
+@W: CG775 :"C:\Users\fuhu\Desktop\373final\irc\component\Actel\DirectCore\CoreAPB3\4.1.100\rtl\vlog\core\coreapb3.v":31:7:31:14|Found Component CoreAPB3 in library COREAPB3_LIB
+@W: CG360 :"C:\Users\fuhu\Desktop\373final\irc\component\Actel\DirectCore\CoreAPB3\4.1.100\rtl\vlog\core\coreapb3.v":244:12:244:20|Removing wire IA_PRDATA, as there is no assignment to it.
+@W: CG133 :"C:\Users\fuhu\Desktop\373final\irc\hdl\servo_ctrl.v":31:22:31:27|Object PRDATA is declared but not assigned. Either assign a value or remove the declaration.
+@W: CL157 :"C:\Users\fuhu\Desktop\373final\irc\component\work\infr\MSS_CCC_0\infr_tmp_MSS_CCC_0_MSS_CCC.v":62:7:62:18|*Output RCOSC_CLKOUT has undriven bits; assigning undriven bits to 0.  Simulation mismatch possible. Assign all bits of the output.
+@W: CL157 :"C:\Users\fuhu\Desktop\373final\irc\component\work\infr\MSS_CCC_0\infr_tmp_MSS_CCC_0_MSS_CCC.v":63:7:63:20|*Output MAINXIN_CLKOUT has undriven bits; assigning undriven bits to 0.  Simulation mismatch possible. Assign all bits of the output.
+@W: CL157 :"C:\Users\fuhu\Desktop\373final\irc\component\work\infr\MSS_CCC_0\infr_tmp_MSS_CCC_0_MSS_CCC.v":64:7:64:18|*Output LPXIN_CLKOUT has undriven bits; assigning undriven bits to 0.  Simulation mismatch possible. Assign all bits of the output.
 

@@ -9,13 +9,13 @@ Opened an existing Libero design ir.adb.
 'IDE_DESIGNERVIEW_COUNT' set to '1'
 'IDE_DESIGNERVIEW_REV0' set to 'Impl1'
 'IDE_DESIGNERVIEW_REVNUM0' set to '1'
-'IDE_DESIGNERVIEW_ROOTDIR' set to 'C:\Users\phammel\Desktop\starter\irc\designer'
+'IDE_DESIGNERVIEW_ROOTDIR' set to 'C:\Users\fuhu\Desktop\373final\irc\designer'
 'IDE_DESIGNERVIEW_LASTREV' set to '1'
 
- Netlist Reading Time = 0.0 seconds
+ Netlist Reading Time = 1.0 seconds
 Imported the files:
-   C:\Users\phammel\Desktop\starter\irc\synthesis\ir.edn
-   C:\Users\phammel\Desktop\starter\irc\component\work\ir\ir.pdc
+   C:\Users\fuhu\Desktop\373final\irc\synthesis\ir.edn
+   C:\Users\fuhu\Desktop\373final\irc\component\work\ir\ir.pdc
 
 The Import command succeeded ( 00:00:01 )
 =====================================================================
@@ -25,15 +25,15 @@ Parameters used to run compile:
 Family      : SmartFusion
 Device      : A2F200M3F
 Package     : 484 FBGA
-Source      : C:\Users\phammel\Desktop\starter\irc\synthesis\ir.edn
-              C:\Users\phammel\Desktop\starter\irc\component\work\ir\ir.pdc
+Source      : C:\Users\fuhu\Desktop\373final\irc\synthesis\ir.edn
+              C:\Users\fuhu\Desktop\373final\irc\component\work\ir\ir.pdc
 Format      : EDIF
 Topcell     : ir
 Speed grade : STD
 Temp        : 0:25:85
 Voltage     : 1.58:1.50:1.42
 
-Keep Existing Physical Constraints : No
+Keep Existing Physical Constraints : Yes
 Keep Existing Timing Constraints   : Yes
 
 pdc_abort_on_error                 : Yes
@@ -57,7 +57,7 @@ Warning: CMP201: Net infr_0/MSS_ADLIB_INST_EMCRWn drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_EMCDBOE drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_CALIBOUT drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_WDINT drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_M2FRESETn drives no load.
+Warning: CMP201: Net infr_0/M2F_RESET_N drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_DEEPSLEEP drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_SLEEP drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_TXEV drives no load.
@@ -121,9 +121,6 @@ Warning: CMP201: Net infr_0/MSS_ADLIB_INST_CMP10 drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_CMP11 drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_FABPREADY drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_FABPSLVERR drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPSEL drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPENABLE drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWRITE drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_VCC15GOOD drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_VCC33GOOD drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_EMCBYTEN[0] drives no load.
@@ -328,59 +325,22 @@ Warning: CMP201: Net infr_0/MSS_ADLIB_INST_FABPRDATA[28] drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_FABPRDATA[29] drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_FABPRDATA[30] drives no load.
 Warning: CMP201: Net infr_0/MSS_ADLIB_INST_FABPRDATA[31] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[0] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[1] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[2] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[3] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[4] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[5] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[6] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[7] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[8] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[9] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[10] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[11] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[12] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[13] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[14] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[15] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[16] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[17] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[18] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPADDR[19] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[0] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[1] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[2] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[3] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[4] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[5] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[6] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[7] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[8] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[9] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[10] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[11] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[12] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[13] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[14] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[15] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[16] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[17] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[18] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[19] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[20] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[21] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[22] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[23] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[24] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[25] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[26] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[27] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[28] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[29] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[30] drives no load.
-Warning: CMP201: Net infr_0/MSS_ADLIB_INST_MSSPWDATA[31] drives no load.
-Warning: CMP201: Net infr_0/MSS_CCC_0/I_MSSCCC_GLA drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[0] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[1] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[2] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[3] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[4] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[5] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[6] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[7] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[12] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[13] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[14] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[15] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[16] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[17] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[18] drives no load.
+Warning: CMP201: Net infr_0/MSSPADDR[19] drives no load.
 Warning: CMP201: Net infr_0/MSS_CCC_0/I_MSSCCC_GLB drives no load.
 Warning: CMP201: Net infr_0/MSS_CCC_0/I_MSSCCC_GLC drives no load.
 Warning: CMP201: Net infr_0/MSS_CCC_0/I_MSSCCC_LOCK drives no load.
@@ -395,18 +355,11 @@ Optimized macros:
   - Buffers:                0
   - Inverters:              0
   - Tieoff:                 0
-  - Logic combining:        0
+  - Logic combining:        18
 
-    Total macros optimized  0
+    Total macros optimized  18
 
-There were 0 error(s) and 333 warning(s) in this design.
-=====================================================================
-
-Reading user pdc (Physical Design Constraints) file(s) postcompile
-
-
-There were 0 error(s) and 0 warning(s) in reading the user pdc.
-
+There were 0 error(s) and 293 warning(s) in this design.
 =====================================================================
 
 Reading previous post-compile physical placement constraints.
@@ -415,12 +368,19 @@ Reading previous post-compile physical placement constraints.
 There were 0 error(s) and 0 warning(s).
 
 =====================================================================
+
+Reading user pdc (Physical Design Constraints) file(s) postcompile
+
+
+There were 0 error(s) and 0 warning(s) in reading the user pdc.
+
+=====================================================================
 Compile report:
 ===============
 
     Microcontroller Subsystem  Used:      1  Total:      1   (100.00%)
-    Fabric                     Used:      0  Total:   4608   (0.00%)
-    Fabric IO (W/ clocks)      Used:      0  Total:     94   (0.00%)
+    Fabric                     Used:    574  Total:   4608   (12.46%)
+    Fabric IO (W/ clocks)      Used:      2  Total:     94   (2.13%)
     Fabric Differential IO     Used:      0  Total:     47   (0.00%)
     Dedicated Analog IO        Used:      0  Total:     32   (0.00%)
     Dedicated MSS IO           Used:      5  Total:     43   (11.63%)
@@ -448,15 +408,15 @@ Core Information:
 
     Type    | Instances    | Core tiles
     --------|--------------|-----------
-    COMB    | 0            | 0
-    SEQ     | 0            | 0
+    COMB    | 508          | 508
+    SEQ     | 66           | 66
 
 I/O Function:
 
     Type                                  | w/o register  | w/ register  | w/ DDR register
     --------------------------------------|---------------|--------------|----------------
     Input I/O                             | 0             | 0            | 0
-    Output I/O                            | 0             | 0            | 0
+    Output I/O                            | 2             | 0            | 0
     Bidirectional I/O                     | 0             | 0            | 0
     Differential Input I/O Pairs          | 0             | 0            | 0
     Differential Output I/O Pairs         | 0             | 0            | 0
@@ -467,9 +427,71 @@ I/O Technology:
     --------------------------------|-------|-------|-------|--------|--------------
     I/O Standard(s)                 | Vcci  | Vref  | Input | Output | Bidirectional
     --------------------------------|-------|-------|-------|--------|--------------
+    LVTTL                           | 3.30v | N/A   | 0     | 2      | 0
+
+I/O Placement:
+
+    Locked  :   2 ( 100.00% )
+    Placed  :   0
+    UnPlaced:   0
 
 Net information report:
 =======================
+
+The following nets have been assigned to a chip global resource:
+    Fanout  Type          Name
+    --------------------------
+    67      CLK_NET       Net   : FAB_CLK
+                          Driver: infr_0/MSS_CCC_0/I_MSSCCC
+                          Source: ESSENTIAL
+
+High fanout nets in the post compile netlist:
+    Fanout  Type          Name
+    --------------------------
+    9       INT_NET       Net   : servo_ctrl_0/count[18]
+                          Driver: servo_ctrl_0/count[18]
+    9       INT_NET       Net   : servo_ctrl_1/count[18]
+                          Driver: servo_ctrl_1/count[18]
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[16]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[17]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[18]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[25]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[26]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[28]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[29]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[30]
+                          Driver: infr_0/MSS_ADLIB_INST
+
+Nets that are candidates for clock assignment and the resulting fanout:
+    Fanout  Type          Name
+    --------------------------
+    9       INT_NET       Net   : servo_ctrl_0/count[18]
+                          Driver: servo_ctrl_0/count[18]
+    9       INT_NET       Net   : servo_ctrl_1/count[18]
+                          Driver: servo_ctrl_1/count[18]
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[16]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[17]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[18]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[25]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[26]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[28]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[29]
+                          Driver: infr_0/MSS_ADLIB_INST
+    8       INT_NET       Net   : CoreAPB3_0_APBmslave0_PWDATA[30]
+                          Driver: infr_0/MSS_ADLIB_INST
 
 The Compile command succeeded ( 00:00:01 )
 Wrote status report to file: ir_compile_report.txt
@@ -481,8 +503,8 @@ The Report command succeeded ( 00:00:00 )
 Wrote pin report to file: ir_report_pin_bynumber.txt
 
 The Report command succeeded ( 00:00:01 )
-Design saved to file C:\Users\phammel\Desktop\starter\irc\designer\impl1\ir.adb.
+Design saved to file C:\Users\fuhu\Desktop\373final\irc\designer\impl1\ir.adb.
 
-The Execute Script command succeeded ( 00:00:04 )
+The Execute Script command succeeded ( 00:00:05 )
 Design closed.
 

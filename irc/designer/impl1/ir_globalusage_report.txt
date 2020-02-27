@@ -5,9 +5,16 @@
 Product: Designer
 Release: v11.9
 Version: 11.9.0.4
-Date: Wed Feb 26 19:20:05 2020
+Date: Thu Feb 27 17:24:27 2020
 Design Name: ir  Family: SmartFusion  Die: A2F200M3F  Package: 484 FBGA
 Design State: Post-Layout
+
+The following nets have been routed to a chip global resource:
+
+    Fanout            Name
+    ----------------------
+    67                Net   : FAB_CLK
+                      Driver: infr_0/MSS_CCC_0/I_MSSCCC/U_TILE1
 
 
 

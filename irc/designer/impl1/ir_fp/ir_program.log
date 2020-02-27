@@ -3,23 +3,22 @@ Version: 11.9.0.4
 Release: v11.9
 
 Software Version: 11.9.0.4
-PDB file 'C:\Users\phammel\Desktop\starter\irc\designer\impl1\ir_fp\ir.pdb' has been loaded
+PDB file 'C:\Users\fuhu\Desktop\373final\irc\designer\impl1\ir_fp\ir.pdb' has been loaded
 successfully.
-DESIGN : ir;  CHECKSUM : 7226;  PDB_VERSION : 1.9
+DESIGN : ir;  CHECKSUM : A1B6;  PDB_VERSION : 1.9
 Driver : 3.0.0 build 1
 programmer '80607' : FlashPro3
-Opened 'C:\Users\phammel\Desktop\starter\irc\designer\impl1\ir_fp\ir.pro'
+Opened 'C:\Users\fuhu\Desktop\373final\irc\designer\impl1\ir_fp\ir.pro'
 The 'open_project' command succeeded.
 The 'set_programming_file' command succeeded.
 The 'set_device_type' command succeeded.
 The 'set_device_package' command succeeded.
 Info: Adding Flash Memory data from file
-      C:\Users\phammel\Desktop\starter\irc\component\work\infr\MSS_ENVM_0\MSS_ENVM_0.efc.
-Info: Adding FPGA Array data from file
-      C:\Users\phammel\Desktop\starter\irc\designer\impl1\ir.fdb.
-PDB file 'C:\Users\phammel\Desktop\starter\irc\designer\impl1\ir_fp\ir.pdb' has been loaded
+      C:\Users\fuhu\Desktop\373final\irc\component\work\infr\MSS_ENVM_0\MSS_ENVM_0.efc.
+Info: Adding FPGA Array data from file C:\Users\fuhu\Desktop\373final\irc\designer\impl1\ir.fdb.
+PDB file 'C:\Users\fuhu\Desktop\373final\irc\designer\impl1\ir_fp\ir.pdb' has been loaded
 successfully.
-DESIGN : ir;  CHECKSUM : 7226;  PDB_VERSION : 1.9
+DESIGN : ir;  CHECKSUM : 538D;  PDB_VERSION : 1.9
 The 'update_programming_file' command succeeded.
 The 'set_programming_action' command succeeded.
 programmer '80607' : Scan Chain...
@@ -30,13 +29,13 @@ programmer '80607' : Executing action PROGRAM
 programmer '80607' : EXPORT FSN[48] = 014b3e64a490
 programmer '80607' : Erase ...
 programmer '80607' : Completed erase
-programmer '80607' : EXPORT CHECKSUM[16] = 7226
+programmer '80607' : EXPORT CHECKSUM[16] = 538d
 programmer '80607' : Programming FPGA Array
 programmer '80607' : Verifying FPGA Array
 programmer '80607' :         Verifying FPGA Array -- pass
 programmer '80607' : Program System Init and Boot Clients...
 programmer '80607' : Verify System Init and Boot Clients...
-programmer '80607' : Finished: Wed Feb 26 19:22:11 2020 (Elapsed time 00:00:34)
+programmer '80607' : Finished: Thu Feb 27 17:25:36 2020 (Elapsed time 00:00:33)
 programmer '80607' : Executing action PROGRAM PASSED.
 
                         o - o - o - o - o - o

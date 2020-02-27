@@ -1,6 +1,6 @@
 <project name="ir" version="1.1">
     <ProjectDirectory>
-        C:\Users\phammel\Desktop\starter\irc\designer\impl1\ir_fp
+        C:\Users\fuhu\Desktop\373final\irc\designer\impl1\ir_fp
     </ProjectDirectory>
     <View>
         SingleSTAPLView
@@ -9,7 +9,7 @@
         
     </LiberoTargetDevice>
     <LogFile>
-        C:\Users\phammel\Desktop\starter\irc\designer\impl1\ir_fp\ir.log
+        C:\Users\fuhu\Desktop\373final\irc\designer\impl1\ir_fp\ir.log
     </LogFile>
     <SerializationOption>
         Skip
@@ -74,7 +74,7 @@
         </Hardware>
         <Algo type="PDB">
             <filename>
-                C:\Users\phammel\Desktop\starter\irc\designer\impl1\ir_fp\ir.pdb
+                C:\Users\fuhu\Desktop\373final\irc\designer\impl1\ir_fp\ir.pdb
             </filename>
             <local>
                 projectData\ir.pdb

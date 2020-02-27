@@ -1,14 +1,17 @@
 Microsemi Corporation - Microsemi Libero Software Release v11.9 (Version 11.9.0.4)
 
-Date      :  Wed Feb 26 19:19:41 2020
-Project   :  C:\Users\phammel\Desktop\starter\irc
+Date      :  Thu Feb 27 17:23:41 2020
+Project   :  C:\Users\fuhu\Desktop\373final\irc
 Component :  ir
 Family    :  SmartFusion
 
 
 HDL source files for all Synthesis and Simulation tools:
-    C:/Users/phammel/Desktop/starter/irc/component/work/ir/ir.v
+    C:/Users/fuhu/Desktop/373final/irc/component/Actel/DirectCore/CoreAPB3/4.1.100/rtl/vlog/core/coreapb3.v
+    C:/Users/fuhu/Desktop/373final/irc/component/Actel/DirectCore/CoreAPB3/4.1.100/rtl/vlog/core/coreapb3_iaddr_reg.v
+    C:/Users/fuhu/Desktop/373final/irc/component/Actel/DirectCore/CoreAPB3/4.1.100/rtl/vlog/core/coreapb3_muxptob3.v
+    C:/Users/fuhu/Desktop/373final/irc/component/work/ir/ir.v
 
 Stimulus files for all Simulation tools:
-    C:/Users/phammel/Desktop/starter/irc/component/work/ir/subsystem.bfm
+    C:/Users/fuhu/Desktop/373final/irc/component/work/ir/subsystem.bfm
 

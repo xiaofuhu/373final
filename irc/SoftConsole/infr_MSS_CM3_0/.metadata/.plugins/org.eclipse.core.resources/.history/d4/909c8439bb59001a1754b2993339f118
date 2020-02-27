@@ -1,0 +1,146 @@
+#include <stdio.h>
+#include <inttypes.h>
+#include "drivers/mss_i2c/mss_i2c.h"
+
+/*the target address is a 7 bit value! */
+#define TARGET_ADDRESS	0x58
+#define REG_BASE_0  	0x40050000
+#define REG_BASE_1  	0x40050100
+
+#define HALF_X			512
+#define HALF_Y			390
+uint32_t* servo_hor = (uint32_t*)REG_BASE_0;
+uint32_t* servo_ver = (uint32_t*)REG_BASE_1;
+uint32_t hor_pw = 150000;
+uint32_t ver_pw = 150000;
+
+
+int main()
+{
+	printf("Begin... \n\r");
+	uint8_t transmit_buf0[] = { 0x30,0x01 };
+	uint8_t transmit_buf1[] = { 0x30,0x08 };
+	uint8_t transmit_buf2[] = { 0x06,0x90 };
+	uint8_t transmit_buf3[] = { 0x08,0xC0 };
+	uint8_t transmit_buf4[] = { 0x1A,0x40 };
+	uint8_t transmit_buf5[] = { 0x33,0x33 };
+	uint8_t receive_buf[16];
+
+	MSS_I2C_init(&g_mss_i2c1 , TARGET_ADDRESS, MSS_I2C_PCLK_DIV_256 );
+
+	MSS_I2C_write
+	(
+		&g_mss_i2c1,
+		TARGET_ADDRESS,
+		transmit_buf0,
+		sizeof(transmit_buf0),
+		MSS_I2C_RELEASE_BUS
+	);
+	MSS_I2C_wait_complete(&g_mss_i2c1, MSS_I2C_NO_TIMEOUT);
+
+	MSS_I2C_write
+	(
+		&g_mss_i2c1,
+		TARGET_ADDRESS,
+		transmit_buf1,
+		sizeof(transmit_buf1),
+		MSS_I2C_RELEASE_BUS
+	);
+	MSS_I2C_wait_complete(&g_mss_i2c1, MSS_I2C_NO_TIMEOUT);
+
+	MSS_I2C_write
+	(
+		&g_mss_i2c1,
+		TARGET_ADDRESS,
+		transmit_buf2,
+		sizeof(transmit_buf2),
+		MSS_I2C_RELEASE_BUS
+	);
+	MSS_I2C_wait_complete(&g_mss_i2c1, MSS_I2C_NO_TIMEOUT);
+
+	MSS_I2C_write
+	(
+		&g_mss_i2c1,
+		TARGET_ADDRESS,
+		transmit_buf3,
+		sizeof(transmit_buf3),
+		MSS_I2C_RELEASE_BUS
+	);
+	MSS_I2C_wait_complete(&g_mss_i2c1, MSS_I2C_NO_TIMEOUT);
+
+	MSS_I2C_write
+	(
+		&g_mss_i2c1,
+		TARGET_ADDRESS,
+		transmit_buf4,
+		sizeof(transmit_buf4),
+		MSS_I2C_RELEASE_BUS
+	);
+	MSS_I2C_wait_complete(&g_mss_i2c1, MSS_I2C_NO_TIMEOUT);
+
+	MSS_I2C_write
+	(
+		&g_mss_i2c1,
+		TARGET_ADDRESS,
+		transmit_buf5,
+		sizeof(transmit_buf5),
+		MSS_I2C_RELEASE_BUS
+	);
+	MSS_I2C_wait_complete(&g_mss_i2c1, MSS_I2C_NO_TIMEOUT);
+
+	uint8_t write_val[] = { 0x36 };
+	while (1) {
+		MSS_I2C_write
+		(
+			&g_mss_i2c1,
+			TARGET_ADDRESS,
+			write_val,
+			sizeof(write_val),
+			MSS_I2C_RELEASE_BUS
+		);
+		MSS_I2C_wait_complete(&g_mss_i2c1, MSS_I2C_NO_TIMEOUT);
+
+		MSS_I2C_read
+		(
+			&g_mss_i2c1,
+			TARGET_ADDRESS,
+			receive_buf,
+			sizeof(receive_buf),
+			MSS_I2C_RELEASE_BUS
+		);
+		MSS_I2C_wait_complete(&g_mss_i2c1, MSS_I2C_NO_TIMEOUT);
+
+		int x = receive_buf[1];
+		int y = receive_buf[2];
+		int s = receive_buf[3];
+		x += (s & 0x30) << 4;
+		y += (s & 0xc0) << 2;
+
+		// adjust servo
+		if (x > HALF_X && x < 1000 && hor_pw > 90000) {
+			hor_pw -= 10;
+		} else if (x < HALF_X && hor_pw < 210000) {
+			hor_pw += 10;
+		} else {
+			hor_pw = 150000;
+		}
+		if (y > HALF_Y && y < 1000 && ver_pw > 90000) {
+			ver_pw -= 10;
+		} else if (y < HALF_Y && ver_pw < 210000) {
+			ver_pw += 10;
+		} else {
+			ver_pw = 150000;
+		}
+		*servo_hor = 150000;
+//		*servo_ver = ver_pw;
+		int i = 0;
+		while (i < 5000) {
+			i++;
+		}
+
+		printf("HERE: %d    %d    %d     %u     %u\n\r", x,y,s, hor_pw, ver_pw);
+	}
+
+
+}
+

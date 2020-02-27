@@ -1,15 +1,20 @@
 #--  Synopsys, Inc.
 #--  Version L-2016.09M-SP1-5
-#--  Project file C:\Users\phammel\Desktop\starter\irc\synthesis\run_options.txt
-#--  Written on Wed Feb 26 19:19:46 2020
+#--  Project file C:\Users\fuhu\Desktop\373final\irc\synthesis\run_options.txt
+#--  Written on Thu Feb 27 17:23:59 2020
 
 
 #project files
-add_file -verilog "C:/Users/phammel/Desktop/starter/irc/component/Actel/SmartFusionMSS/MSS/2.5.200/mss_comps.v"
-add_file -verilog "C:/Users/phammel/Desktop/starter/irc/component/work/infr/mss_tshell.v"
-add_file -verilog "C:/Users/phammel/Desktop/starter/irc/component/work/infr/MSS_CCC_0/infr_tmp_MSS_CCC_0_MSS_CCC.v"
-add_file -verilog "C:/Users/phammel/Desktop/starter/irc/component/work/infr/infr.v"
-add_file -verilog "C:/Users/phammel/Desktop/starter/irc/component/work/ir/ir.v"
+add_file -verilog "C:/Users/fuhu/Desktop/373final/irc/component/Actel/SmartFusionMSS/MSS/2.5.200/mss_comps.v"
+add_file -verilog "C:/Users/fuhu/Desktop/373final/irc/component/work/infr/mss_tshell.v"
+add_file -verilog "C:/Users/fuhu/Desktop/373final/irc/component/work/infr/MSS_CCC_0/infr_tmp_MSS_CCC_0_MSS_CCC.v"
+add_file -verilog "C:/Users/fuhu/Desktop/373final/irc/component/work/infr/infr.v"
+add_file -verilog "C:/Users/fuhu/Desktop/373final/irc/hdl/servo_ctrl.v"
+add_file -verilog -lib COREAPB3_LIB "C:/Users/fuhu/Desktop/373final/irc/component/Actel/DirectCore/CoreAPB3/4.1.100/rtl/vlog/core/coreapb3_muxptob3.v"
+add_file -verilog -lib COREAPB3_LIB "C:/Users/fuhu/Desktop/373final/irc/component/Actel/DirectCore/CoreAPB3/4.1.100/rtl/vlog/core/coreapb3_iaddr_reg.v"
+add_file -verilog -lib COREAPB3_LIB "C:/Users/fuhu/Desktop/373final/irc/component/Actel/DirectCore/CoreAPB3/4.1.100/rtl/vlog/core/coreapb3.v"
+add_file -verilog "C:/Users/fuhu/Desktop/373final/irc/component/work/ir/ir.v"
+add_file -constraint "C:/Users/fuhu/Desktop/373final/irc/component/work/infr/mss_tshell_syn.sdc"
 
 
 

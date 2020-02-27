@@ -2,7 +2,7 @@ Timing Report Max Delay Analysis
 
 SmartTime Version v11.9
 Microsemi Corporation - Microsemi Libero Software Release v11.9 (Version 11.9.0.4)
-Date: Wed Feb 26 19:20:11 2020
+Date: Thu Feb 27 17:24:33 2020
 
 
 Design: ir
@@ -46,6 +46,14 @@ Required Period (ns):       10.000
 Required Frequency (MHz):   100.000
 External Setup (ns):        N/A
 Max Clock-To-Out (ns):      N/A
+
+Clock Domain:               mss_ccc_gla1
+Period (ns):                11.824
+Frequency (MHz):            84.574
+Required Period (ns):       10.000
+Required Frequency (MHz):   100.000
+External Setup (ns):        N/A
+Max Clock-To-Out (ns):      11.954
 
 Clock Domain:               mss_ccc_gla0
 Period (ns):                12.500
@@ -219,6 +227,341 @@ END SET Asynchronous to Register
 
 ----------------------------------------------------
 
+Clock Domain mss_ccc_gla1
+
+SET Register to Register
+
+Path 1
+  From:                  servo_ctrl_0/count[6]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            11.324
+  Slack (ns):            -1.824
+  Arrival (ns):          16.572
+  Required (ns):         14.748
+  Setup (ns):            0.490
+  Minimum Period (ns):   11.824
+
+Path 2
+  From:                  servo_ctrl_0/count[5]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            11.268
+  Slack (ns):            -1.764
+  Arrival (ns):          16.512
+  Required (ns):         14.748
+  Setup (ns):            0.490
+  Minimum Period (ns):   11.764
+
+Path 3
+  From:                  servo_ctrl_0/count[9]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.802
+  Slack (ns):            -1.317
+  Arrival (ns):          16.065
+  Required (ns):         14.748
+  Setup (ns):            0.490
+  Minimum Period (ns):   11.317
+
+Path 4
+  From:                  servo_ctrl_0/count[0]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.594
+  Slack (ns):            -1.084
+  Arrival (ns):          15.832
+  Required (ns):         14.748
+  Setup (ns):            0.490
+  Minimum Period (ns):   11.084
+
+Path 5
+  From:                  servo_ctrl_0/count[8]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.502
+  Slack (ns):            -0.992
+  Arrival (ns):          15.740
+  Required (ns):         14.748
+  Setup (ns):            0.490
+  Minimum Period (ns):   10.992
+
+
+Expanded Path 1
+  From: servo_ctrl_0/count[6]:CLK
+  To: servo_ctrl_0/pwm:D
+  data required time                             14.748
+  data arrival time                          -   16.572
+  slack                                          -1.824
+  ________________________________________________________
+  Data arrival time calculation
+  0.000                        mss_ccc_gla1
+               +     0.000          Clock source
+  0.000                        infr_0/MSS_CCC_0/I_MSSCCC/U_MSSCCC:GLA (r)
+               +     4.630          Clock generation
+  4.630
+               +     0.000          net: infr_0/MSS_CCC_0/I_MSSCCC/GLA_INT
+  4.630                        infr_0/MSS_CCC_0/I_MSSCCC/U_TILE1:PIN5INT (r)
+               +     0.000          cell: ADLIB:MSS_CCC_GL_IF
+  4.630                        infr_0/MSS_CCC_0/I_MSSCCC/U_TILE1:PIN5 (r)
+               +     0.618          net: FAB_CLK
+  5.248                        servo_ctrl_0/count[6]:CLK (r)
+               +     0.671          cell: ADLIB:DFN1
+  5.919                        servo_ctrl_0/count[6]:Q (f)
+               +     0.939          net: servo_ctrl_0/count[6]
+  6.858                        servo_ctrl_0/un1_count_1_0_I_116:B (f)
+               +     0.592          cell: ADLIB:OR2A
+  7.450                        servo_ctrl_0/un1_count_1_0_I_116:Y (f)
+               +     0.306          net: servo_ctrl_0/N_12
+  7.756                        servo_ctrl_0/un1_count_1_0_I_122:C (f)
+               +     0.641          cell: ADLIB:AO1C
+  8.397                        servo_ctrl_0/un1_count_1_0_I_122:Y (r)
+               +     0.296          net: servo_ctrl_0/N_18
+  8.693                        servo_ctrl_0/un1_count_1_0_I_125:B (r)
+               +     0.829          cell: ADLIB:OA1A
+  9.522                        servo_ctrl_0/un1_count_1_0_I_125:Y (r)
+               +     0.306          net: servo_ctrl_0/N_21
+  9.828                        servo_ctrl_0/un1_count_1_0_I_126:A (r)
+               +     0.895          cell: ADLIB:OA1
+  10.723                       servo_ctrl_0/un1_count_1_0_I_126:Y (r)
+               +     0.944          net: servo_ctrl_0/DWACT_CMPLE_PO2_DWACT_COMP0_E_0[0]
+  11.667                       servo_ctrl_0/un1_count_1_0_I_138:C (r)
+               +     0.596          cell: ADLIB:AO1
+  12.263                       servo_ctrl_0/un1_count_1_0_I_138:Y (r)
+               +     1.045          net: servo_ctrl_0/DWACT_CMPLE_PO2_DWACT_COMP0_E[2]
+  13.308                       servo_ctrl_0/un1_count_1_0_I_139:B (r)
+               +     0.516          cell: ADLIB:AO1
+  13.824                       servo_ctrl_0/un1_count_1_0_I_139:Y (r)
+               +     1.014          net: servo_ctrl_0/DWACT_COMP0_E[2]
+  14.838                       servo_ctrl_0/un1_count_1_0_I_140:B (r)
+               +     0.516          cell: ADLIB:AO1
+  15.354                       servo_ctrl_0/un1_count_1_0_I_140:Y (r)
+               +     0.306          net: servo_ctrl_0/un1_count_1
+  15.660                       servo_ctrl_0/pwm_RNO:C (r)
+               +     0.606          cell: ADLIB:NOR3C
+  16.266                       servo_ctrl_0/pwm_RNO:Y (r)
+               +     0.306          net: servo_ctrl_0/pwm4
+  16.572                       servo_ctrl_0/pwm:D (r)
+                                    
+  16.572                       data arrival time
+  ________________________________________________________
+  Data required time calculation
+  10.000                       mss_ccc_gla1
+               +     0.000          Clock source
+  10.000                       infr_0/MSS_CCC_0/I_MSSCCC/U_MSSCCC:GLA (r)
+               +     4.630          Clock generation
+  14.630
+               +     0.000          net: infr_0/MSS_CCC_0/I_MSSCCC/GLA_INT
+  14.630                       infr_0/MSS_CCC_0/I_MSSCCC/U_TILE1:PIN5INT (r)
+               +     0.000          cell: ADLIB:MSS_CCC_GL_IF
+  14.630                       infr_0/MSS_CCC_0/I_MSSCCC/U_TILE1:PIN5 (r)
+               +     0.608          net: FAB_CLK
+  15.238                       servo_ctrl_0/pwm:CLK (r)
+               -     0.490          Library setup time: ADLIB:DFN1
+  14.748                       servo_ctrl_0/pwm:D
+                                    
+  14.748                       data required time
+
+
+END SET Register to Register
+
+----------------------------------------------------
+
+SET External Setup
+
+No Path
+
+END SET External Setup
+
+----------------------------------------------------
+
+SET Clock to Output
+
+Path 1
+  From:                  servo_ctrl_1/pwm:CLK
+  To:                    pwm1
+  Delay (ns):            6.710
+  Slack (ns):
+  Arrival (ns):          11.954
+  Required (ns):
+  Clock to Out (ns):     11.954
+
+Path 2
+  From:                  servo_ctrl_0/pwm:CLK
+  To:                    pwm0
+  Delay (ns):            6.548
+  Slack (ns):
+  Arrival (ns):          11.786
+  Required (ns):
+  Clock to Out (ns):     11.786
+
+
+Expanded Path 1
+  From: servo_ctrl_1/pwm:CLK
+  To: pwm1
+  data required time                             N/C
+  data arrival time                          -   11.954
+  slack                                          N/C
+  ________________________________________________________
+  Data arrival time calculation
+  0.000                        mss_ccc_gla1
+               +     0.000          Clock source
+  0.000                        infr_0/MSS_CCC_0/I_MSSCCC/U_MSSCCC:GLA (r)
+               +     4.630          Clock generation
+  4.630
+               +     0.000          net: infr_0/MSS_CCC_0/I_MSSCCC/GLA_INT
+  4.630                        infr_0/MSS_CCC_0/I_MSSCCC/U_TILE1:PIN5INT (r)
+               +     0.000          cell: ADLIB:MSS_CCC_GL_IF
+  4.630                        infr_0/MSS_CCC_0/I_MSSCCC/U_TILE1:PIN5 (r)
+               +     0.614          net: FAB_CLK
+  5.244                        servo_ctrl_1/pwm:CLK (r)
+               +     0.671          cell: ADLIB:DFN1
+  5.915                        servo_ctrl_1/pwm:Q (f)
+               +     2.140          net: pwm1_c
+  8.055                        pwm1_pad/U0/U1:D (f)
+               +     0.530          cell: ADLIB:IOTRI_OB_EB
+  8.585                        pwm1_pad/U0/U1:DOUT (f)
+               +     0.000          net: pwm1_pad/U0/NET1
+  8.585                        pwm1_pad/U0/U0:D (f)
+               +     3.369          cell: ADLIB:IOPAD_TRI
+  11.954                       pwm1_pad/U0/U0:PAD (f)
+               +     0.000          net: pwm1
+  11.954                       pwm1 (f)
+                                    
+  11.954                       data arrival time
+  ________________________________________________________
+  Data required time calculation
+  N/C                          mss_ccc_gla1
+               +     0.000          Clock source
+  N/C                          infr_0/MSS_CCC_0/I_MSSCCC/U_MSSCCC:GLA (r)
+               +     4.630          Clock generation
+  N/C
+                                    
+  N/C                          pwm1 (f)
+
+
+END SET Clock to Output
+
+----------------------------------------------------
+
+SET Register to Asynchronous
+
+No Path
+
+END SET Register to Asynchronous
+
+----------------------------------------------------
+
+SET External Recovery
+
+No Path
+
+END SET External Recovery
+
+----------------------------------------------------
+
+SET Asynchronous to Register
+
+No Path
+
+END SET Asynchronous to Register
+
+----------------------------------------------------
+
+SET mss_fabric_interface_clock to mss_ccc_gla1
+
+Path 1
+  From:                  infr_0/MSS_ADLIB_INST/U_CORE:GLB
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            14.492
+  Slack (ns):            -3.299
+  Arrival (ns):          18.047
+  Required (ns):         14.748
+  Setup (ns):            0.490
+
+Path 2
+  From:                  infr_0/MSS_ADLIB_INST/U_CORE:GLB
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            14.060
+  Slack (ns):            -2.861
+  Arrival (ns):          17.615
+  Required (ns):         14.754
+  Setup (ns):            0.490
+
+
+Expanded Path 1
+  From: infr_0/MSS_ADLIB_INST/U_CORE:GLB
+  To: servo_ctrl_0/pwm:D
+  data required time                             14.748
+  data arrival time                          -   18.047
+  slack                                          -3.299
+  ________________________________________________________
+  Data arrival time calculation
+  0.000                        mss_fabric_interface_clock
+               +     0.000          Clock source
+  0.000                        infr_0/MSS_ADLIB_INST/U_CORE:GLB (r)
+               +     3.555          Clock generation
+  3.555
+               +     3.518          cell: ADLIB:MSS_APB_IP
+  7.073                        infr_0/MSS_ADLIB_INST/U_CORE:MSSPWDATA[5] (r)
+               +     0.122          net: infr_0/MSS_ADLIB_INST/MSSPWDATA[5]INT_NET
+  7.195                        infr_0/MSS_ADLIB_INST/U_38:PIN2INT (r)
+               +     0.095          cell: ADLIB:MSS_IF
+  7.290                        infr_0/MSS_ADLIB_INST/U_38:PIN2 (r)
+               +     1.042          net: CoreAPB3_0_APBmslave0_PWDATA[5]
+  8.332                        servo_ctrl_0/un1_count_1_0_I_118:A (r)
+               +     0.470          cell: ADLIB:NOR2A
+  8.802                        servo_ctrl_0/un1_count_1_0_I_118:Y (r)
+               +     0.296          net: servo_ctrl_0/N_14
+  9.098                        servo_ctrl_0/un1_count_1_0_I_120:C (r)
+               +     0.698          cell: ADLIB:AO1C
+  9.796                        servo_ctrl_0/un1_count_1_0_I_120:Y (f)
+               +     0.306          net: servo_ctrl_0/N_16
+  10.102                       servo_ctrl_0/un1_count_1_0_I_125:A (f)
+               +     0.895          cell: ADLIB:OA1A
+  10.997                       servo_ctrl_0/un1_count_1_0_I_125:Y (r)
+               +     0.306          net: servo_ctrl_0/N_21
+  11.303                       servo_ctrl_0/un1_count_1_0_I_126:A (r)
+               +     0.895          cell: ADLIB:OA1
+  12.198                       servo_ctrl_0/un1_count_1_0_I_126:Y (r)
+               +     0.944          net: servo_ctrl_0/DWACT_CMPLE_PO2_DWACT_COMP0_E_0[0]
+  13.142                       servo_ctrl_0/un1_count_1_0_I_138:C (r)
+               +     0.596          cell: ADLIB:AO1
+  13.738                       servo_ctrl_0/un1_count_1_0_I_138:Y (r)
+               +     1.045          net: servo_ctrl_0/DWACT_CMPLE_PO2_DWACT_COMP0_E[2]
+  14.783                       servo_ctrl_0/un1_count_1_0_I_139:B (r)
+               +     0.516          cell: ADLIB:AO1
+  15.299                       servo_ctrl_0/un1_count_1_0_I_139:Y (r)
+               +     1.014          net: servo_ctrl_0/DWACT_COMP0_E[2]
+  16.313                       servo_ctrl_0/un1_count_1_0_I_140:B (r)
+               +     0.516          cell: ADLIB:AO1
+  16.829                       servo_ctrl_0/un1_count_1_0_I_140:Y (r)
+               +     0.306          net: servo_ctrl_0/un1_count_1
+  17.135                       servo_ctrl_0/pwm_RNO:C (r)
+               +     0.606          cell: ADLIB:NOR3C
+  17.741                       servo_ctrl_0/pwm_RNO:Y (r)
+               +     0.306          net: servo_ctrl_0/pwm4
+  18.047                       servo_ctrl_0/pwm:D (r)
+                                    
+  18.047                       data arrival time
+  ________________________________________________________
+  Data required time calculation
+  10.000                       mss_ccc_gla1
+               +     0.000          Clock source
+  10.000                       infr_0/MSS_CCC_0/I_MSSCCC/U_MSSCCC:GLA (r)
+               +     4.630          Clock generation
+  14.630
+               +     0.000          net: infr_0/MSS_CCC_0/I_MSSCCC/GLA_INT
+  14.630                       infr_0/MSS_CCC_0/I_MSSCCC/U_TILE1:PIN5INT (r)
+               +     0.000          cell: ADLIB:MSS_CCC_GL_IF
+  14.630                       infr_0/MSS_CCC_0/I_MSSCCC/U_TILE1:PIN5 (r)
+               +     0.608          net: FAB_CLK
+  15.238                       servo_ctrl_0/pwm:CLK (r)
+               -     0.490          Library setup time: ADLIB:DFN1
+  14.748                       servo_ctrl_0/pwm:D
+                                    
+  14.748                       data required time
+
+
+END SET mss_fabric_interface_clock to mss_ccc_gla1
+
+----------------------------------------------------
+
 Clock Domain mss_ccc_gla0
 
 Info: The maximum frequency of this clock domain is limited by the period of pin infr_0/MSS_ADLIB_INST/U_CORE:FCLK
@@ -268,7 +611,7 @@ Expanded Path 1
   N/C                          infr_0/MSS_CCC_0/I_MSSCCC/U_MSSCCC:GLAMSS (r)
                +     2.925          Clock generation
   N/C
-               +     0.630          net: infr_0/MSS_ADLIB_INST_FCLK
+               +     0.630          net: infr_0/GLA0
   N/C                          infr_0/MSS_ADLIB_INST/U_CORE:FCLK (r)
                -    -2.196          Library setup time: ADLIB:MSS_APB_IP
   N/C                          infr_0/MSS_ADLIB_INST/U_CORE:MSSRESETn

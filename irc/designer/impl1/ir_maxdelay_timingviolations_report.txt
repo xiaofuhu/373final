@@ -2,7 +2,7 @@ Timing Violation Report Max Delay Analysis
 
 SmartTime Version v11.9
 Microsemi Corporation - Microsemi Libero Software Release v11.9 (Version 11.9.0.4)
-Date: Wed Feb 26 19:20:11 2020
+Date: Thu Feb 27 17:24:33 2020
 
 
 Design: ir
@@ -20,5 +20,331 @@ Using Enhanced Min Delay Analysis
 Scenario for Timing Analysis: Primary
 
 
-No Path
+Path 1
+  From:                  infr_0/MSS_ADLIB_INST/U_CORE:GLB
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            14.492
+  Slack (ns):            -3.299
+  Arrival (ns):          18.047
+  Required (ns):         14.748
+
+Path 2
+  From:                  infr_0/MSS_ADLIB_INST/U_CORE:GLB
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            14.060
+  Slack (ns):            -2.861
+  Arrival (ns):          17.615
+  Required (ns):         14.754
+
+Path 3
+  From:                  servo_ctrl_0/count[6]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            11.324
+  Slack (ns):            -1.824
+  Arrival (ns):          16.572
+  Required (ns):         14.748
+
+Path 4
+  From:                  servo_ctrl_0/count[5]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            11.268
+  Slack (ns):            -1.764
+  Arrival (ns):          16.512
+  Required (ns):         14.748
+
+Path 5
+  From:                  servo_ctrl_0/count[9]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.802
+  Slack (ns):            -1.317
+  Arrival (ns):          16.065
+  Required (ns):         14.748
+
+Path 6
+  From:                  servo_ctrl_0/count[0]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.594
+  Slack (ns):            -1.084
+  Arrival (ns):          15.832
+  Required (ns):         14.748
+
+Path 7
+  From:                  servo_ctrl_0/count[8]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.502
+  Slack (ns):            -0.992
+  Arrival (ns):          15.740
+  Required (ns):         14.748
+
+Path 8
+  From:                  servo_ctrl_0/count[22]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.405
+  Slack (ns):            -0.895
+  Arrival (ns):          15.643
+  Required (ns):         14.748
+
+Path 9
+  From:                  servo_ctrl_0/count[10]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.164
+  Slack (ns):            -0.679
+  Arrival (ns):          15.427
+  Required (ns):         14.748
+
+Path 10
+  From:                  servo_ctrl_1/count[1]:CLK
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            10.159
+  Slack (ns):            -0.661
+  Arrival (ns):          15.415
+  Required (ns):         14.754
+
+Path 11
+  From:                  servo_ctrl_0/count[7]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.136
+  Slack (ns):            -0.632
+  Arrival (ns):          15.380
+  Required (ns):         14.748
+
+Path 12
+  From:                  servo_ctrl_0/count[1]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.115
+  Slack (ns):            -0.630
+  Arrival (ns):          15.378
+  Required (ns):         14.748
+
+Path 13
+  From:                  servo_ctrl_0/count[4]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.117
+  Slack (ns):            -0.607
+  Arrival (ns):          15.355
+  Required (ns):         14.748
+
+Path 14
+  From:                  servo_ctrl_0/count[20]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.106
+  Slack (ns):            -0.601
+  Arrival (ns):          15.349
+  Required (ns):         14.748
+
+Path 15
+  From:                  servo_ctrl_1/count[19]:CLK
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            10.109
+  Slack (ns):            -0.580
+  Arrival (ns):          15.334
+  Required (ns):         14.754
+
+Path 16
+  From:                  servo_ctrl_1/count[0]:CLK
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            10.076
+  Slack (ns):            -0.570
+  Arrival (ns):          15.324
+  Required (ns):         14.754
+
+Path 17
+  From:                  servo_ctrl_0/count[27]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.039
+  Slack (ns):            -0.556
+  Arrival (ns):          15.304
+  Required (ns):         14.748
+
+Path 18
+  From:                  servo_ctrl_0/count[11]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.056
+  Slack (ns):            -0.551
+  Arrival (ns):          15.299
+  Required (ns):         14.748
+
+Path 19
+  From:                  servo_ctrl_1/count[6]:CLK
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            10.033
+  Slack (ns):            -0.534
+  Arrival (ns):          15.288
+  Required (ns):         14.754
+
+Path 20
+  From:                  servo_ctrl_0/count[19]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            10.007
+  Slack (ns):            -0.508
+  Arrival (ns):          15.256
+  Required (ns):         14.748
+
+Path 21
+  From:                  servo_ctrl_0/count[3]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            9.981
+  Slack (ns):            -0.471
+  Arrival (ns):          15.219
+  Required (ns):         14.748
+
+Path 22
+  From:                  servo_ctrl_1/count[14]:CLK
+  To:                    servo_ctrl_1/count[29]:D
+  Delay (ns):            9.960
+  Slack (ns):            -0.437
+  Arrival (ns):          15.223
+  Required (ns):         14.786
+
+Path 23
+  From:                  servo_ctrl_0/count[2]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            9.913
+  Slack (ns):            -0.428
+  Arrival (ns):          15.176
+  Required (ns):         14.748
+
+Path 24
+  From:                  servo_ctrl_1/count[5]:CLK
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            9.918
+  Slack (ns):            -0.412
+  Arrival (ns):          15.166
+  Required (ns):         14.754
+
+Path 25
+  From:                  servo_ctrl_1/count[13]:CLK
+  To:                    servo_ctrl_1/count[29]:D
+  Delay (ns):            9.924
+  Slack (ns):            -0.381
+  Arrival (ns):          15.167
+  Required (ns):         14.786
+
+Path 26
+  From:                  servo_ctrl_0/count[25]:CLK
+  To:                    servo_ctrl_0/count[7]:D
+  Delay (ns):            9.854
+  Slack (ns):            -0.370
+  Arrival (ns):          15.092
+  Required (ns):         14.722
+
+Path 27
+  From:                  servo_ctrl_1/count[12]:CLK
+  To:                    servo_ctrl_1/count[29]:D
+  Delay (ns):            9.853
+  Slack (ns):            -0.330
+  Arrival (ns):          15.116
+  Required (ns):         14.786
+
+Path 28
+  From:                  servo_ctrl_1/count[14]:CLK
+  To:                    servo_ctrl_1/count[28]:D
+  Delay (ns):            9.821
+  Slack (ns):            -0.325
+  Arrival (ns):          15.084
+  Required (ns):         14.759
+
+Path 29
+  From:                  servo_ctrl_1/count[10]:CLK
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            9.795
+  Slack (ns):            -0.272
+  Arrival (ns):          15.026
+  Required (ns):         14.754
+
+Path 30
+  From:                  servo_ctrl_1/count[13]:CLK
+  To:                    servo_ctrl_1/count[28]:D
+  Delay (ns):            9.785
+  Slack (ns):            -0.269
+  Arrival (ns):          15.028
+  Required (ns):         14.759
+
+Path 31
+  From:                  servo_ctrl_0/count[14]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            9.776
+  Slack (ns):            -0.251
+  Arrival (ns):          14.999
+  Required (ns):         14.748
+
+Path 32
+  From:                  servo_ctrl_1/count[16]:CLK
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            9.754
+  Slack (ns):            -0.248
+  Arrival (ns):          15.002
+  Required (ns):         14.754
+
+Path 33
+  From:                  servo_ctrl_1/count[12]:CLK
+  To:                    servo_ctrl_1/count[28]:D
+  Delay (ns):            9.727
+  Slack (ns):            -0.231
+  Arrival (ns):          14.990
+  Required (ns):         14.759
+
+Path 34
+  From:                  servo_ctrl_0/count[18]:CLK
+  To:                    servo_ctrl_0/count[7]:D
+  Delay (ns):            9.708
+  Slack (ns):            -0.219
+  Arrival (ns):          14.973
+  Required (ns):         14.754
+
+Path 35
+  From:                  servo_ctrl_0/count[23]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            9.689
+  Slack (ns):            -0.217
+  Arrival (ns):          14.965
+  Required (ns):         14.748
+
+Path 36
+  From:                  servo_ctrl_1/count[2]:CLK
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            9.706
+  Slack (ns):            -0.207
+  Arrival (ns):          14.961
+  Required (ns):         14.754
+
+Path 37
+  From:                  servo_ctrl_1/count[11]:CLK
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            9.683
+  Slack (ns):            -0.173
+  Arrival (ns):          14.927
+  Required (ns):         14.754
+
+Path 38
+  From:                  servo_ctrl_1/count[17]:CLK
+  To:                    servo_ctrl_1/count[29]:D
+  Delay (ns):            9.662
+  Slack (ns):            -0.104
+  Arrival (ns):          14.890
+  Required (ns):         14.786
+
+Path 39
+  From:                  servo_ctrl_1/count[20]:CLK
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            9.588
+  Slack (ns):            -0.089
+  Arrival (ns):          14.843
+  Required (ns):         14.754
+
+Path 40
+  From:                  servo_ctrl_0/count[25]:CLK
+  To:                    servo_ctrl_0/pwm:D
+  Delay (ns):            9.588
+  Slack (ns):            -0.078
+  Arrival (ns):          14.826
+  Required (ns):         14.748
+
+Path 41
+  From:                  servo_ctrl_1/count[23]:CLK
+  To:                    servo_ctrl_1/pwm:D
+  Delay (ns):            9.559
+  Slack (ns):            -0.054
+  Arrival (ns):          14.808
+  Required (ns):         14.754
 
